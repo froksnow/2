@@ -1,750 +1,293 @@
 #EXTM3U
-#EXTINF:-1,EX-YU: Jugoton TV
-http://ksportiptv.xyz:88/sergio/sergio/39492
+#EXTINF:-1,------- Nacionalni & lokalni -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683197
+#EXTINF:-1,RTS 1 FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4979
+#EXTINF:-1,RTS 1 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/670712
+#EXTINF:-1,RTS 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4978
+#EXTINF:-1,RTS 2 [B] RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/10408
+#EXTINF:-1,RTS 3 FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4977
+#EXTINF:-1,RTS 3 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/10407
+#EXTINF:-1,RTS Svet RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/11046
+#EXTINF:-1,N1 TV HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9392
+#EXTINF:-1,N1 TV [B] RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9393
+#EXTINF:-1,Nova S FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5026
+#EXTINF:-1,Prva HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4991
+#EXTINF:-1,Happy TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5044
+#EXTINF:-1,Happy TV [B] RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/11041
+#EXTINF:-1, B92 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5072
+#EXTINF:-1,B92 HD [B] RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9389
+#EXTINF:-1,Studio B FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4973
+#EXTINF:-1,KCN 1 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9365
+#EXTINF:-1,RTV Vojvodina 1 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4976
+#EXTINF:-1,RTV Vojvodina 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4975
+#EXTINF:-1,RTV Novi Pazar RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9385
+#EXTINF:-1,Belle Amie RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/629074
+#EXTINF:-1,Sandzak TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9386
+#EXTINF:-1,Jefimija TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/18919
+#EXTINF:-1,Mlava TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/7888
+#EXTINF:-1,RTK 2 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/680235
+#EXTINF:-1,BK TV HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/674091
+#EXTINF:-1,RTV Bor RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/674050
+#EXTINF:-1,Palma Plus HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5022
+#EXTINF:-1,Leskovac TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/7889
+#EXTINF:-1,TV Istok RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/12386
+#EXTINF:-1,------- Sportski -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683198
+#EXTINF:-1,Arena Sport 1 FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/687925
+#EXTINF:-1,Arena Sport 1 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5465
+#EXTINF:-1,Arena Sport 2 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5463
+#EXTINF:-1,Arena Sport 3 FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5461
+#EXTINF:-1,Arena Sport 4 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5459
+#EXTINF:-1,Arena Sport 5 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5456
+#EXTINF:-1,Sport Klub FHD 1 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/53164
+#EXTINF:-1,Sport Klub FHD 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5444
+#EXTINF:-1,Sport Klub HD 3 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5443
+#EXTINF:-1,Sport Klub 1 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/625234
+#EXTINF:-1,Sport Klub 2 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9407
+#EXTINF:-1,Sport Klub 3 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9406
+#EXTINF:-1,Sport Klub 4 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9405
+#EXTINF:-1,Sport Klub 5 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9404
+#EXTINF:-1,Sport Klub 6 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9403
+#EXTINF:-1,Sport Klub Golf FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/685941
+#EXTINF:-1,Sport Klub 7 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/687779
+#EXTINF:-1,Sport Klub 8 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/687780
+#EXTINF:-1,Sport Klub 9 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/687781
+#EXTINF:-1,Nova Sport HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/674094
+#EXTINF:-1,Eurosport 1 HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5056
+#EXTINF:-1,Eurosport 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5055
+#EXTINF:-1,Crvena Zvezda TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/674090
+#EXTINF:-1,Partizan TV HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13221
+#EXTINF:-1,SOS RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13222
+#EXTINF:-1,------- Pink kanali -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683199
+#EXTINF:-1,Pink HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5021
+#EXTINF:-1,Pink 2 [Red TV] HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5020
+#EXTINF:-1,Pink 3 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5019
+#EXTINF:-1,Pink Action RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5018
+#EXTINF:-1,Pink Bravo RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13348
+#EXTINF:-1,Pink Classic RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9357
+#EXTINF:-1,Pink Comedy RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5016
+#EXTINF:-1,Pink Crime & Mystery RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5015
+#EXTINF:-1,Pink Extra RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5014
+#EXTINF:-1,Pink Family RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13351
+#EXTINF:-1,Pink Fashion RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13350
+#EXTINF:-1,Pink Film RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5011
+#EXTINF:-1,Pink Folk 1 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5013
+#EXTINF:-1,Pink Folk 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5012
+#EXTINF:-1,Pink HaHa RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5010
+#EXTINF:-1,Pink Hits RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5009
+#EXTINF:-1,Pink Hits 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/11027
+#EXTINF:-1,Pink Horror RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5008
+#EXTINF:-1,Pink Kids RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9353
+#EXTINF:-1,Pink Koncert RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9350
+#EXTINF:-1,Pink Kuvar RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5007
+#EXTINF:-1,Pink LOL RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5006
+#EXTINF:-1,Pink Movies RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9356
+#EXTINF:-1,Pink Music RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9351
+#EXTINF:-1,Pink Music 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13349
+#EXTINF:-1,Pink & Roll RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9349
+#EXTINF:-1,Pink Pedia RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5004
+#EXTINF:-1,Pink Plus RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5003
+#EXTINF:-1,Pink Premium RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5002
+#EXTINF:-1,Pink Reality RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5001
+#EXTINF:-1,Pink Romance RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5000
+#EXTINF:-1,Pink SciFi Fantasy RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4997
+#EXTINF:-1,Pink Serije RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4999
+#EXTINF:-1,Pink Show RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4998
+#EXTINF:-1,Pink Soap RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4996
+#EXTINF:-1,Pink Style RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/16427
+#EXTINF:-1,Pink Super Kids RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9352
+#EXTINF:-1,Pink Thriller RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4995
+#EXTINF:-1,Pink Western RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4994
+#EXTINF:-1,Pink World Cinema RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9355
+#EXTINF:-1,Pink World RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9354
+#EXTINF:-1,Pink Zabava RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4993
+#EXTINF:-1,------- Filmovi & Serije -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683200
+#EXTINF:-1,RTS Drama RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/627838
+#EXTINF:-1,Prva Max RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4989
+#EXTINF:-1,Prva Plus RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4990
+#EXTINF:-1,Prva Kick RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/23187
+#EXTINF:-1,Prva World HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/4988
+#EXTINF:-1,Film Klub RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/12395
+#EXTINF:-1,Epic Drama HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13321
+#EXTINF:-1,Kino TV HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/12396
+#EXTINF:-1,Cinemania FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13354
+#EXTINF:-1,Superstar TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/657463
+#EXTINF:-1,------- Obrazovni/Dokumentarni -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683202
+#EXTINF:-1,RTS Trezor RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/627836
+#EXTINF:-1,RTS Zivot RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/627835
+#EXTINF:-1,Lov i Ribolov RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/686002
+#EXTINF:-1,Da Vinci Learning RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/657456
+#EXTINF:-1,Discovery Channel RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/657455
+#EXTINF:-1,Discovery ID RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/686000
+#EXTINF:-1,Discovery Science HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/686001
+#EXTINF:-1,E! FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/686003
+#EXTINF:-1,TV Hram RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/11029
+#EXTINF:-1,------- Rijaliti -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683203
+#EXTINF:-1,Zadruga 1 Live RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/23183
+#EXTINF:-1,Zadruga 2 Live RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/663534
+#EXTINF:-1,Zadruga 3 Live RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/663535
+#EXTINF:-1,Zadruga 4 Live RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/663536
+#EXTINF:-1,Parovi Live 24/7 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/685975
+#EXTINF:-1,------- Decji -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683204
+#EXTINF:-1,Pikaboo RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/23180
+#EXTINF:-1,RTS Poletarac RS 
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/13328
+#EXTINF:-1,Minimax RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9370
+#EXTINF:-1,------- Muzicki -------
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/683205
+#EXTINF:-1,RTS Muzika RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/627837
+#EXTINF:-1,RTS Kolo RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/657464
+#EXTINF:-1,IDJ TV FHD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/11035
+#EXTINF:-1,KCN 3 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9363
+#EXTINF:-1,KCN 2 RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9364
+#EXTINF:-1,DM Sat RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9367
+#EXTINF:-1,Grand TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/5045
+#EXTINF:-1,Grand 2 TV HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/9390
+#EXTINF:-1,TOP TV HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/11028
+#EXTINF:-1,Yu Planet TV RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/639818
+#EXTINF:-1,Duga + RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/657460
+#EXTINF:-1,Kafanska TV HD RS
+http://mypanel.tv:8080/vvloi4qu/nqpupnzs96/674093
+#EXTINF:-1,CityPLAY RS
 
-#EXTINF:-1,EX-YU: OBN
-http://ksportiptv.xyz:88/sergio/sergio/1623
 
-#EXTINF:-1,EX-YU: N1 BiH
-http://ksportiptv.xyz:88/sergio/sergio/13666
 
-#EXTINF:-1,EX-YU: BHT
-http://ksportiptv.xyz:88/sergio/sergio/1605
-
-#EXTINF:-1,EX-YU: BN
-http://ksportiptv.xyz:88/sergio/sergio/1606
-
-#EXTINF:-1,EX-YU: BHT 1
-http://ksportiptv.xyz:88/sergio/sergio/2775
-
-#EXTINF:-1,EX-YU: RTRS
-http://ksportiptv.xyz:88/sergio/sergio/2776
-
-#EXTINF:-1,EX-YU: NOVA BH
-http://ksportiptv.xyz:88/sergio/sergio/1624
-
-#EXTINF:-1,EX-YU: B1 HD
-http://ksportiptv.xyz:88/sergio/sergio/29165
-
-#EXTINF:-1,EX-YU: RTV SLON
-http://ksportiptv.xyz:88/sergio/sergio/38461
-
-#EXTINF:-1,SLO: VOYO TV
-http://ksportiptv.xyz:88/sergio/sergio/50600
-
-#EXTINF:-1,EX-YU: TK Tuzla
-http://ksportiptv.xyz:88/sergio/sergio/2781
-
-#EXTINF:-1,EX-YU: TVSA Sarajevo
-http://ksportiptv.xyz:88/sergio/sergio/2782
-
-#EXTINF:-1,EX-YU: ALFA TV BH
-http://ksportiptv.xyz:88/sergio/sergio/22656
-
-#EXTINF:-1,EX-YU: A TV
-http://ksportiptv.xyz:88/sergio/sergio/29164
-
-#EXTINF:-1,EX-YU: ALFA TV
-http://ksportiptv.xyz:88/sergio/sergio/29166
-
-#EXTINF:-1,EX-YU: O KANAL
-http://ksportiptv.xyz:88/sergio/sergio/2778
-
-#EXTINF:-1,EX-YU: RTV USK
-http://ksportiptv.xyz:88/sergio/sergio/2791
-
-#EXTINF:-1,EX-YU: Hayat HD
-http://ksportiptv.xyz:88/sergio/sergio/1616
-
-#EXTINF:-1,EX-YU: HAYAT PLUS
-http://ksportiptv.xyz:88/sergio/sergio/2779
-
-#EXTINF:-1,EX-YU: Federalna TV
-http://ksportiptv.xyz:88/sergio/sergio/2777
-
-#EXTINF:-1,EX-YU: FACE TV
-http://ksportiptv.xyz:88/sergio/sergio/2780
-
-#EXTINF:-1,EX-YU: HEMA TV
-http://ksportiptv.xyz:88/sergio/sergio/23635
-
-#EXTINF:-1,EX-YU: TV 5
-http://ksportiptv.xyz:88/sergio/sergio/2773
-
-#EXTINF:-1,EX-YU: MTV Igman
-http://ksportiptv.xyz:88/sergio/sergio/2786
-
-#EXTINF:-1,EX-YU: Sandzak TV
-http://ksportiptv.xyz:88/sergio/sergio/2767
-
-#EXTINF:-1,EX-YU: CITY TV MOSTAR
-http://ksportiptv.xyz:88/sergio/sergio/25446
-
-#EXTINF:-1,EX-YU: NTV IC
-http://ksportiptv.xyz:88/sergio/sergio/29167
-
-#EXTINF:-1,EX-YU: RTV Zenica
-http://ksportiptv.xyz:88/sergio/sergio/2788
-
-#EXTINF:-1,EX-YU: PODRINJE
-http://ksportiptv.xyz:88/sergio/sergio/29170
-
-#EXTINF:-1,EX-YU: TV Sehara
-http://ksportiptv.xyz:88/sergio/sergio/2784
-
-#EXTINF:-1,EX-YU: TV Glas Drine
-http://ksportiptv.xyz:88/sergio/sergio/2793
-
-#EXTINF:-1,EX-YU: Otv Valentino
-http://ksportiptv.xyz:88/sergio/sergio/2789
-
-#EXTINF:-1,EX-YU: Posavina TV
-http://ksportiptv.xyz:88/sergio/sergio/1633
-
-#EXTINF:-1,EX-YU: Hayat Folk
-http://ksportiptv.xyz:88/sergio/sergio/1617
-
-#EXTINF:-1,EX-YU: HAYAT MUSIC
-http://ksportiptv.xyz:88/sergio/sergio/2858
-
-#EXTINF:-1,EX-YU: BN Music
-http://ksportiptv.xyz:88/sergio/sergio/1607
-
-#EXTINF:-1,EX-YU: SEVDAH TV
-http://ksportiptv.xyz:88/sergio/sergio/22686
-
-#EXTINF:-1,EX-YU: Hayatovci
-http://ksportiptv.xyz:88/sergio/sergio/2924
-
-#EXTINF:-1,EX-YU: N1 SRB
-http://ksportiptv.xyz:88/sergio/sergio/2765
-
-#EXTINF:-1,EX-YU: RTS 1
-http://ksportiptv.xyz:88/sergio/sergio/1049
-
-#EXTINF:-1,EX-YU: RTS 1 (local)
-http://ksportiptv.xyz:88/sergio/sergio/2746
-
-#EXTINF:-1,EX-YU: RTS 2
-http://ksportiptv.xyz:88/sergio/sergio/1050
-
-#EXTINF:-1,EX-YU: RTS 2 (local)
-http://ksportiptv.xyz:88/sergio/sergio/2747
-
-#EXTINF:-1,EX-YU: RTS 3
-http://ksportiptv.xyz:88/sergio/sergio/2748
-
-#EXTINF:-1,EX-YU: RTS Drama
-http://ksportiptv.xyz:88/sergio/sergio/14350
-
-#EXTINF:-1,EX-YU: RTS Kolo
-http://ksportiptv.xyz:88/sergio/sergio/14351
-
-#EXTINF:-1,EX-YU: RTS Muzika
-http://ksportiptv.xyz:88/sergio/sergio/14352
-
-#EXTINF:-1,EX-YU: RTS Satelit
-http://ksportiptv.xyz:88/sergio/sergio/14355
-
-#EXTINF:-1,EX-YU: RTCG 1
-http://ksportiptv.xyz:88/sergio/sergio/5825
-
-#EXTINF:-1,EX-YU: RTCG 2
-http://ksportiptv.xyz:88/sergio/sergio/5826
-
-#EXTINF:-1,EX-YU: RTCG SAT
-http://ksportiptv.xyz:88/sergio/sergio/2811
-
-#EXTINF:-1,EX-YU: RTL
-http://ksportiptv.xyz:88/sergio/sergio/1635
-
-#EXTINF:-1,EX-YU: RTL 2
-http://ksportiptv.xyz:88/sergio/sergio/2803
-
-#EXTINF:-1,EX-YU: PRVA
-http://ksportiptv.xyz:88/sergio/sergio/2750
-
-#EXTINF:-1,EX-YU: PRVA (local)
-http://ksportiptv.xyz:88/sergio/sergio/2751
-
-#EXTINF:-1,EX-YU: PRVA FILES
-http://ksportiptv.xyz:88/sergio/sergio/25442
-
-#EXTINF:-1,EX-YU: Prva Kick
-http://ksportiptv.xyz:88/sergio/sergio/21678
-
-#EXTINF:-1,EX-YU: Prva MAX
-http://ksportiptv.xyz:88/sergio/sergio/21252
-
-#EXTINF:-1,EX-YU: PRVA Plus
-http://ksportiptv.xyz:88/sergio/sergio/1634
-
-#EXTINF:-1,EX-YU: Prva TV Montenegro
-http://ksportiptv.xyz:88/sergio/sergio/21014
-
-#EXTINF:-1,EX-YU: PRVA World TV
-http://ksportiptv.xyz:88/sergio/sergio/2754
-
-#EXTINF:-1,EX-YU: NOVA M
-http://ksportiptv.xyz:88/sergio/sergio/2812
-
-#EXTINF:-1,EX-YU: Nova RS
-http://ksportiptv.xyz:88/sergio/sergio/2757
-
-#EXTINF:-1,EX-YU: NOVA S HD
-http://ksportiptv.xyz:88/sergio/sergio/23655
-
-#EXTINF:-1,EX-YU: ZADRUGA 1
-http://ksportiptv.xyz:88/sergio/sergio/29136
-
-#EXTINF:-1,EX-YU: ZADRUGA 2
-http://ksportiptv.xyz:88/sergio/sergio/29137
-
-#EXTINF:-1,EX-YU: ZADRUGA 3
-http://ksportiptv.xyz:88/sergio/sergio/29138
-
-#EXTINF:-1,EX-YU: HIT BRCKO
-http://ksportiptv.xyz:88/sergio/sergio/22180
-
-#EXTINF:-1,EX-YU: 24 KITCHEN
-http://ksportiptv.xyz:88/sergio/sergio/2899
-
-#EXTINF:-1,EX-YU: ANIMAL PLANET
-http://ksportiptv.xyz:88/sergio/sergio/2903
-
-#EXTINF:-1,EX-YU: A1 BALKAN
-http://ksportiptv.xyz:88/sergio/sergio/2785
-
-#EXTINF:-1,CRO: HRT 1
-http://ksportiptv.xyz:88/sergio/sergio/1618
-
-#EXTINF:-1,CRO: HRT 1 HD
-http://ksportiptv.xyz:88/sergio/sergio/23005
-
-#EXTINF:-1,CRO: HRT 2
-http://ksportiptv.xyz:88/sergio/sergio/1619
-
-#EXTINF:-1,CRO: HRT 2 HD
-http://ksportiptv.xyz:88/sergio/sergio/22502
-
-#EXTINF:-1,CRO: HRT 3
-http://ksportiptv.xyz:88/sergio/sergio/1620
-
-#EXTINF:-1,CRO: HRT 3 HD
-http://ksportiptv.xyz:88/sergio/sergio/23006
-
-#EXTINF:-1,CRO: HRT 4
-http://ksportiptv.xyz:88/sergio/sergio/1621
-
-#EXTINF:-1,CRO: HRT 4 HD
-http://ksportiptv.xyz:88/sergio/sergio/23007
-
-#EXTINF:-1,CRO: HRT 5
-http://ksportiptv.xyz:88/sergio/sergio/13250
-
-#EXTINF:-1,CRO: NOVA TV
-http://ksportiptv.xyz:88/sergio/sergio/2801
-
-#EXTINF:-1,CRO: NOVA TV HD
-http://ksportiptv.xyz:88/sergio/sergio/1622
-
-#EXTINF:-1,CRO: NOVA HR HD
-http://ksportiptv.xyz:88/sergio/sergio/22144
-
-#EXTINF:-1,CRO: RTL
-http://ksportiptv.xyz:88/sergio/sergio/10859
-
-#EXTINF:-1,CRO: RTL 2
-http://ksportiptv.xyz:88/sergio/sergio/1636
-
-#EXTINF:-1,CRO: RTL Living
-http://ksportiptv.xyz:88/sergio/sergio/1637
-
-#EXTINF:-1,CRO: RTL Passion
-http://ksportiptv.xyz:88/sergio/sergio/13936
-
-#EXTINF:-1,CRO: RTL CRIME
-http://ksportiptv.xyz:88/sergio/sergio/2804
-
-#EXTINF:-1,CRO: RTL KOCKICA
-http://ksportiptv.xyz:88/sergio/sergio/2920
-
-#EXTINF:-1,CRO: CINESTAR ACTION
-http://ksportiptv.xyz:88/sergio/sergio/1609
-
-#EXTINF:-1,CRO: Cinestar Premier 1
-http://ksportiptv.xyz:88/sergio/sergio/1610
-
-#EXTINF:-1,CRO: Cinestar Premier 2
-http://ksportiptv.xyz:88/sergio/sergio/1611
-
-#EXTINF:-1,CRO: CINESTAR FANTASY
-http://ksportiptv.xyz:88/sergio/sergio/7929
-
-#EXTINF:-1,CRO: CINEMAX-1
-http://ksportiptv.xyz:88/sergio/sergio/2885
-
-#EXTINF:-1,CRO: CINEMAX-2
-http://ksportiptv.xyz:88/sergio/sergio/2886
-
-#EXTINF:-1,CRO: DIVA
-http://ksportiptv.xyz:88/sergio/sergio/2795
-
-#EXTINF:-1,CRO: TV Banovina
-http://ksportiptv.xyz:88/sergio/sergio/2806
-
-#EXTINF:-1,CRO: CMC
-http://ksportiptv.xyz:88/sergio/sergio/2861
-
-#EXTINF:-1,CRO: HBO Adria
-http://ksportiptv.xyz:88/sergio/sergio/2879
-
-#EXTINF:-1,CRO: FilmBox Extra
-http://ksportiptv.xyz:88/sergio/sergio/2893
-
-#EXTINF:-1,CRO: Viasat Nature
-http://ksportiptv.xyz:88/sergio/sergio/2906
-
-#EXTINF:-1,CRO: Viasat History
-http://ksportiptv.xyz:88/sergio/sergio/13933
-
-#EXTINF:-1,CRO: Viasat Explorer
-http://ksportiptv.xyz:88/sergio/sergio/13934
-
-#EXTINF:-1,CRO: HNTV
-http://ksportiptv.xyz:88/sergio/sergio/22178
-
-#EXTINF:-1,CRO: Kreator TV
-http://ksportiptv.xyz:88/sergio/sergio/22177
-
-#EXTINF:-1,CRO: SPORTSKA TV SPTV
-http://ksportiptv.xyz:88/sergio/sergio/22176
-
-#EXTINF:-1,CRO: DOKU TV ADRIA
-http://ksportiptv.xyz:88/sergio/sergio/22170
-
-#EXTINF:-1,CRO: AXN SPIN
-http://ksportiptv.xyz:88/sergio/sergio/2813
-
-#EXTINF:-1,CRO: N1 HD
-http://ksportiptv.xyz:88/sergio/sergio/13667
-
-#EXTINF:-1,EX-YU: BALKANIKA
-http://ksportiptv.xyz:88/sergio/sergio/1721
-
-#EXTINF:-1,EX-YU: Cinemania
-http://ksportiptv.xyz:88/sergio/sergio/21012
-
-#EXTINF:-1,EX-YU: Crime & Investigation
-http://ksportiptv.xyz:88/sergio/sergio/2910
-
-#EXTINF:-1,EX-YU: Da Vinci Learning
-http://ksportiptv.xyz:88/sergio/sergio/2911
-
-#EXTINF:-1,EX-YU: Discovery Science HD
-http://ksportiptv.xyz:88/sergio/sergio/21721
-
-#EXTINF:-1,EX-YU: DM Sat
-http://ksportiptv.xyz:88/sergio/sergio/1612
-
-#EXTINF:-1,EX-YU: Docubox
-http://ksportiptv.xyz:88/sergio/sergio/2916
-
-#EXTINF:-1,EX-YU: E!
-http://ksportiptv.xyz:88/sergio/sergio/2907
-
-#EXTINF:-1,EX-YU: Eurosport 1
-http://ksportiptv.xyz:88/sergio/sergio/2948
-
-#EXTINF:-1,EX-YU: Eurosport 2
-http://ksportiptv.xyz:88/sergio/sergio/2949
-
-#EXTINF:-1,EX-YU: Fightbox
-http://ksportiptv.xyz:88/sergio/sergio/2950
-
-#EXTINF:-1,EX-YU: Filmbox HD
-http://ksportiptv.xyz:88/sergio/sergio/25411
-
-#EXTINF:-1,EX-YU: Fox Crime HD
-http://ksportiptv.xyz:88/sergio/sergio/2889
-
-#EXTINF:-1,EX-YU: FOX HD
-http://ksportiptv.xyz:88/sergio/sergio/22146
-
-#EXTINF:-1,EX-YU: Fox Life HD
-http://ksportiptv.xyz:88/sergio/sergio/1615
-
-#EXTINF:-1,EX-YU: Fox Movies HD
-http://ksportiptv.xyz:88/sergio/sergio/2888
-
-#EXTINF:-1,EX-YU: Fox Movies HD (HR SUB)
-http://ksportiptv.xyz:88/sergio/sergio/13759
-
-#EXTINF:-1,EX-YU: Grand TV
-http://ksportiptv.xyz:88/sergio/sergio/2859
-
-#EXTINF:-1,EX-YU: Happy (local)
-http://ksportiptv.xyz:88/sergio/sergio/2756
-
-#EXTINF:-1,EX-YU: Happy Parovi 24/7
-http://ksportiptv.xyz:88/sergio/sergio/9594
-
-#EXTINF:-1,EX-YU: HBO (HD)
-http://ksportiptv.xyz:88/sergio/sergio/2743
-
-#EXTINF:-1,EX-YU: HBO 2
-http://ksportiptv.xyz:88/sergio/sergio/2880
-
-#EXTINF:-1,EX-YU: HBO 2 (HD)
-http://ksportiptv.xyz:88/sergio/sergio/2744
-
-#EXTINF:-1,EX-YU: HBO 2 (HD).
-http://ksportiptv.xyz:88/sergio/sergio/954
-
-#EXTINF:-1,EX-YU: HBO 3
-http://ksportiptv.xyz:88/sergio/sergio/2881
-
-#EXTINF:-1,EX-YU: History 2
-http://ksportiptv.xyz:88/sergio/sergio/2901
-
-#EXTINF:-1,EX-YU: HISTORY CHANNEL
-http://ksportiptv.xyz:88/sergio/sergio/2900
-
-#EXTINF:-1,EX-YU: IDJ TV
-http://ksportiptv.xyz:88/sergio/sergio/22660
-
-#EXTINF:-1,EX-YU: Izvorna TV
-http://ksportiptv.xyz:88/sergio/sergio/2860
-
-#EXTINF:-1,EX-YU: KCN 1
-http://ksportiptv.xyz:88/sergio/sergio/2850
-
-#EXTINF:-1,EX-YU: KCN 2
-http://ksportiptv.xyz:88/sergio/sergio/2851
-
-#EXTINF:-1,EX-YU: KCN 3
-http://ksportiptv.xyz:88/sergio/sergio/2852
-
-#EXTINF:-1,EX-YU: Kino TV
-http://ksportiptv.xyz:88/sergio/sergio/21013
-
-#EXTINF:-1,EX-YU: KLASIK TV
-http://ksportiptv.xyz:88/sergio/sergio/2875
-
-#EXTINF:-1,EX-YU: LOV I RIBOLOV
-http://ksportiptv.xyz:88/sergio/sergio/2898
-
-#EXTINF:-1,EX-YU: M1 Film
-http://ksportiptv.xyz:88/sergio/sergio/21679
-
-#EXTINF:-1,EX-YU: M1 Gold
-http://ksportiptv.xyz:88/sergio/sergio/23649
-
-#EXTINF:-1,EX-YU: Mini TV
-http://ksportiptv.xyz:88/sergio/sergio/2925
-
-#EXTINF:-1,EX-YU: Mini TV HR
-http://ksportiptv.xyz:88/sergio/sergio/2926
-
-#EXTINF:-1,EX-YU: Minimax
-http://ksportiptv.xyz:88/sergio/sergio/2922
-
-#EXTINF:-1,EX-YU: NASA TV
-http://ksportiptv.xyz:88/sergio/sergio/25447
-
-#EXTINF:-1,EX-YU: NAT GEO WILD HD
-http://ksportiptv.xyz:88/sergio/sergio/22919
-
-#EXTINF:-1,EX-YU: National Geographic
-http://ksportiptv.xyz:88/sergio/sergio/2902
-
-#EXTINF:-1,EX-YU: NATIONAL GEOGRAPHIC HD (HR)
-http://ksportiptv.xyz:88/sergio/sergio/22058
-
-#EXTINF:-1,EX-YU: O2 (local)
-http://ksportiptv.xyz:88/sergio/sergio/2753
-
-#EXTINF:-1,EX-YU: PAROVI 24 SATA
-http://ksportiptv.xyz:88/sergio/sergio/25434
-
-#EXTINF:-1,EX-YU: Partizan HD
-http://ksportiptv.xyz:88/sergio/sergio/9398
-
-#EXTINF:-1,EX-YU: Pikaboo
-http://ksportiptv.xyz:88/sergio/sergio/22665
-
-#EXTINF:-1,EX-YU: Pink
-http://ksportiptv.xyz:88/sergio/sergio/1004
-
-#EXTINF:-1,EX-YU: PINK 1 (reserve)
-http://ksportiptv.xyz:88/sergio/sergio/2759
-
-#EXTINF:-1,EX-YU: PINK2
-http://ksportiptv.xyz:88/sergio/sergio/1005
-
-#EXTINF:-1,EX-YU: PINK 3
-http://ksportiptv.xyz:88/sergio/sergio/2761
-
-#EXTINF:-1,EX-YU: Pink M
-http://ksportiptv.xyz:88/sergio/sergio/34396
-
-#EXTINF:-1,EX-YU: Pink Action
-http://ksportiptv.xyz:88/sergio/sergio/1006
-
-#EXTINF:-1,EX-YU: Pink Classic
-http://ksportiptv.xyz:88/sergio/sergio/14326
-
-#EXTINF:-1,EX-YU: Pink Comedy
-http://ksportiptv.xyz:88/sergio/sergio/1008
-
-#EXTINF:-1,EX-YU: Pink Crime & Mystery
-http://ksportiptv.xyz:88/sergio/sergio/1684
-
-#EXTINF:-1,EX-YU: Pink Extra
-http://ksportiptv.xyz:88/sergio/sergio/1009
-
-#EXTINF:-1,EX-YU: Pink Family
-http://ksportiptv.xyz:88/sergio/sergio/14328
-
-#EXTINF:-1,EX-YU: Pink Film
-http://ksportiptv.xyz:88/sergio/sergio/1011
-
-#EXTINF:-1,EX-YU: Pink Folk
-http://ksportiptv.xyz:88/sergio/sergio/2869
-
-#EXTINF:-1,EX-YU: Pink Folk 2
-http://ksportiptv.xyz:88/sergio/sergio/2870
-
-#EXTINF:-1,EX-YU: Pink HaHa
-http://ksportiptv.xyz:88/sergio/sergio/14324
-
-#EXTINF:-1,EX-YU: Pink Hits 2
-http://ksportiptv.xyz:88/sergio/sergio/2866
-
-#EXTINF:-1,EX-YU: Pink Horror
-http://ksportiptv.xyz:88/sergio/sergio/1012
-
-#EXTINF:-1,EX-YU: Pink Kids
-http://ksportiptv.xyz:88/sergio/sergio/2919
-
-#EXTINF:-1,EX-YU: Pink Koncert
-http://ksportiptv.xyz:88/sergio/sergio/2865
-
-#EXTINF:-1,EX-YU: Pink Kuvar
-http://ksportiptv.xyz:88/sergio/sergio/2913
-
-#EXTINF:-1,EX-YU: Pink LoL
-http://ksportiptv.xyz:88/sergio/sergio/14325
-
-#EXTINF:-1,EX-YU: PINK MEDIA BIH
-http://ksportiptv.xyz:88/sergio/sergio/21697
-
-#EXTINF:-1,EX-YU: Pink Movies
-http://ksportiptv.xyz:88/sergio/sergio/1013
-
-#EXTINF:-1,EX-YU: Pink Music
-http://ksportiptv.xyz:88/sergio/sergio/2867
-
-#EXTINF:-1,EX-YU: Pink Pedia
-http://ksportiptv.xyz:88/sergio/sergio/1014
-
-#EXTINF:-1,EX-YU: Pink Plus TV
-http://ksportiptv.xyz:88/sergio/sergio/2772
-
-#EXTINF:-1,EX-YU: Pink Premium
-http://ksportiptv.xyz:88/sergio/sergio/1626
-
-#EXTINF:-1,EX-YU: Pink Reality
-http://ksportiptv.xyz:88/sergio/sergio/11452
-
-#EXTINF:-1,EX-YU: Pink Romance
-http://ksportiptv.xyz:88/sergio/sergio/1628
-
-#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
-http://ksportiptv.xyz:88/sergio/sergio/1629
-
-#EXTINF:-1,EX-YU: Pink Serije
-http://ksportiptv.xyz:88/sergio/sergio/1630
-
-#EXTINF:-1,EX-YU: Pink Show
-http://ksportiptv.xyz:88/sergio/sergio/2872
-
-#EXTINF:-1,EX-YU: Pink Soap
-http://ksportiptv.xyz:88/sergio/sergio/2894
-
-#EXTINF:-1,EX-YU: Pink Super Kids
-http://ksportiptv.xyz:88/sergio/sergio/2918
-
-#EXTINF:-1,EX-YU: Pink Thriller
-http://ksportiptv.xyz:88/sergio/sergio/1631
-
-#EXTINF:-1,EX-YU: Pink Western
-http://ksportiptv.xyz:88/sergio/sergio/1632
-
-#EXTINF:-1,EX-YU: Pink World
-http://ksportiptv.xyz:88/sergio/sergio/2914
-
-#EXTINF:-1,EX-YU: Pink World Cinema
-http://ksportiptv.xyz:88/sergio/sergio/14327
-
-#EXTINF:-1,EX-YU: Pink Zabava
-http://ksportiptv.xyz:88/sergio/sergio/2912
-
-#EXTINF:-1,EX-YU: Planet Tv
-http://ksportiptv.xyz:88/sergio/sergio/9306
-
-#EXTINF:-1,EX-YU: Pop Oto
-http://ksportiptv.xyz:88/sergio/sergio/2843
-
-#EXTINF:-1,EX-YU: Roma Tv
-http://ksportiptv.xyz:88/sergio/sergio/4120
-
-#EXTINF:-1,EX-YU: RT Vojvodina 1
-http://ksportiptv.xyz:88/sergio/sergio/2763
-
-#EXTINF:-1,EX-YU: RTS Trezor
-http://ksportiptv.xyz:88/sergio/sergio/14353
-
-#EXTINF:-1,EX-YU: RTS Zivot
-http://ksportiptv.xyz:88/sergio/sergio/14354
-
-#EXTINF:-1,EX-YU: RTV BOR
-http://ksportiptv.xyz:88/sergio/sergio/23098
-
-#EXTINF:-1,EX-YU: RTV Novi Pazar
-http://ksportiptv.xyz:88/sergio/sergio/2768
-
-#EXTINF:-1,EX-YU: Sobraniski Kanal (local)
-http://ksportiptv.xyz:88/sergio/sergio/2828
-
-#EXTINF:-1,EX-YU: SOS (local)
-http://ksportiptv.xyz:88/sergio/sergio/2929
-
-#EXTINF:-1,EX-YU: Studio B
-http://ksportiptv.xyz:88/sergio/sergio/2762
-
-#EXTINF:-1,RO: Taraf Tv
-http://ksportiptv.xyz:88/sergio/sergio/4118
-
-#EXTINF:-1,EX-YU: TLC (local)
-http://ksportiptv.xyz:88/sergio/sergio/2908
-
-#EXTINF:-1,EX-YU: TV 1000
-http://ksportiptv.xyz:88/sergio/sergio/2876
-
-#EXTINF:-1,EX-YU: TV Nasha  (local)
-http://ksportiptv.xyz:88/sergio/sergio/2831
-
-#EXTINF:-1,EX-YU: Z1
-http://ksportiptv.xyz:88/sergio/sergio/2807
-
-#EXTINF:-1,EX-YU: Nova Sport HD
-http://ksportiptv.xyz:88/sergio/sergio/53499
-
-#EXTINF:-1,EX-YU: Maxcro Select 1 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29958
-
-#EXTINF:-1,EX-YU: Maxcro Select 2 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29959
-
-#EXTINF:-1,EX-YU:  Maxcro Select 3 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29960
-
-#EXTINF:-1,EX-YU: Maxcro Select 4 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29961
-
-#EXTINF:-1,EX-YU: Maxcro Select 5 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29962
-
-#EXTINF:-1,EX-YU:  Maxcro Select 6 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29963
-
-#EXTINF:-1,EX-YU: Maxcro Select 8 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29965
-
-#EXTINF:-1,EX-YU: Maxcro Select 9 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29966
-
-#EXTINF:-1,EX-YU: Maxcro Select 10 FHD
-http://ksportiptv.xyz:88/sergio/sergio/29967
-
-#EXTINF:-1,EX-YU : SPORT KLUB 1 HD
-http://ksportiptv.xyz:88/sergio/sergio/1718
-
-#EXTINF:-1,EX-YU : SPORT KLUB 2 HD
-http://ksportiptv.xyz:88/sergio/sergio/1719
-
-#EXTINF:-1,EX-YU : SPORT KLUB 3 HD
-http://ksportiptv.xyz:88/sergio/sergio/1720
-
-#EXTINF:-1,EX-YU: Arena Sport 1 HR FULL HD
-http://ksportiptv.xyz:88/sergio/sergio/863
-
-#EXTINF:-1,EX-YU: Arena Sport 1 SRB HD
-http://ksportiptv.xyz:88/sergio/sergio/864
-
-#EXTINF:-1,EX-YU: Arena Sport 2 HR FULL HD
-http://ksportiptv.xyz:88/sergio/sergio/865
-
-#EXTINF:-1,EX-YU: Arena Sport 2 SRB HD
-http://ksportiptv.xyz:88/sergio/sergio/866
-
-#EXTINF:-1,EX-YU: Arena Sport 3 HR FULL HD
-http://ksportiptv.xyz:88/sergio/sergio/867
-
-#EXTINF:-1,EX-YU: Arena Sport 3 SRB HD
-http://ksportiptv.xyz:88/sergio/sergio/868
-
-#EXTINF:-1,EX-YU: Arena Sport 4 HR FULL HD
-http://ksportiptv.xyz:88/sergio/sergio/869
-
-#EXTINF:-1,EX-YU: Arena Sport 4 SRB HD
-http://ksportiptv.xyz:88/sergio/sergio/870
-
-#EXTINF:-1,EX-YU: Arena Sport 5 HR FULL HD
-http://ksportiptv.xyz:88/sergio/sergio/871
-
-#EXTINF:-1,EX-YU: Arena Sport 5 SRB
-http://ksportiptv.xyz:88/sergio/sergio/1458
-
-#EXTINF:-1,EX:YU: ARENA SPORT 6 HR
-http://ksportiptv.xyz:88/sergio/sergio/2941
-
-#EXTINF:-1,EX-YU: Sport Klub 1 HR
-http://ksportiptv.xyz:88/sergio/sergio/1132
-
-#EXTINF:-1,EX-YU: Sport Klub 2 HR
-http://ksportiptv.xyz:88/sergio/sergio/1133
-
-#EXTINF:-1,EX-YU: Sport Klub 3 HR
-http://ksportiptv.xyz:88/sergio/sergio/1134
-
-#EXTINF:-1,EX-YU: SPORT KLUB 5
-http://ksportiptv.xyz:88/sergio/sergio/2934
-
-#EXTINF:-1,EX-YU: SPORT KLUB 6
-http://ksportiptv.xyz:88/sergio/sergio/2935
-
-#EXTINF:-1,Ex-Yu:Sport Klub 6
-http://ksportiptv.xyz:88/sergio/sergio/2677
-
-#EXTINF:-1,EX-YU: Sport Klub 7
-http://ksportiptv.xyz:88/sergio/sergio/21684
-
-#EXTINF:-1,EX-YU: Sport Klub 8
-http://ksportiptv.xyz:88/sergio/sergio/21685
-
-#EXTINF:-1,EX-YU: Sport Klub 10
-http://ksportiptv.xyz:88/sergio/sergio/22503
-
-#EXTINF:-1,EX-YU: Sport Klub GOLF
-http://ksportiptv.xyz:88/sergio/sergio/11028
-
-#EXTINF:-1,EX-YU: Planet sport 1 HD
-http://ksportiptv.xyz:88/sergio/sergio/21701
-
-#EXTINF:-1,EX-YU: PLANET SPORT 2
-http://ksportiptv.xyz:88/sergio/sergio/29859
-
-#EXTINF:-1,EX-YU: Planet Sport 3 HD
-http://ksportiptv.xyz:88/sergio/sergio/22020
