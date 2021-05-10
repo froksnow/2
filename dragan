@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,[EXYU]RTS 1
 http://ky-tv.cc:25461/Conrad/Conrad/222607
 
@@ -229,9 +230,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/222711
 #EXTINF:-1,[EXYU]Kanal 5
 http://ky-tv.cc:25461/Conrad/Conrad/222713
 
-#EXTINF:-1,[EXYU]24 Vesti
-http://ky-tv.cc:25461/Conrad/Conrad/222714
-
 #EXTINF:-1,[EXYU]SKY Folk TV
 http://ky-tv.cc:25461/Conrad/Conrad/222715
 
@@ -246,9 +244,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/222718
 
 #EXTINF:-1,[EXYU]Sonce
 http://ky-tv.cc:25461/Conrad/Conrad/222719
-
-#EXTINF:-1,[EXYU]Nasha TV
-http://ky-tv.cc:25461/Conrad/Conrad/222720
 
 #EXTINF:-1,[EXYU]Telma
 http://ky-tv.cc:25461/Conrad/Conrad/222721
@@ -316,9 +311,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/222757
 #EXTINF:-1,[EXYU]Nat Geo Wild HD
 http://ky-tv.cc:25461/Conrad/Conrad/222758
 
-#EXTINF:-1,[EXYU]Discovery Science HD
-http://ky-tv.cc:25461/Conrad/Conrad/222759
-
 #EXTINF:-1,[EXYU]Discovery Showcase HD
 http://ky-tv.cc:25461/Conrad/Conrad/222760
 
@@ -339,9 +331,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/222767
 
 #EXTINF:-1,[EXYU]Crime & Investigation
 http://ky-tv.cc:25461/Conrad/Conrad/222768
-
-#EXTINF:-1,[EXYU]CBS REALITY
-http://ky-tv.cc:25461/Conrad/Conrad/222769
 
 #EXTINF:-1,[EXYU]E! Entertainment
 http://ky-tv.cc:25461/Conrad/Conrad/222771
@@ -379,9 +368,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/222785
 #EXTINF:-1,[EXYU]CineStar TV Fantasy
 http://ky-tv.cc:25461/Conrad/Conrad/222786
 
-#EXTINF:-1,[EXYU]CineStar TV Action
-http://ky-tv.cc:25461/Conrad/Conrad/222788
-
 #EXTINF:-1,[EXYU]CineStar TV Premiere 1 HD
 http://ky-tv.cc:25461/Conrad/Conrad/222789
 
@@ -396,9 +382,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/222792
 
 #EXTINF:-1,[EXYU]FOX Life HD
 http://ky-tv.cc:25461/Conrad/Conrad/222794
-
-#EXTINF:-1,[EXYU]AXN
-http://ky-tv.cc:25461/Conrad/Conrad/222795
 
 #EXTINF:-1,[EXYU]AXN Spin
 http://ky-tv.cc:25461/Conrad/Conrad/222796
@@ -447,9 +430,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/222816
 
 #EXTINF:-1,[EXYU]M MOVIES ALL STARS FHD
 http://ky-tv.cc:25461/Conrad/Conrad/222820
-
-#EXTINF:-1,[EXYU]CROMAX SELECT GOLD HD
-http://ky-tv.cc:25461/Conrad/Conrad/222821
 
 #EXTINF:-1,[EXYU]CROMAX SELECT PREMIUM HD
 http://ky-tv.cc:25461/Conrad/Conrad/222822
@@ -580,9 +560,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225303
 #EXTINF:-1,EX-YU: Alfa TV
 http://ky-tv.cc:25461/Conrad/Conrad/225305
 
-#EXTINF:-1,EX-YU: ALSAT M
-http://ky-tv.cc:25461/Conrad/Conrad/225307
-
 #EXTINF:-1,EX-YU: ANIMAL PLANET FHD
 http://ky-tv.cc:25461/Conrad/Conrad/225310
 
@@ -643,14 +620,8 @@ http://ky-tv.cc:25461/Conrad/Conrad/225331
 #EXTINF:-1,EX-YU: BN Sat
 http://ky-tv.cc:25461/Conrad/Conrad/225332
 
-#EXTINF:-1,EX-YU: BN Televizija
-http://ky-tv.cc:25461/Conrad/Conrad/225333
-
 #EXTINF:-1,EX-YU: BN TV HD
 http://ky-tv.cc:25461/Conrad/Conrad/225334
-
-#EXTINF:-1,EX-YU: Bosna TV 1
-http://ky-tv.cc:25461/Conrad/Conrad/225335
 
 #EXTINF:-1,EX-YU: BRAVO MUSIC
 http://ky-tv.cc:25461/Conrad/Conrad/225336
@@ -754,17 +725,11 @@ http://ky-tv.cc:25461/Conrad/Conrad/225378
 #EXTINF:-1,EX-YU: EUROSPORT 2 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225379
 
-#EXTINF:-1,EX-YU: FACE HD
-http://ky-tv.cc:25461/Conrad/Conrad/225380
-
 #EXTINF:-1,EX-YU: Federalna TV
 http://ky-tv.cc:25461/Conrad/Conrad/225381
 
 #EXTINF:-1,EX-YU: FIGHT Club
 http://ky-tv.cc:25461/Conrad/Conrad/225383
-
-#EXTINF:-1,EX-YU: FightBox FHD
-http://ky-tv.cc:25461/Conrad/Conrad/225384
 
 #EXTINF:-1,EX-YU: FILM BOX PLUS
 http://ky-tv.cc:25461/Conrad/Conrad/225385
@@ -793,20 +758,11 @@ http://ky-tv.cc:25461/Conrad/Conrad/225393
 #EXTINF:-1,EX-YU: FOX Movies HD
 http://ky-tv.cc:25461/Conrad/Conrad/225394
 
-#EXTINF:-1,EX-YU: Glas Drine
-http://ky-tv.cc:25461/Conrad/Conrad/225395
-
 #EXTINF:-1,EX-YU: Grand 2
 http://ky-tv.cc:25461/Conrad/Conrad/225396
 
-#EXTINF:-1,EX-YU: Grand Narodna
-http://ky-tv.cc:25461/Conrad/Conrad/225397
-
 #EXTINF:-1,EX-YU: Grand TV
 http://ky-tv.cc:25461/Conrad/Conrad/225398
-
-#EXTINF:-1,EX-YU: GRAND TV Narodna
-http://ky-tv.cc:25461/Conrad/Conrad/225399
 
 #EXTINF:-1,EX-YU: H2
 http://ky-tv.cc:25461/Conrad/Conrad/225400
@@ -825,9 +781,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225405
 
 #EXTINF:-1,EX-YU: HAYAT HD
 http://ky-tv.cc:25461/Conrad/Conrad/225406
-
-#EXTINF:-1,EX-YU: HAYATOVCI HD
-http://ky-tv.cc:25461/Conrad/Conrad/225408
 
 #EXTINF:-1,EX-YU: HBO 2 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225409
@@ -853,12 +806,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225418
 #EXTINF:-1,EX-YU: Hram TV
 http://ky-tv.cc:25461/Conrad/Conrad/225419
 
-#EXTINF:-1,EX-YU: HRT international
-http://ky-tv.cc:25461/Conrad/Conrad/225420
-
-#EXTINF:-1,EX-YU: Hugo
-http://ky-tv.cc:25461/Conrad/Conrad/225421
-
 #EXTINF:-1,EX-YU: Hugo 2
 http://ky-tv.cc:25461/Conrad/Conrad/225422
 
@@ -873,9 +820,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225425
 
 #EXTINF:-1,EX-YU: Investigation Discovery Xtra
 http://ky-tv.cc:25461/Conrad/Conrad/225426
-
-#EXTINF:-1,EX-YU: Istok TV
-http://ky-tv.cc:25461/Conrad/Conrad/225427
 
 #EXTINF:-1,EX-YU: Izvorna TV
 http://ky-tv.cc:25461/Conrad/Conrad/225428
@@ -919,9 +863,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225442
 #EXTINF:-1,EX-YU: Lov i Ribolov
 http://ky-tv.cc:25461/Conrad/Conrad/225443
 
-#EXTINF:-1,EX-YU: M1 Film
-http://ky-tv.cc:25461/Conrad/Conrad/225444
-
 #EXTINF:-1,EX-YU: M1 GOLD
 http://ky-tv.cc:25461/Conrad/Conrad/225445
 
@@ -946,9 +887,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225452
 #EXTINF:-1,EX-YU: Max Select 7 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225453
 
-#EXTINF:-1,EX-YU: Max Select 8 HD
-http://ky-tv.cc:25461/Conrad/Conrad/225454
-
 #EXTINF:-1,EX-YU: MAXCRO SELECT 1 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225455
 
@@ -970,9 +908,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225462
 #EXTINF:-1,EX-YU: MAXCRO SELECT 9 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225463
 
-#EXTINF:-1,EX-YU: MAXCRO SELECT 10 HD
-http://ky-tv.cc:25461/Conrad/Conrad/225464
-
 #EXTINF:-1,EX-YU: MAXCRO SELECT 11 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225465
 
@@ -993,9 +928,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225471
 
 #EXTINF:-1,EX-YU: Moj Kanal
 http://ky-tv.cc:25461/Conrad/Conrad/225472
-
-#EXTINF:-1,EX-YU: MOJA TV BHT PREMIJER LIGA
-http://ky-tv.cc:25461/Conrad/Conrad/225473
 
 #EXTINF:-1,EX-YU: Moja TV Premijer Liga
 http://ky-tv.cc:25461/Conrad/Conrad/225474
@@ -1054,9 +986,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225493
 #EXTINF:-1,EX-YU: Novi Pazar
 http://ky-tv.cc:25461/Conrad/Conrad/225494
 
-#EXTINF:-1,EX-YU: O Kanal
-http://ky-tv.cc:25461/Conrad/Conrad/225495
-
 #EXTINF:-1,EX-YU: HBO1 TV
 http://ky-tv.cc:25461/Conrad/Conrad/225496
 
@@ -1114,14 +1043,8 @@ http://ky-tv.cc:25461/Conrad/Conrad/225517
 #EXTINF:-1,EX-YU: PINK SUPER KIDS
 http://ky-tv.cc:25461/Conrad/Conrad/225518
 
-#EXTINF:-1,EX-YU: Pink Thriller
-http://ky-tv.cc:25461/Conrad/Conrad/225520
-
 #EXTINF:-1,EX-YU: BBC Earth FHD
 http://ky-tv.cc:25461/Conrad/Conrad/225521
-
-#EXTINF:-1,EX-YU: PLANET SPORT 1 HD
-http://ky-tv.cc:25461/Conrad/Conrad/225522
 
 #EXTINF:-1,EX-YU: Planet Sport 2 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225523
@@ -1285,17 +1208,11 @@ http://ky-tv.cc:25461/Conrad/Conrad/225597
 #EXTINF:-1,EX-YU: SPORT TV 2 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225598
 
-#EXTINF:-1,EX-YU: SPORT TV 3 HD
-http://ky-tv.cc:25461/Conrad/Conrad/225599
-
 #EXTINF:-1,EX-YU: Sportska TV
 http://ky-tv.cc:25461/Conrad/Conrad/225600
 
 #EXTINF:-1,EX-YU: Studio B
 http://ky-tv.cc:25461/Conrad/Conrad/225601
-
-#EXTINF:-1,EX-YU: STV
-http://ky-tv.cc:25461/Conrad/Conrad/225602
 
 #EXTINF:-1,EX-YU: Super Sport 1 HD
 http://ky-tv.cc:25461/Conrad/Conrad/225603
@@ -1323,9 +1240,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/225611
 
 #EXTINF:-1,EX-YU: TLC
 http://ky-tv.cc:25461/Conrad/Conrad/225612
-
-#EXTINF:-1,EX-YU: TOM & JERRY TV HD
-http://ky-tv.cc:25461/Conrad/Conrad/225614
 
 #EXTINF:-1,EX-YU: TOP Sound
 http://ky-tv.cc:25461/Conrad/Conrad/225615
@@ -1458,9 +1372,6 @@ http://ky-tv.cc:25461/Conrad/Conrad/1105578
 
 #EXTINF:-1,EX-YU: TV Sonce
 http://ky-tv.cc:25461/Conrad/Conrad/1123671
-
-#EXTINF:-1,[EXYU]Moja TV
-http://ky-tv.cc:25461/Conrad/Conrad/222752
 
 #EXTINF:-1,[EXYU]Sport Klub 10
 http://ky-tv.cc:25461/Conrad/Conrad/222745
