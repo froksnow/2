@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="90" tvg-name="::::: SRBIJA :::::" tvg-logo="http://epg.netsolutionpro.com/logo/balkan_x.jpeg" group-title="SRB_SRBIJA",::::: SRBIJA :::::
 http://89.163.242.83:2082/maid/maid123/90
+#EXTINF:-1 tvg-id="91" tvg-name="RTS 1 (SR)" tvg-logo="https://epg.netsolutionpro.com/logo/rts_1.png" group-title="SRB_SRBIJA",pink (SR)
+http://satlok.xyz:8000/german/3WXEKWi3r9/79069
 #EXTINF:-1 tvg-id="91" tvg-name="RTS 1 (SR)" tvg-logo="https://epg.netsolutionpro.com/logo/rts_1.png" group-title="SRB_SRBIJA",RTS 1 (SR)
 http://89.163.242.83:2082/maid/maid123/91
 #EXTINF:-1 tvg-id="92" tvg-name="RTS 1 (SR) L2" tvg-logo="https://epg.netsolutionpro.com/logo/rts_1.png" group-title="SRB_SRBIJA",RTS 1 (SR) L2
