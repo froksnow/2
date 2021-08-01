@@ -1,16 +1,12 @@
-#EXTINF:-1,YU102:PINK 1 TV
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/49224
-#EXTINF:-1,YU162:RTS 1 HD
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/49164
-#EXTINF:-1,YU163:RTS 2 HD
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/49163
-#EXTINF:-1,SRB050:HAPPY TV
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/49071
-#EXTINF:-1,HR018:HRT 1
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/46240
-#EXTINF:-1,HR019:HRT 2
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/46239
-#EXTINF:-1,HR020:HRT 3
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/46238
-#EXTINF:-1,HR021:HRT 4
-http://meu02.cularu.com:8880/yw14m3n169/KDmTyjqvUE/46237
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="Live: ex-Yu Countries",RTS 1 HD RS
+http://85.203.33.88:80/QMP19rxcfy517/X4883L144/2026
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1 RS" tvg-logo="https://picon-13398.kxcdn.com/rts1exyu.jpg" group-title="Live: ex-Yu Countries",RTS 1 RS
+http://85.203.33.88:80/QMP19rxcfy517/X4883L144/1463
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/rts2exyu.jpg" group-title="Live: ex-Yu Countries",RTS 2 HD RS
+http://85.203.33.88:80/QMP19rxcfy517/X4883L144/1464
+#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink HD RS
+http://85.203.33.88:80/QMP19rxcfy517/X4883L144/71021
+#EXTINF:-1 tvg-id="" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="Live: ex-Yu Countries",Nova S FHD RS
+http://85.203.33.88:80/QMP19rxcfy517/X4883L144/19166
+#EXTINF:-1 tvg-id="happytv.rs" tvg-name="Happy TV RS" tvg-logo="https://picon-13398.kxcdn.com/happytvexyu.jpg" group-title="Live: ex-Yu Countries",Happy TV RS
+http://85.203.33.88:80/QMP19rxcfy517/X4883L144/3192
