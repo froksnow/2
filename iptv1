@@ -1,699 +1,519 @@
 #EXTM3U
-#EXTINF:-1,HRT 1 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1455
-
-#EXTINF:-1,HRT 1 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/25786
-
-#EXTINF:-1,HRT 2 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1456
-
-#EXTINF:-1,HRT 2 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/24744
-
-#EXTINF:-1,HRT 3 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/25787
-
-#EXTINF:-1,HRT 4 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13795
-
-#EXTINF:-1,HRT 4 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/25788
-
-#EXTINF:-1,HRT International HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28054
-
-#EXTINF:-1,Nova TV HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17273
-
-#EXTINF:-1,Nova TV HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1457
-
+#EXTINF:-1,INFO KANAL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1526.ts
+#EXTINF:-1,RTS 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/112.ts
+#EXTINF:-1,HRT 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/75.ts
+#EXTINF:-1,OBN
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/66.ts
+#EXTINF:-1,PRVA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/109.ts
+#EXTINF:-1,PINK
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/105.ts
+#EXTINF:-1,NOVA S
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/381.ts
+#EXTINF:-1,NOVA BH
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/530.ts
+#EXTINF:-1,NOVA HR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/73.ts
+#EXTINF:-1,N1 SRB
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/399.ts
 #EXTINF:-1,N1 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/16818
-
-#EXTINF:-1,RTL HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1461
-
-#EXTINF:-1,RTL 2 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3166
-
-#EXTINF:-1,RTL Crime HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13815
-
-#EXTINF:-1,RTL Passion HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/11274
-
-#EXTINF:-1,RTL Living HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17264
-
-#EXTINF:-1,Z1 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13823
-
-#EXTINF:-1,RTS 1 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2026
-
-#EXTINF:-1,RTS 1 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1463
-
-#EXTINF:-1,RTS 2 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1464
-
-#EXTINF:-1,RTS 3 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13816
-
-#EXTINF:-1,RTS Svet RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/19812
-
-#EXTINF:-1,RTS Kolo RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28390
-
-#EXTINF:-1,RTS Poletarac RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/29557
-
-#EXTINF:-1,RTS Trezor RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23446
-
-#EXTINF:-1,RTS Drama RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28048
-
-#EXTINF:-1,RTS Muzika RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28047
-
-#EXTINF:-1,RTS Zivot RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28046
-
-#EXTINF:-1,Prva TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1460
-
-#EXTINF:-1,Prva Plus HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1459
-
-#EXTINF:-1,Prva World RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13798
-
-#EXTINF:-1,Prva Max RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17260
-
-#EXTINF:-1,Prva Files RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20023
-
-#EXTINF:-1,Prva Kick RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28045
-
-#EXTINF:-1,Pink HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/71021
-
-#EXTINF:-1,B92 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17262
-
-#EXTINF:-1,Nova S FHD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/19166
-
-#EXTINF:-1,N1 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3197
-
-#EXTINF:-1,Studio B RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/11287
-
-#EXTINF:-1,RTV 1 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13762
-
-#EXTINF:-1,RTV 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/33965
-
-#EXTINF:-1,RTRS Plus RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13790
-
-#EXTINF:-1,Al Jazeera Balkans FHD BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3189
-
-#EXTINF:-1,N1 BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/16817
-
-#EXTINF:-1,Nova BH BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/24144
-
-#EXTINF:-1,BHT 1 HD BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/15864
-
-#EXTINF:-1,BN Music FHD BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/15863
-
-#EXTINF:-1,Face TV BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3165
-
-#EXTINF:-1,FTV BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/6087
-
-#EXTINF:-1,OBN BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1458
-
-#EXTINF:-1,Televizija 5 BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/15854
-
-#EXTINF:-1,Pink Media BH BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23849
-
-#EXTINF:-1,RTV TK BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3164
-
-#EXTINF:-1,TV Sarajevo BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/11282
-
-#EXTINF:-1,Hayat Folk BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/15860
-
-#EXTINF:-1,Hayat Plus BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/15859
-
-#EXTINF:-1,Hayat Music BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17271
-
-#EXTINF:-1,Hayatovci BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/15858
-
-#EXTINF:-1,Alternativna TV BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13797
-
-#EXTINF:-1,TV Zenica BA
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13817
-
-#EXTINF:-1,Animal Planet HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3178
-
-#EXTINF:-1,Animal Planet [Multi-sub] Europe
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/27035
-
-#EXTINF:-1,Discovery Channel RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1445
-
-#EXTINF:-1,Discovery Science FHD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/80023
-
-#EXTINF:-1,DTX HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17924
-
-#EXTINF:-1,National Geographic HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1472
-
-#EXTINF:-1,National Geographic RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28070
-
-#EXTINF:-1,National Geographic Wild RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17923
-
-#EXTINF:-1,Travel Channel RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17865
-
-#EXTINF:-1,BBC Earth HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28398
-
-#EXTINF:-1,BBC Earth Adria ex-Yu
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28388
-
-#EXTINF:-1,History HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1454
-
-#EXTINF:-1,H2 FHD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/22972
-
-#EXTINF:-1,Viasat Explore RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28071
-
-#EXTINF:-1,Viasat Nature HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28399
-
-#EXTINF:-1,Viasat History RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/19006
-
-#EXTINF:-1,DocuBox HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20143
-
-#EXTINF:-1,Da Vinci Learning HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17272
-
-#EXTINF:-1,Lov I Ribolov RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3196
-
-#EXTINF:-1,24 Kitchen HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1476
-
-#EXTINF:-1,Fine Living RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/24148
-
-#EXTINF:-1,TLC RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13820
-
-#EXTINF:-1,E! HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1467
-
-#EXTINF:-1,CBS Reality HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17269
-
-#EXTINF:-1,Investigation Discovery HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13783
-
-#EXTINF:-1,Crime + Investigation HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3191
-
-#EXTINF:-1,HBO HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1452
-
-#EXTINF:-1,HBO 2 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17920
-
-#EXTINF:-1,HBO 3 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17918
-
-#EXTINF:-1,CineStar TV HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13794
-
-#EXTINF:-1,Cinestar TV 2 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/80021
-
-#EXTINF:-1,CineStar Premiere 1 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1468
-
-#EXTINF:-1,CineStar Premiere 2 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1469
-
-#EXTINF:-1,CineStar TV Action HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3180
-
-#EXTINF:-1,Cinestar TV Comedy HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/80022
-
-#EXTINF:-1,CineStar TV Fantasy HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/24331
-
-#EXTINF:-1,Cinemania RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17270
-
-#EXTINF:-1,Cinemax HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2022
-
-#EXTINF:-1,Cinemax 2 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2023
-
-#EXTINF:-1,FOX HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1448
-
-#EXTINF:-1,Fox HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/52133
-
-#EXTINF:-1,FOX Movies HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1451
-
-#EXTINF:-1,FOX Life HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1450
-
-#EXTINF:-1,FOX Crime RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1449
-
-#EXTINF:-1,Star TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28252
-
-#EXTINF:-1,Scifi FHD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/22971
-
-#EXTINF:-1,Epic Drama HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/80025
-
-#EXTINF:-1,FilmBox Plus HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13773
-
-#EXTINF:-1,FilmBox Extra RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13805
-
-#EXTINF:-1,AMC HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17276
-
-#EXTINF:-1,AXN HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13764
-
-#EXTINF:-1,AXN Spin RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28394
-
-#EXTINF:-1,Diva HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13770
-
-#EXTINF:-1,Kino TV HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/27548
-
-#EXTINF:-1,M1 Film HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/27547
-
-#EXTINF:-1,Klasik TV HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3194
-
-#EXTINF:-1,Pickbox FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/27819
-
-#EXTINF:-1,Max Select 1 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20146
-
-#EXTINF:-1,Max Select 2 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20147
-
-#EXTINF:-1,Max Select 3 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20148
-
-#EXTINF:-1,Max Select 5 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20150
-
-#EXTINF:-1,Max Select 6 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20151
-
-#EXTINF:-1,Red TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2043
-
-#EXTINF:-1,Vesti TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2044
-
-#EXTINF:-1,Pink Premium RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2029
-
-#EXTINF:-1,Pink Movies RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13758
-
-#EXTINF:-1,Pink Action RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2041
-
-#EXTINF:-1,Pink Crime & Mystery RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2039
-
-#EXTINF:-1,Pink Classic RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/19587
-
-#EXTINF:-1,Pink World Cinema RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/5602
-
-#EXTINF:-1,Pink Thriller RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2040
-
-#EXTINF:-1,Pink Western RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2050
-
-#EXTINF:-1,Pink Horror RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2035
-
-#EXTINF:-1,Pink Sci-fi & Fantasy RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2031
-
-#EXTINF:-1,Pink Film RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3199
-
-#EXTINF:-1,Pink Extra RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2046
-
-#EXTINF:-1,Pink Plus RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3198
-
-#EXTINF:-1,Pink Serije RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2032
-
-#EXTINF:-1,Pink Soap RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2049
-
-#EXTINF:-1,Pink Pedia RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13753
-
-#EXTINF:-1,Pink World RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/18098
-
-#EXTINF:-1,Pink Zabava RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2028
-
-#EXTINF:-1,Pink LOL RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/16610
-
-#EXTINF:-1,Pink HAHA RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/16611
-
-#EXTINF:-1,Pink Kuvar RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3176
-
-#EXTINF:-1,Pink Family RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23848
-
-#EXTINF:-1,Pink Fashion RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23845
-
-#EXTINF:-1,Pink Style RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23846
-
-#EXTINF:-1,Pink Show RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/20141
-
-#EXTINF:-1,Pink Reality RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2048
-
-#EXTINF:-1,Zadruga Live 1 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/35327
-
-#EXTINF:-1,Zadruga Live 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/35328
-
-#EXTINF:-1,Zadruga Live 3 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/35329
-
-#EXTINF:-1,Zadruga Live 4 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/35330
-
-#EXTINF:-1,Happy Parovi RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/18099
-
-#EXTINF:-1,Yu Planet TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/24862
-
-#EXTINF:-1,Pink Kids RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2047
-
-#EXTINF:-1,Nick Jr. HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17922
-
-#EXTINF:-1,Cartoon Network HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/29555
-
-#EXTINF:-1,Pikaboo RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/24143
-
-#EXTINF:-1,Baby TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13812
-
-#EXTINF:-1,Boomerang RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17925
-
-#EXTINF:-1,Mini TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/6565
-
-#EXTINF:-1,Minimax RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/6564
-
-#EXTINF:-1,Nickelodeon HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/6083
-
-#EXTINF:-1,RTL Kockica HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3167
-
-#EXTINF:-1,Fight Channel HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28086
-
-#EXTINF:-1,Fight Network Ex-Yu
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/29556
-
-#EXTINF:-1,FightBox FHD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17259
-
-#EXTINF:-1,Eurosport 1 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1443
-
-#EXTINF:-1,Eurosport 2 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1444
-
-#EXTINF:-1,Arena Sport 1 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1436
-
-#EXTINF:-1,Arena Sport 1 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/19004
-
-#EXTINF:-1,Arena Sport 2 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1437
-
-#EXTINF:-1,Arena Sport 2 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17914
-
-#EXTINF:-1,Arena Sport 3 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1438
-
-#EXTINF:-1,Arena Sport 3 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17916
-
-#EXTINF:-1,Arena Sport 4 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1439
-
-#EXTINF:-1,Arena Sport 4 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17915
-
-#EXTINF:-1,Arena Sport 5 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/19005
-
-#EXTINF:-1,Arena Sport 5 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13827
-
-#EXTINF:-1,Arena Sport 6 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13828
-
-#EXTINF:-1,Arena Sport 1 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3182
-
-#EXTINF:-1,Arena Sport 1 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/52131
-
-#EXTINF:-1,Arena Sport 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/52132
-
-#EXTINF:-1,Arena Sport 3 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3184
-
-#EXTINF:-1,Sport Klub HD [Multi-audio] ex-Yu
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/27524
-
-#EXTINF:-1,Sport Klub 1 HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17252
-
-#EXTINF:-1,Sport Klub 1 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17256
-
-#EXTINF:-1,Sport Klub 2 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13833
-
-#EXTINF:-1,Sport Klub 2 FHD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17254
-
-#EXTINF:-1,Sport Klub 4 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17249
-
-#EXTINF:-1,Sport Klub 5 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17250
-
-#EXTINF:-1,Sport Klub 6 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17251
-
-#EXTINF:-1,Sport Klub 1 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13832
-
-#EXTINF:-1,Sport Klub 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1441
-
-#EXTINF:-1,Sport Klub 2 FHD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17257
-
-#EXTINF:-1,Sport Klub 3 HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1442
-
-#EXTINF:-1,Sport Klub 3 FHD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17258
-
-#EXTINF:-1,Sport Klub 4 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13829
-
-#EXTINF:-1,Sport Klub 5 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13830
-
-#EXTINF:-1,Sport Klub 6 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13831
-
-#EXTINF:-1,Sport Klub Golf HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/17745
-
-#EXTINF:-1,Nova Sport HD RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/29855
-
-#EXTINF:-1,Sportska TV HD HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13861
-
-#EXTINF:-1,PlanetSport 1 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/26089
-
-#EXTINF:-1,PlanetSport 2 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/26090
-
-#EXTINF:-1,PlanetSport 3 HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/26091
-
-#EXTINF:-1,Partizan TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/16401
-
-#EXTINF:-1,SOS Kanal RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13819
-
-#EXTINF:-1,HNTV HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13771
-
-#EXTINF:-1,IDJ TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/16404
-
-#EXTINF:-1,CityPLAY RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23844
-
-#EXTINF:-1,Bravo Music RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23850
-
-#EXTINF:-1,Pink n Roll RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13755
-
-#EXTINF:-1,MTV Adria RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13813
-
-#EXTINF:-1,CMC TV HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3171
-
-#EXTINF:-1,Jugoton TV HR
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/6561
-
-#EXTINF:-1,Grand TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/1475
-
-#EXTINF:-1,Grand 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/16816
-
-#EXTINF:-1,Pink Koncert RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/28049
-
-#EXTINF:-1,Pink Music RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13759
-
-#EXTINF:-1,Pink Music 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13760
-
-#EXTINF:-1,Pink Hits RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/23847
-
-#EXTINF:-1,Pink Hits 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13757
-
-#EXTINF:-1,Pink Folk 1 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13756
-
-#EXTINF:-1,Pink Folk 2 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/2037
-
-#EXTINF:-1,Balkan Music ex-Yu
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/27802
-
-#EXTINF:-1,Toxic TV RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/80020
-
-#EXTINF:-1,KCN 1 RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13809
-
-#EXTINF:-1,KCN 2 Music RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13810
-
-#EXTINF:-1,KCN 3 Svet Plus RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/13811
-
-#EXTINF:-1,DM Sat RS
-http://cloudcdn.tk:80/bza9kL5Fbb165/Fkqlj3964/3173
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/107.ts
+#EXTINF:-1,N1 BH
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/521.ts
+#EXTINF:-1,B92
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/106.ts
+#EXTINF:-1,RTV 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/165.ts
+#EXTINF:-1,RTV 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/164.ts
+#EXTINF:-1,BN
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/65.ts
+#EXTINF:-1,BN 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2756.ts
+#EXTINF:-1,RTRS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/64.ts
+#EXTINF:-1,RTRS PLUS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/63.ts
+#EXTINF:-1,BHT 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/58.ts
+#EXTINF:-1,24 VESTI
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/601.ts
+#EXTINF:-1,RED TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/103.ts
+#EXTINF:-1,VESTI
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/102.ts
+#EXTINF:-1,HAPPY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/85.ts
+#EXTINF:-1,RTS 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/110.ts
+#EXTINF:-1,RTS 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/145.ts
+#EXTINF:-1,RTS DRAMA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/902.ts
+#EXTINF:-1,RTS KOLO
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/901.ts
+#EXTINF:-1,RTS MUZIKA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/900.ts
+#EXTINF:-1,RTS POLETARAC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1881.ts
+#EXTINF:-1,RTS SVET
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1882.ts
+#EXTINF:-1,RTS TREZOR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/899.ts
+#EXTINF:-1,RTS ZIVOT
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/898.ts
+#EXTINF:-1,HRT 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/74.ts
+#EXTINF:-1,HRT 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/355.ts
+#EXTINF:-1,HRT 4
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/281.ts
+#EXTINF:-1,HRT Int.
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1529.ts
+#EXTINF:-1,PRVA FILES
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3664.ts
+#EXTINF:-1,PRVA KICK
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/598.ts
+#EXTINF:-1,PRVA MAX
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/597.ts
+#EXTINF:-1,PRVA PLUS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/292.ts
+#EXTINF:-1,PRVA WORLD
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1495.ts
+#EXTINF:-1,KURIR TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2876.ts
+#EXTINF:-1,K1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2757.ts
+#EXTINF:-1,SUPERSTAR TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/652.ts
+#EXTINF:-1,ZADRUGA 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1509.ts
+#EXTINF:-1,ZADRUGA 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1510.ts
+#EXTINF:-1,ZADRUGA 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1511.ts
+#EXTINF:-1,PAROVI
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/536.ts
+#EXTINF:-1,IDJ TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/609.ts
+#EXTINF:-1,TOXIC TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3663.ts
+#EXTINF:-1,RTL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/71.ts
+#EXTINF:-1,RTL 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/72.ts
+#EXTINF:-1,RTL ADRIA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1921.ts
+#EXTINF:-1,RTL CRIME
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1528.ts
+#EXTINF:-1,RTL LIVING
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/469.ts
+#EXTINF:-1,RTL PASSION
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/905.ts
+#EXTINF:-1,DOMA TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/70.ts
+#EXTINF:-1,O KANAL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/268.ts
+#EXTINF:-1,HAYAT
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/61.ts
+#EXTINF:-1,HAYAT PLUS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/60.ts
+#EXTINF:-1,MINI TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/160.ts
+#EXTINF:-1,BABY TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/267.ts
+#EXTINF:-1,NICK JR.
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/587.ts
+#EXTINF:-1,NICKELODEON
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/169.ts
+#EXTINF:-1,HAYATOVCI
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/596.ts
+#EXTINF:-1,24KITCHEN
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/77.ts
+#EXTINF:-1,RTL KOCKICA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/599.ts
+#EXTINF:-1,MASA I MEDVED
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/903.ts
+#EXTINF:-1,PEPA PRASE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1497.ts
+#EXTINF:-1,PIKABOO
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/600.ts
+#EXTINF:-1,MINIMAX
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/586.ts
+#EXTINF:-1,IDJ KIDS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1890.ts
+#EXTINF:-1,FEDERALNA TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/57.ts
+#EXTINF:-1,ALFA BH
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/284.ts
+#EXTINF:-1,NTV IC KAKANJ
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2888.ts
+#EXTINF:-1,FACE TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/59.ts
+#EXTINF:-1,BANOVINA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/296.ts
+#EXTINF:-1,PLAVA VINKOVACKA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/299.ts
+#EXTINF:-1,OTV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2892.ts
+#EXTINF:-1,OSJECKA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/607.ts
+#EXTINF:-1,POSAVINA TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/608.ts
+#EXTINF:-1,AL JAZEERA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/56.ts
+#EXTINF:-1,Z1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2721.ts
+#EXTINF:-1,ARENA SPORT 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/10.ts
+#EXTINF:-1,ARENA SPORT 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/9.ts
+#EXTINF:-1,ARENA SPORT 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/8.ts
+#EXTINF:-1,ARENA SPORT 4
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/7.ts
+#EXTINF:-1,ARENA SPORT 5
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/6.ts
+#EXTINF:-1,ARENA SPORT 1 HR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/11.ts
+#EXTINF:-1,ARENA SPORT 2 HR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/522.ts
+#EXTINF:-1,ARENA SPORT 3 HR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/523.ts
+#EXTINF:-1,ARENA SPORT 4 HR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/524.ts
+#EXTINF:-1,ARENA SPORT 5 HR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/525.ts
+#EXTINF:-1,ARENA SPORT 6 HR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2940.ts
+#EXTINF:-1,SPORT KLUB HD
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1459.ts
+#EXTINF:-1,SPORT KLUB 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/14.ts
+#EXTINF:-1,SPORT KLUB 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/13.ts
+#EXTINF:-1,SPORT KLUB 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/12.ts
+#EXTINF:-1,SPORT KLUB 4
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/142.ts
+#EXTINF:-1,SPORT KLUB 5
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/143.ts
+#EXTINF:-1,SPORT KLUB 6
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/144.ts
+#EXTINF:-1,SPORT KLUB 7
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2101.ts
+#EXTINF:-1,SPORT KLUB 8
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2102.ts
+#EXTINF:-1,SPORT KLUB 9
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2103.ts
+#EXTINF:-1,EUROSPORT 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/4.ts
+#EXTINF:-1,EUROSPORT 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/5.ts
+#EXTINF:-1,NOVA SPORT
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1513.ts
+#EXTINF:-1,FIGHT CHANNEL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3.ts
+#EXTINF:-1,ZVEZDA TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3471.ts
+#EXTINF:-1,PARTIZAN TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3472.ts
+#EXTINF:-1,SOS KANAL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2.ts
+#EXTINF:-1,HNTV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2980.ts
+#EXTINF:-1,MOJA TV SPORT
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2720.ts
+#EXTINF:-1,GRAND
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/46.ts
+#EXTINF:-1,GRAND 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/401.ts
+#EXTINF:-1,DM SAT
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/37.ts
+#EXTINF:-1,HAYAT FOLK
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/35.ts
+#EXTINF:-1,PINK ACTION
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/86.ts
+#EXTINF:-1,PINK BH
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1514.ts
+#EXTINF:-1,PINK CLASSIC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1515.ts
+#EXTINF:-1,PINK COMEDY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/93.ts
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/584.ts
+#EXTINF:-1,PINK EXTRA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/101.ts
+#EXTINF:-1,PINK FAMILY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1516.ts
+#EXTINF:-1,PINK FILM
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/100.ts
+#EXTINF:-1,PINK FOLK 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2754.ts
+#EXTINF:-1,PINK FOLK 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/36.ts
+#EXTINF:-1,PINK HA HA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/583.ts
+#EXTINF:-1,PINK HITS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2753.ts
+#EXTINF:-1,PINK HITS 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1506.ts
+#EXTINF:-1,PINK HORROR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/90.ts
+#EXTINF:-1,PINK KIDS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/87.ts
+#EXTINF:-1,PINK KONCERT
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/208.ts
+#EXTINF:-1,PINK KUVAR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/271.ts
+#EXTINF:-1,PINK LOL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/582.ts
+#EXTINF:-1,PINK M
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/626.ts
+#EXTINF:-1,PINK MOVIES
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/97.ts
+#EXTINF:-1,PINK MUSIC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/45.ts
+#EXTINF:-1,PINK MUSIC 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/166.ts
+#EXTINF:-1,PINK PEDIA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/88.ts
+#EXTINF:-1,PINK PLUS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/99.ts
+#EXTINF:-1,PINK PREMIUM
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/98.ts
+#EXTINF:-1,PINK REALITY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/94.ts
+#EXTINF:-1,PINK ROMANCE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1505.ts
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/580.ts
+#EXTINF:-1,PINK SERIJE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/96.ts
+#EXTINF:-1,PINK SHOW
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/633.ts
+#EXTINF:-1,PINK SOAP
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/91.ts
+#EXTINF:-1,PINK STYLE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1920.ts
+#EXTINF:-1,PINK SUPER KIDS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/585.ts
+#EXTINF:-1,PINK THRILLER
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/95.ts
+#EXTINF:-1,PINK WESTERN
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/89.ts
+#EXTINF:-1,PINK WORLD CINEMA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/581.ts
+#EXTINF:-1,PINK ZABAVA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/92.ts
+#EXTINF:-1,NOVI PAZAR
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/291.ts
+#EXTINF:-1,TV SARAJEVO
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/616.ts
+#EXTINF:-1,KCN 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/279.ts
+#EXTINF:-1,KCN 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/280.ts
+#EXTINF:-1,AMC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/260.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1889.ts
+#EXTINF:-1,HBO
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/81.ts
+#EXTINF:-1,HBO 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/273.ts
+#EXTINF:-1,HBO 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/274.ts
+#EXTINF:-1,FOX
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/148.ts
+#EXTINF:-1,FOX CRIME
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/210.ts
+#EXTINF:-1,FOX LIFE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/147.ts
+#EXTINF:-1,FOX MOVIES
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/277.ts
+#EXTINF:-1,CINEMAX
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/275.ts
+#EXTINF:-1,CINEMAX 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/276.ts
+#EXTINF:-1,CINESTAR TV 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2935.ts
+#EXTINF:-1,CINESTAR TV 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2936.ts
+#EXTINF:-1,CINESTAR TV PREMIERE 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/370.ts
+#EXTINF:-1,CINESTAR TV PREMIERE 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/371.ts
+#EXTINF:-1,CINESTAR TV ACTION
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/713.ts
+#EXTINF:-1,CINESTAR TV FANTASY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2937.ts
+#EXTINF:-1,CINEMANIA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/82.ts
+#EXTINF:-1,MAX CRO SELECT 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3482.ts
+#EXTINF:-1,MAX CRO SELECT 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3483.ts
+#EXTINF:-1,MAX CRO SELECT 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3484.ts
+#EXTINF:-1,MAX CRO SELECT 4
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3485.ts
+#EXTINF:-1,MAX CRO SELECT 5
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3486.ts
+#EXTINF:-1,MAX CRO SELECT 6
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3487.ts
+#EXTINF:-1,MAX CRO SELECT 7
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3488.ts
+#EXTINF:-1,MAX CRO SELECT 8
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3489.ts
+#EXTINF:-1,MAX CRO SELECT 9
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3490.ts
+#EXTINF:-1,MAX CRO SELECT 10
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3491.ts
+#EXTINF:-1,KINO TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1496.ts
+#EXTINF:-1,KLASIK TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/69.ts
+#EXTINF:-1,ANIMAL PLANET
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/149.ts
+#EXTINF:-1,BBC EARTH
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1888.ts
+#EXTINF:-1,CRIME & INVESTIGATION
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/269.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/78.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1885.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1886.ts
+#EXTINF:-1,HISTORY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/203.ts
+#EXTINF:-1,HISTORY 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/589.ts
+#EXTINF:-1,LOV I RIBOLOV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/68.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/79.ts
+#EXTINF:-1,NAT GEO WILD
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/588.ts
+#EXTINF:-1,PLANET EARTH
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1887.ts
+#EXTINF:-1,TLC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/157.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/159.ts
+#EXTINF:-1,VIASAT EXPLORE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/301.ts
+#EXTINF:-1,VIASAT HISTORY
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/302.ts
+#EXTINF:-1,VIASAT NATURE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/303.ts
+#EXTINF:-1,VH1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/158.ts
+#EXTINF:-1,STUDIO B
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/83.ts
+#EXTINF:-1,MRT 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/48.ts
+#EXTINF:-1,MRT 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/602.ts
+#EXTINF:-1,MRT 3
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/614.ts
+#EXTINF:-1,KANAL 5
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/53.ts
+#EXTINF:-1,KANAL 5 PLUS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/625.ts
+#EXTINF:-1,TELMA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/52.ts
+#EXTINF:-1,ALFA TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/51.ts
+#EXTINF:-1,KUMANOVO TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/605.ts
+#EXTINF:-1,SITEL
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/54.ts
+#EXTINF:-1,SUTEL TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2707.ts
+#EXTINF:-1,RTCG 1
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/627.ts
+#EXTINF:-1,RTCG 2
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/606.ts
+#EXTINF:-1,RTCG SAT
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/84.ts
+#EXTINF:-1,PRVA CG
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/610.ts
+#EXTINF:-1,NOVA M
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1870.ts
+#EXTINF:-1,TV VIJESTI
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1508.ts
+#EXTINF:-1,PALMA PLUS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/80.ts
+#EXTINF:-1,FASHION TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/162.ts
+#EXTINF:-1,ATV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/62.ts
+#EXTINF:-1,OTV VALENTINO
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/146.ts
+#EXTINF:-1,TV DUGA PLUS
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/34.ts
+#EXTINF:-1,HAYAT MUSIC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/615.ts
+#EXTINF:-1,BALKANIKA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/44.ts
+#EXTINF:-1,BN MUSIC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/40.ts
+#EXTINF:-1,YU PLANET
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/43.ts
+#EXTINF:-1,MTV IGMAN
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/528.ts
+#EXTINF:-1,IZVORNA TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/624.ts
+#EXTINF:-1,GLAS DRINE
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/622.ts
+#EXTINF:-1,TV HRAM
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1412.ts
+#EXTINF:-1,HERC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1507.ts
+#EXTINF:-1,CMC MUSIC
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1527.ts
+#EXTINF:-1,POLJOPRIVREDNA TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1530.ts
+#EXTINF:-1,LAUDATO TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1531.ts
+#EXTINF:-1,RTV ZENICA
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1946.ts
+#EXTINF:-1,SANDZAK TV
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2088.ts
+#EXTINF:-1,RTS 1 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2544.ts
+#EXTINF:-1,PINK - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2547.ts
+#EXTINF:-1,PRVA - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2551.ts
+#EXTINF:-1,OBN - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2550.ts
+#EXTINF:-1,NOVA HR - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2545.ts
+#EXTINF:-1,ARENA SPORT 1 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2546.ts
+#EXTINF:-1,ARENA SPORT 2 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1410.ts
+#EXTINF:-1,ARENA SPORT 3 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1492.ts
+#EXTINF:-1,ARENA SPORT 4 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1493.ts
+#EXTINF:-1,SPORT KLUB 1 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1408.ts
+#EXTINF:-1,SPORT KLUB 2 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1409.ts
+#EXTINF:-1,SPORT KLUB 3 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1491.ts
+#EXTINF:-1,RTL - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2549.ts
+#EXTINF:-1,RTS 2 - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1407.ts
+#EXTINF:-1,PINK WESTERN - low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2548.ts
+#EXTINF:-1,NOVA S - Low
+http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3470.ts
