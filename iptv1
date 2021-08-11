@@ -1,517 +1,517 @@
 #EXTM3U
-#EXTINF:-1,RTS 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/112.ts
-#EXTINF:-1,HRT 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/75.ts
-#EXTINF:-1,OBN
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/66.ts
-#EXTINF:-1,PRVA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/109.ts
-#EXTINF:-1,PINK
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/105.ts
+#EXTINF:-1,PINK TV
+http://krajnatv.com:8000/johnseven/skypeuser/10
+
+#EXTINF:-1,RTS 1 HD
+http://krajnatv.com:8000/johnseven/skypeuser/1
+
+#EXTINF:-1,RTS 2 HD
+http://krajnatv.com:8000/johnseven/skypeuser/2
+
+#EXTINF:-1,RTS 3 HD
+http://krajnatv.com:8000/johnseven/skypeuser/3
+
 #EXTINF:-1,NOVA S
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/381.ts
-#EXTINF:-1,NOVA BH
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/530.ts
-#EXTINF:-1,NOVA HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/73.ts
-#EXTINF:-1,N1 SRB
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/399.ts
-#EXTINF:-1,N1 HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/107.ts
-#EXTINF:-1,N1 BH
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/521.ts
+http://krajnatv.com:8000/johnseven/skypeuser/1580
+
+#EXTINF:-1,NOVA BiH
+http://krajnatv.com:8000/johnseven/skypeuser/126
+
+#EXTINF:-1,NOVA TV
+http://krajnatv.com:8000/johnseven/skypeuser/26
+
+#EXTINF:-1,NOVA TV
+http://krajnatv.com:8000/johnseven/skypeuser/76
+
 #EXTINF:-1,B92
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/106.ts
-#EXTINF:-1,RTV 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/165.ts
-#EXTINF:-1,RTV 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/164.ts
-#EXTINF:-1,BN
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/65.ts
-#EXTINF:-1,BN 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2756.ts
-#EXTINF:-1,RTRS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/64.ts
-#EXTINF:-1,RTRS PLUS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/63.ts
-#EXTINF:-1,BHT 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/58.ts
-#EXTINF:-1,24 VESTI
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/601.ts
-#EXTINF:-1,RED TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/103.ts
-#EXTINF:-1,VESTI
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/102.ts
-#EXTINF:-1,HAPPY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/85.ts
-#EXTINF:-1,RTS 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/110.ts
-#EXTINF:-1,RTS 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/145.ts
-#EXTINF:-1,RTS DRAMA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/902.ts
-#EXTINF:-1,RTS KOLO
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/901.ts
-#EXTINF:-1,RTS MUZIKA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/900.ts
-#EXTINF:-1,RTS POLETARAC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1881.ts
-#EXTINF:-1,RTS SVET
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1882.ts
-#EXTINF:-1,RTS TREZOR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/899.ts
-#EXTINF:-1,RTS ZIVOT
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/898.ts
-#EXTINF:-1,HRT 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/74.ts
-#EXTINF:-1,HRT 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/355.ts
-#EXTINF:-1,HRT 4
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/281.ts
-#EXTINF:-1,HRT Int.
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1529.ts
-#EXTINF:-1,PRVA FILES
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3664.ts
-#EXTINF:-1,PRVA KICK
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/598.ts
-#EXTINF:-1,PRVA MAX
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/597.ts
-#EXTINF:-1,PRVA PLUS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/292.ts
-#EXTINF:-1,PRVA WORLD
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1495.ts
-#EXTINF:-1,KURIR TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2876.ts
-#EXTINF:-1,K1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2757.ts
-#EXTINF:-1,SUPERSTAR TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/652.ts
-#EXTINF:-1,ZADRUGA 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1509.ts
-#EXTINF:-1,ZADRUGA 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1510.ts
-#EXTINF:-1,ZADRUGA 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1511.ts
-#EXTINF:-1,PAROVI
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/536.ts
-#EXTINF:-1,IDJ TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/609.ts
-#EXTINF:-1,TOXIC TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3663.ts
-#EXTINF:-1,RTL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/71.ts
-#EXTINF:-1,RTL 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/72.ts
-#EXTINF:-1,RTL ADRIA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1921.ts
-#EXTINF:-1,RTL CRIME
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1528.ts
-#EXTINF:-1,RTL LIVING
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/469.ts
-#EXTINF:-1,RTL PASSION
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/905.ts
-#EXTINF:-1,DOMA TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/70.ts
-#EXTINF:-1,O KANAL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/268.ts
-#EXTINF:-1,HAYAT
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/61.ts
-#EXTINF:-1,HAYAT PLUS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/60.ts
-#EXTINF:-1,MINI TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/160.ts
-#EXTINF:-1,BABY TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/267.ts
-#EXTINF:-1,NICK JR.
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/587.ts
-#EXTINF:-1,NICKELODEON
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/169.ts
-#EXTINF:-1,HAYATOVCI
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/596.ts
-#EXTINF:-1,24KITCHEN
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/77.ts
-#EXTINF:-1,RTL KOCKICA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/599.ts
-#EXTINF:-1,MASA I MEDVED
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/903.ts
-#EXTINF:-1,PEPA PRASE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1497.ts
-#EXTINF:-1,PIKABOO
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/600.ts
-#EXTINF:-1,MINIMAX
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/586.ts
-#EXTINF:-1,IDJ KIDS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1890.ts
-#EXTINF:-1,FEDERALNA TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/57.ts
-#EXTINF:-1,ALFA BH
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/284.ts
-#EXTINF:-1,NTV IC KAKANJ
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2888.ts
-#EXTINF:-1,FACE TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/59.ts
-#EXTINF:-1,BANOVINA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/296.ts
-#EXTINF:-1,PLAVA VINKOVACKA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/299.ts
-#EXTINF:-1,OTV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2892.ts
-#EXTINF:-1,OSJECKA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/607.ts
-#EXTINF:-1,POSAVINA TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/608.ts
-#EXTINF:-1,AL JAZEERA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/56.ts
-#EXTINF:-1,Z1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2721.ts
-#EXTINF:-1,ARENA SPORT 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/10.ts
-#EXTINF:-1,ARENA SPORT 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/9.ts
-#EXTINF:-1,ARENA SPORT 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/8.ts
-#EXTINF:-1,ARENA SPORT 4
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/7.ts
-#EXTINF:-1,ARENA SPORT 5
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/6.ts
-#EXTINF:-1,ARENA SPORT 1 HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/11.ts
-#EXTINF:-1,ARENA SPORT 2 HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/522.ts
-#EXTINF:-1,ARENA SPORT 3 HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/523.ts
-#EXTINF:-1,ARENA SPORT 4 HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/524.ts
-#EXTINF:-1,ARENA SPORT 5 HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/525.ts
-#EXTINF:-1,ARENA SPORT 6 HR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2940.ts
-#EXTINF:-1,SPORT KLUB HD
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1459.ts
-#EXTINF:-1,SPORT KLUB 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/14.ts
-#EXTINF:-1,SPORT KLUB 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/13.ts
-#EXTINF:-1,SPORT KLUB 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/12.ts
-#EXTINF:-1,SPORT KLUB 4
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/142.ts
-#EXTINF:-1,SPORT KLUB 5
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/143.ts
-#EXTINF:-1,SPORT KLUB 6
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/144.ts
-#EXTINF:-1,SPORT KLUB 7
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2101.ts
-#EXTINF:-1,SPORT KLUB 8
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2102.ts
-#EXTINF:-1,SPORT KLUB 9
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2103.ts
-#EXTINF:-1,EUROSPORT 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/4.ts
-#EXTINF:-1,EUROSPORT 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/5.ts
-#EXTINF:-1,NOVA SPORT
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1513.ts
-#EXTINF:-1,FIGHT CHANNEL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3.ts
-#EXTINF:-1,ZVEZDA TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3471.ts
-#EXTINF:-1,PARTIZAN TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3472.ts
-#EXTINF:-1,SOS KANAL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2.ts
-#EXTINF:-1,HNTV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2980.ts
-#EXTINF:-1,MOJA TV SPORT
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2720.ts
-#EXTINF:-1,GRAND
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/46.ts
-#EXTINF:-1,GRAND 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/401.ts
-#EXTINF:-1,DM SAT
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/37.ts
-#EXTINF:-1,HAYAT FOLK
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/35.ts
-#EXTINF:-1,PINK ACTION
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/86.ts
-#EXTINF:-1,PINK BH
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1514.ts
-#EXTINF:-1,PINK CLASSIC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1515.ts
-#EXTINF:-1,PINK COMEDY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/93.ts
-#EXTINF:-1,PINK CRIME & MYSTERY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/584.ts
-#EXTINF:-1,PINK EXTRA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/101.ts
-#EXTINF:-1,PINK FAMILY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1516.ts
-#EXTINF:-1,PINK FILM
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/100.ts
-#EXTINF:-1,PINK FOLK 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2754.ts
-#EXTINF:-1,PINK FOLK 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/36.ts
-#EXTINF:-1,PINK HA HA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/583.ts
-#EXTINF:-1,PINK HITS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2753.ts
-#EXTINF:-1,PINK HITS 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1506.ts
-#EXTINF:-1,PINK HORROR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/90.ts
-#EXTINF:-1,PINK KIDS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/87.ts
-#EXTINF:-1,PINK KONCERT
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/208.ts
-#EXTINF:-1,PINK KUVAR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/271.ts
-#EXTINF:-1,PINK LOL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/582.ts
-#EXTINF:-1,PINK M
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/626.ts
-#EXTINF:-1,PINK MOVIES
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/97.ts
-#EXTINF:-1,PINK MUSIC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/45.ts
-#EXTINF:-1,PINK MUSIC 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/166.ts
-#EXTINF:-1,PINK PEDIA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/88.ts
-#EXTINF:-1,PINK PLUS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/99.ts
-#EXTINF:-1,PINK PREMIUM
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/98.ts
-#EXTINF:-1,PINK REALITY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/94.ts
-#EXTINF:-1,PINK ROMANCE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1505.ts
-#EXTINF:-1,PINK SCI-FI & FANTASY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/580.ts
-#EXTINF:-1,PINK SERIJE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/96.ts
-#EXTINF:-1,PINK SHOW
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/633.ts
-#EXTINF:-1,PINK SOAP
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/91.ts
-#EXTINF:-1,PINK STYLE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1920.ts
-#EXTINF:-1,PINK SUPER KIDS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/585.ts
-#EXTINF:-1,PINK THRILLER
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/95.ts
-#EXTINF:-1,PINK WESTERN
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/89.ts
-#EXTINF:-1,PINK WORLD CINEMA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/581.ts
-#EXTINF:-1,PINK ZABAVA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/92.ts
-#EXTINF:-1,NOVI PAZAR
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/291.ts
-#EXTINF:-1,TV SARAJEVO
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/616.ts
-#EXTINF:-1,KCN 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/279.ts
-#EXTINF:-1,KCN 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/280.ts
-#EXTINF:-1,AMC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/260.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1889.ts
-#EXTINF:-1,HBO
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/81.ts
-#EXTINF:-1,HBO 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/273.ts
-#EXTINF:-1,HBO 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/274.ts
-#EXTINF:-1,FOX
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/148.ts
-#EXTINF:-1,FOX CRIME
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/210.ts
-#EXTINF:-1,FOX LIFE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/147.ts
-#EXTINF:-1,FOX MOVIES
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/277.ts
-#EXTINF:-1,CINEMAX
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/275.ts
-#EXTINF:-1,CINEMAX 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/276.ts
-#EXTINF:-1,CINESTAR TV 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2935.ts
-#EXTINF:-1,CINESTAR TV 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2936.ts
-#EXTINF:-1,CINESTAR TV PREMIERE 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/370.ts
-#EXTINF:-1,CINESTAR TV PREMIERE 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/371.ts
-#EXTINF:-1,CINESTAR TV ACTION
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/713.ts
-#EXTINF:-1,CINESTAR TV FANTASY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2937.ts
-#EXTINF:-1,CINEMANIA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/82.ts
-#EXTINF:-1,MAX CRO SELECT 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3482.ts
-#EXTINF:-1,MAX CRO SELECT 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3483.ts
-#EXTINF:-1,MAX CRO SELECT 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3484.ts
-#EXTINF:-1,MAX CRO SELECT 4
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3485.ts
-#EXTINF:-1,MAX CRO SELECT 5
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3486.ts
-#EXTINF:-1,MAX CRO SELECT 6
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3487.ts
-#EXTINF:-1,MAX CRO SELECT 7
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3488.ts
-#EXTINF:-1,MAX CRO SELECT 8
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3489.ts
-#EXTINF:-1,MAX CRO SELECT 9
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3490.ts
-#EXTINF:-1,MAX CRO SELECT 10
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3491.ts
-#EXTINF:-1,KINO TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1496.ts
-#EXTINF:-1,KLASIK TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/69.ts
+http://krajnatv.com:8000/johnseven/skypeuser/65
+
+#EXTINF:-1,24 KITCHEN
+http://krajnatv.com:8000/johnseven/skypeuser/1584
+
 #EXTINF:-1,ANIMAL PLANET
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/149.ts
-#EXTINF:-1,BBC EARTH
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1888.ts
-#EXTINF:-1,CRIME & INVESTIGATION
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/269.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/78.ts
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1885.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1886.ts
-#EXTINF:-1,HISTORY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/203.ts
-#EXTINF:-1,HISTORY 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/589.ts
-#EXTINF:-1,LOV I RIBOLOV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/68.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/79.ts
-#EXTINF:-1,NAT GEO WILD
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/588.ts
-#EXTINF:-1,PLANET EARTH
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1887.ts
-#EXTINF:-1,TLC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/157.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/159.ts
-#EXTINF:-1,VIASAT EXPLORE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/301.ts
-#EXTINF:-1,VIASAT HISTORY
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/302.ts
-#EXTINF:-1,VIASAT NATURE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/303.ts
-#EXTINF:-1,VH1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/158.ts
-#EXTINF:-1,STUDIO B
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/83.ts
-#EXTINF:-1,MRT 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/48.ts
-#EXTINF:-1,MRT 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/602.ts
-#EXTINF:-1,MRT 3
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/614.ts
-#EXTINF:-1,KANAL 5
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/53.ts
-#EXTINF:-1,KANAL 5 PLUS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/625.ts
-#EXTINF:-1,TELMA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/52.ts
-#EXTINF:-1,ALFA TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/51.ts
-#EXTINF:-1,KUMANOVO TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/605.ts
-#EXTINF:-1,SITEL
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/54.ts
-#EXTINF:-1,SUTEL TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2707.ts
-#EXTINF:-1,RTCG 1
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/627.ts
-#EXTINF:-1,RTCG 2
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/606.ts
-#EXTINF:-1,RTCG SAT
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/84.ts
-#EXTINF:-1,PRVA CG
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/610.ts
-#EXTINF:-1,NOVA M
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1870.ts
-#EXTINF:-1,TV VIJESTI
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1508.ts
-#EXTINF:-1,PALMA PLUS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/80.ts
-#EXTINF:-1,FASHION TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/162.ts
-#EXTINF:-1,ATV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/62.ts
-#EXTINF:-1,OTV VALENTINO
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/146.ts
-#EXTINF:-1,TV DUGA PLUS
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/34.ts
-#EXTINF:-1,HAYAT MUSIC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/615.ts
+http://krajnatv.com:8000/johnseven/skypeuser/153
+
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/37
+
+#EXTINF:-1,ARENA SPORT 1 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/127
+
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/38
+
+#EXTINF:-1,ARENA SPORT 2 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/128
+
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/39
+
+#EXTINF:-1,ARENA SPORT 3 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/129
+
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/40
+
+#EXTINF:-1,ARENA SPORT 4 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/130
+
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/104
+
+#EXTINF:-1,ARENA SPORT 5 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/131
+
+#EXTINF:-1,ARENA SPORT 6 HD (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/206
+
+#EXTINF:-1,ATV BANJA LUKA
+http://krajnatv.com:8000/johnseven/skypeuser/2011
+
+#EXTINF:-1,AXN SPIN
+http://krajnatv.com:8000/johnseven/skypeuser/328
+
 #EXTINF:-1,BALKANIKA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/44.ts
+http://krajnatv.com:8000/johnseven/skypeuser/1602
+
+#EXTINF:-1,BHT 1
+http://krajnatv.com:8000/johnseven/skypeuser/1592
+
+#EXTINF:-1,BK TV
+http://krajnatv.com:8000/johnseven/skypeuser/1603
+
 #EXTINF:-1,BN MUSIC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/40.ts
-#EXTINF:-1,YU PLANET
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/43.ts
-#EXTINF:-1,MTV IGMAN
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/528.ts
-#EXTINF:-1,IZVORNA TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/624.ts
-#EXTINF:-1,GLAS DRINE
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/622.ts
-#EXTINF:-1,TV HRAM
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1412.ts
-#EXTINF:-1,HERC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1507.ts
-#EXTINF:-1,CMC MUSIC
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1527.ts
-#EXTINF:-1,POLJOPRIVREDNA TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1530.ts
-#EXTINF:-1,LAUDATO TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1531.ts
-#EXTINF:-1,RTV ZENICA
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1946.ts
-#EXTINF:-1,SANDZAK TV
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2088.ts
-#EXTINF:-1,RTS 1 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2544.ts
-#EXTINF:-1,PINK - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2547.ts
-#EXTINF:-1,PRVA - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2551.ts
-#EXTINF:-1,OBN - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2550.ts
-#EXTINF:-1,NOVA HR - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2545.ts
-#EXTINF:-1,ARENA SPORT 1 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2546.ts
-#EXTINF:-1,ARENA SPORT 2 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1410.ts
-#EXTINF:-1,ARENA SPORT 3 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1492.ts
-#EXTINF:-1,ARENA SPORT 4 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1493.ts
-#EXTINF:-1,SPORT KLUB 1 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1408.ts
-#EXTINF:-1,SPORT KLUB 2 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1409.ts
-#EXTINF:-1,SPORT KLUB 3 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1491.ts
-#EXTINF:-1,RTL - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2549.ts
-#EXTINF:-1,RTS 2 - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/1407.ts
-#EXTINF:-1,PINK WESTERN - low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/2548.ts
-#EXTINF:-1,NOVA S - Low
-http://android.mediaking.fi:8080/live/danus333@seznam.cz/Paris1910/3470.ts
+http://krajnatv.com:8000/johnseven/skypeuser/321
+
+#EXTINF:-1,BN TV
+http://krajnatv.com:8000/johnseven/skypeuser/1596
+
+#EXTINF:-1,CINEMANIA
+http://krajnatv.com:8000/johnseven/skypeuser/1582
+
+#EXTINF:-1,CINEMAX 1 HD
+http://krajnatv.com:8000/johnseven/skypeuser/56
+
+#EXTINF:-1,CINESTAR ACTION
+http://krajnatv.com:8000/johnseven/skypeuser/57
+
+#EXTINF:-1,CINESTAR FANTASY
+http://krajnatv.com:8000/johnseven/skypeuser/58
+
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://krajnatv.com:8000/johnseven/skypeuser/59
+
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://krajnatv.com:8000/johnseven/skypeuser/152
+
+#EXTINF:-1,CINESTAR TV 1 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/322
+
+#EXTINF:-1,CMC
+http://krajnatv.com:8000/johnseven/skypeuser/2014
+
+#EXTINF:-1,CITY TV
+http://krajnatv.com:8000/johnseven/skypeuser/253
+
+#EXTINF:-1,DA VINCI LEARNING
+http://krajnatv.com:8000/johnseven/skypeuser/273
+
+#EXTINF:-1,DICOVERY
+http://krajnatv.com:8000/johnseven/skypeuser/270
+
+#EXTINF:-1,DISCOVERY SCI
+http://krajnatv.com:8000/johnseven/skypeuser/271
+
+#EXTINF:-1,DM SAT
+http://krajnatv.com:8000/johnseven/skypeuser/30
+
+#EXTINF:-1,DOMA TV
+http://krajnatv.com:8000/johnseven/skypeuser/89
+
+#EXTINF:-1,DUGA TV
+http://krajnatv.com:8000/johnseven/skypeuser/53
+
+#EXTINF:-1,EURO SPORT 1 HD (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/1585
+
+#EXTINF:-1,EURO SPORT 2 HD (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/1586
+
+#EXTINF:-1,EUROSPORT 1 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/66
+
+#EXTINF:-1,EUROSPORT 2 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/67
+
+#EXTINF:-1,FEDERALNA TV
+http://krajnatv.com:8000/johnseven/skypeuser/151
+
+#EXTINF:-1,FILM BOX EXTRA
+http://krajnatv.com:8000/johnseven/skypeuser/35
+
+#EXTINF:-1,FILM BOX PLUS
+http://krajnatv.com:8000/johnseven/skypeuser/33
+
+#EXTINF:-1,FOX LIFE HD
+http://krajnatv.com:8000/johnseven/skypeuser/78
+
+#EXTINF:-1,FOX MOVIES
+http://krajnatv.com:8000/johnseven/skypeuser/79
+
+#EXTINF:-1,FOX TV
+http://krajnatv.com:8000/johnseven/skypeuser/77
+
+#EXTINF:-1,GRAND TV
+http://krajnatv.com:8000/johnseven/skypeuser/29
+
+#EXTINF:-1,GRAND TV 2
+http://krajnatv.com:8000/johnseven/skypeuser/64
+
+#EXTINF:-1,HAPPY TV
+http://krajnatv.com:8000/johnseven/skypeuser/4
+
+#EXTINF:-1,HAYAT FOLK
+http://krajnatv.com:8000/johnseven/skypeuser/82
+
+#EXTINF:-1,HAYAT MUSIC
+http://krajnatv.com:8000/johnseven/skypeuser/83
+
+#EXTINF:-1,HAYAT TV
+http://krajnatv.com:8000/johnseven/skypeuser/90
+
+#EXTINF:-1,HAYATOVCI
+http://krajnatv.com:8000/johnseven/skypeuser/84
+
+#EXTINF:-1,HBO HD
+http://krajnatv.com:8000/johnseven/skypeuser/94
+
+#EXTINF:-1,HBO 2 HD
+http://krajnatv.com:8000/johnseven/skypeuser/95
+
+#EXTINF:-1,HBO 3 HD
+http://krajnatv.com:8000/johnseven/skypeuser/96
+
+#EXTINF:-1,HISTORY
+http://krajnatv.com:8000/johnseven/skypeuser/166
+
+#EXTINF:-1,HISTORY 2
+http://krajnatv.com:8000/johnseven/skypeuser/133
+
+#EXTINF:-1,HRT 1 HD
+http://krajnatv.com:8000/johnseven/skypeuser/6
+
+#EXTINF:-1,HRT 2 HD
+http://krajnatv.com:8000/johnseven/skypeuser/7
+
+#EXTINF:-1,HRT 3 HD
+http://krajnatv.com:8000/johnseven/skypeuser/8
+
+#EXTINF:-1,HRT 4 HD
+http://krajnatv.com:8000/johnseven/skypeuser/9
+
+#EXTINF:-1,HRT INT.
+http://krajnatv.com:8000/johnseven/skypeuser/1597
+
+#EXTINF:-1,IDJ TV
+http://krajnatv.com:8000/johnseven/skypeuser/36
+
+#EXTINF:-1,JUGOTON
+http://krajnatv.com:8000/johnseven/skypeuser/324
+
+#EXTINF:-1,K::CN 1
+http://krajnatv.com:8000/johnseven/skypeuser/18
+
+#EXTINF:-1,K::CN 2
+http://krajnatv.com:8000/johnseven/skypeuser/19
+
+#EXTINF:-1,K::CN 3
+http://krajnatv.com:8000/johnseven/skypeuser/20
+
+#EXTINF:-1,LOV I RIBOLOV
+http://krajnatv.com:8000/johnseven/skypeuser/91
+
+#EXTINF:-1,MINIMAX
+http://krajnatv.com:8000/johnseven/skypeuser/1587
+
+#EXTINF:-1,N1 (BH)
+http://krajnatv.com:8000/johnseven/skypeuser/148
+
+#EXTINF:-1,N1 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/149
+
+#EXTINF:-1,N1 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/136
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://krajnatv.com:8000/johnseven/skypeuser/269
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://krajnatv.com:8000/johnseven/skypeuser/1600
+
+#EXTINF:-1,NICK JR (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/1605
+
+#EXTINF:-1,NICKELODION (HR
+http://krajnatv.com:8000/johnseven/skypeuser/330
+
+#EXTINF:-1,OBN
+http://krajnatv.com:8000/johnseven/skypeuser/88
+
+#EXTINF:-1,OTV VALENTINO
+http://krajnatv.com:8000/johnseven/skypeuser/254
+
+#EXTINF:-1,PICKBOX 1 TV
+http://krajnatv.com:8000/johnseven/skypeuser/1577
+
+#EXTINF:-1,PIKABOO
+http://krajnatv.com:8000/johnseven/skypeuser/1590
+
+#EXTINF:-1,PINK ACTION
+http://krajnatv.com:8000/johnseven/skypeuser/12
+
+#EXTINF:-1,PINK BIH
+http://krajnatv.com:8000/johnseven/skypeuser/63
+
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://krajnatv.com:8000/johnseven/skypeuser/14
+
+#EXTINF:-1,PINK FAMILY
+http://krajnatv.com:8000/johnseven/skypeuser/15
+
+#EXTINF:-1,PINK FILM
+http://krajnatv.com:8000/johnseven/skypeuser/16
+
+#EXTINF:-1,PINK FOLK 1
+http://krajnatv.com:8000/johnseven/skypeuser/69
+
+#EXTINF:-1,PINK FOLK 2
+http://krajnatv.com:8000/johnseven/skypeuser/54
+
+#EXTINF:-1,PINK HAHA
+http://krajnatv.com:8000/johnseven/skypeuser/275
+
+#EXTINF:-1,PINK HITS 1
+http://krajnatv.com:8000/johnseven/skypeuser/333
+
+#EXTINF:-1,PINK HITS 2
+http://krajnatv.com:8000/johnseven/skypeuser/332
+
+#EXTINF:-1,PINK HORROR
+http://krajnatv.com:8000/johnseven/skypeuser/120
+
+#EXTINF:-1,PINK KIDS
+http://krajnatv.com:8000/johnseven/skypeuser/115
+
+#EXTINF:-1,PINK KONCERT
+http://krajnatv.com:8000/johnseven/skypeuser/75
+
+#EXTINF:-1,PINK KUVAR
+http://krajnatv.com:8000/johnseven/skypeuser/165
+
+#EXTINF:-1,PINK LOL
+http://krajnatv.com:8000/johnseven/skypeuser/55
+
+#EXTINF:-1,PINK M
+http://krajnatv.com:8000/johnseven/skypeuser/342
+
+#EXTINF:-1,PINK MOVIES
+http://krajnatv.com:8000/johnseven/skypeuser/71
+
+#EXTINF:-1,PINK MUSIC 1
+http://krajnatv.com:8000/johnseven/skypeuser/28
+
+#EXTINF:-1,PINK MUSIC 2
+http://krajnatv.com:8000/johnseven/skypeuser/74
+
+#EXTINF:-1,PINK PEDIA
+http://krajnatv.com:8000/johnseven/skypeuser/331
+
+#EXTINF:-1,PINK PLUS
+http://krajnatv.com:8000/johnseven/skypeuser/72
+
+#EXTINF:-1,PINK PREMIUM
+http://krajnatv.com:8000/johnseven/skypeuser/73
+
+#EXTINF:-1,PINK REALITY
+http://krajnatv.com:8000/johnseven/skypeuser/150
+
+#EXTINF:-1,PINK ROMANCE
+http://krajnatv.com:8000/johnseven/skypeuser/92
+
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://krajnatv.com:8000/johnseven/skypeuser/203
+
+#EXTINF:-1,PINK SERIJE
+http://krajnatv.com:8000/johnseven/skypeuser/21
+
+#EXTINF:-1,PINK SHOW
+http://krajnatv.com:8000/johnseven/skypeuser/140
+
+#EXTINF:-1,PINK THILLER
+http://krajnatv.com:8000/johnseven/skypeuser/70
+
+#EXTINF:-1,PINK WESTERN
+http://krajnatv.com:8000/johnseven/skypeuser/93
+
+#EXTINF:-1,PINK WORLD CINEMA
+http://krajnatv.com:8000/johnseven/skypeuser/334
+
+#EXTINF:-1,PINK ZABAVA
+http://krajnatv.com:8000/johnseven/skypeuser/336
+
+#EXTINF:-1,PRVA FILES
+http://krajnatv.com:8000/johnseven/skypeuser/222
+
+#EXTINF:-1,PRVA LIFE
+http://krajnatv.com:8000/johnseven/skypeuser/263
+
+#EXTINF:-1,PRVA MAX
+http://krajnatv.com:8000/johnseven/skypeuser/27
+
+#EXTINF:-1,PRVA PLUS
+http://krajnatv.com:8000/johnseven/skypeuser/5
+
+#EXTINF:-1,PRVA TV
+http://krajnatv.com:8000/johnseven/skypeuser/23
+
+#EXTINF:-1,PRVA WORLD
+http://krajnatv.com:8000/johnseven/skypeuser/264
+
+#EXTINF:-1,RTL 2
+http://krajnatv.com:8000/johnseven/skypeuser/32
+
+#EXTINF:-1,RTL
+http://krajnatv.com:8000/johnseven/skypeuser/31
+
+#EXTINF:-1,RTL KOCKICA
+http://krajnatv.com:8000/johnseven/skypeuser/329
+
+#EXTINF:-1,RTL PASSION
+http://krajnatv.com:8000/johnseven/skypeuser/326
+
+#EXTINF:-1,RTRS
+http://krajnatv.com:8000/johnseven/skypeuser/1594
+
+#EXTINF:-1,RTRS PLUS
+http://krajnatv.com:8000/johnseven/skypeuser/1595
+
+#EXTINF:-1,RTS DRAMA
+http://krajnatv.com:8000/johnseven/skypeuser/137
+
+#EXTINF:-1,RTS KOLO
+http://krajnatv.com:8000/johnseven/skypeuser/1598
+
+#EXTINF:-1,RTS MUZIKA
+http://krajnatv.com:8000/johnseven/skypeuser/257
+
+#EXTINF:-1,RTS SVET HD
+http://krajnatv.com:8000/johnseven/skypeuser/260
+
+#EXTINF:-1,RTS TREZOR
+http://krajnatv.com:8000/johnseven/skypeuser/258
+
+#EXTINF:-1,RTS ZIVOT
+http://krajnatv.com:8000/johnseven/skypeuser/138
+
+#EXTINF:-1,RT VOJVODINA 1
+http://krajnatv.com:8000/johnseven/skypeuser/265
+
+#EXTINF:-1,RTV BRANICEVO
+http://krajnatv.com:8000/johnseven/skypeuser/1653
+
+#EXTINF:-1,RTV MALVA
+http://krajnatv.com:8000/johnseven/skypeuser/1652
+
+#EXTINF:-1,SAT TV
+http://krajnatv.com:8000/johnseven/skypeuser/1654
+
+#EXTINF:-1,SOS TV
+http://krajnatv.com:8000/johnseven/skypeuser/2016
+
+#EXTINF:-1,SPORT KLUB 1 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/60
+
+#EXTINF:-1,SPORT KLUB 1 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/121
+
+#EXTINF:-1,SPORT KLUB 2 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/61
+
+#EXTINF:-1,SPORT KLUB 2 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/122
+
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/62
+
+#EXTINF:-1,SPORT KLUB 3 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/123
+
+#EXTINF:-1,SPORT KLUB 4 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/204
+
+#EXTINF:-1,SPORT KLUB 4 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/124
+
+#EXTINF:-1,SPORT KLUB 5 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/205
+
+#EXTINF:-1,SPORT KLUB 6 (HR)
+http://krajnatv.com:8000/johnseven/skypeuser/103
+
+#EXTINF:-1,SPORT KLUB 6 (SR)
+http://krajnatv.com:8000/johnseven/skypeuser/125
+
+#EXTINF:-1,STUDIO B
+http://krajnatv.com:8000/johnseven/skypeuser/42
+
+#EXTINF:-1,TLC
+http://krajnatv.com:8000/johnseven/skypeuser/1599
+
+#EXTINF:-1,TRAVEL TV
+http://krajnatv.com:8000/johnseven/skypeuser/323
+
+#EXTINF:-1,TV 1000
+http://krajnatv.com:8000/johnseven/skypeuser/1583
+
+#EXTINF:-1,TV BABY
+http://krajnatv.com:8000/johnseven/skypeuser/1589
+
+#EXTINF:-1,TV BOR
+http://krajnatv.com:8000/johnseven/skypeuser/1604
+
+#EXTINF:-1,TV F
+http://krajnatv.com:8000/johnseven/skypeuser/1655
+
+#EXTINF:-1,TV ISTOK
+http://krajnatv.com:8000/johnseven/skypeuser/1656
+
+#EXTINF:-1,TV KLADOVO
+http://krajnatv.com:8000/johnseven/skypeuser/1657
+
+#EXTINF:-1,TV MINI
+http://krajnatv.com:8000/johnseven/skypeuser/1588
+
+#EXTINF:-1,TV SARAJEVO
+http://krajnatv.com:8000/johnseven/skypeuser/1593
+
+#EXTINF:-1,TV SEZAM BOR
+http://krajnatv.com:8000/johnseven/skypeuser/1658
+
+#EXTINF:-1,TV TRANS
+http://krajnatv.com:8000/johnseven/skypeuser/1659
+
+#EXTINF:-1,VIASAT EXPLORER
+http://krajnatv.com:8000/johnseven/skypeuser/268
+
+#EXTINF:-1,VIASAT HISTORY
+http://krajnatv.com:8000/johnseven/skypeuser/267
+
+#EXTINF:-1,VIASAT NATURE
+http://krajnatv.com:8000/johnseven/skypeuser/223
+
+#EXTINF:-1,VINKOVACKA TV
+http://krajnatv.com:8000/johnseven/skypeuser/2015
+
+#EXTINF:-1,Z1
+http://krajnatv.com:8000/johnseven/skypeuser/2013
+
