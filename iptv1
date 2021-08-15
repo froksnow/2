@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1,RTS 1 ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/187
-
 #EXTINF:-1,RTS 1 HD ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2346
 
-#EXTINF:-1,RTS 3 SRB ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/4024
-
-#EXTINF:-1,RTS Satelit ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/221
+#EXTINF:-1,Pink 1 ex-Yu
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2311
 
 #EXTINF:-1,Prva 1 SRB ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/212
@@ -17,14 +11,6 @@ http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/212
 #EXTINF:-1,Nova RS SRB ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/210
 
-#EXTINF:-1,RTV 1 ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9062
-
-#EXTINF:-1,MRTV 2 ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9061
-
-#EXTINF:-1,TV Kraljevo ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9051
 
 #EXTINF:-1,B 92 ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2345
@@ -32,41 +18,11 @@ http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2345
 #EXTINF:-1,O2.TV ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9067
 
-#EXTINF:-1,Duga TV ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/3839
-
-#EXTINF:-1,TV ISTOK 1 ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9046
-
-#EXTINF:-1,TV ISTOK 2 ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/13948
-
-#EXTINF:-1,RTV Vojvodina 1 SRB ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/4019
-
-#EXTINF:-1,RTV Pazar ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9059
-
-#EXTINF:-1,RTV MLAVA ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9043
-
-#EXTINF:-1,TLC SRB ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/223
-
-#EXTINF:-1,TV Hram ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9047
-
-#EXTINF:-1,TV KLADOVO ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9044
-
 #EXTINF:-1,Prva Max ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/181
 
 #EXTINF:-1,Prva Plus SRB ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/213
-
-#EXTINF:-1,Novi Pazar SRB ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/4021
 
 #EXTINF:-1,AXN SRB ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/4020
@@ -83,20 +39,11 @@ http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/206
 #EXTINF:-1,KCN 3 ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/207
 
-#EXTINF:-1,Klasik TV ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2335
-
 #EXTINF:-1,Palma Plus ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9060
 
 #EXTINF:-1,Studio B ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/5623
-
-#EXTINF:-1,SOS Kanal SRB ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/4011
-
-#EXTINF:-1,HNTV ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/200
 
 #EXTINF:-1,HRT 1 ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/201
@@ -131,18 +78,6 @@ http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2321
 #EXTINF:-1,Fox Movies ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2319
 
-#EXTINF:-1,Z1 ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/3837
-
-#EXTINF:-1,RTL Living ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/219
-
-#EXTINF:-1,RTL Passion ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/185
-
-#EXTINF:-1,Doma TV ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/195
-
 #EXTINF:-1,Nova TV HD ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9039
 
@@ -151,12 +86,6 @@ http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9038
 
 #EXTINF:-1,Nova ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/3838
-
-#EXTINF:-1,Diva TV ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/9033
-
-#EXTINF:-1,Pink 1 ex-Yu
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2311
 
 #EXTINF:-1,Pink 2 ex-Yu
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2308
