@@ -1,615 +1,996 @@
 #EXTM3U
-#EXTINF:-1,GLOBAL TV INFO CORONAVIRUS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4303
-#EXTINF:-1,DOBRA INFO
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4231
-#EXTINF:-1,DOBRA BALKANSKA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4232
-#EXTINF:-1,DOBRA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4233
-#EXTINF:-1,DOBRA CINEMA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4236
-#EXTINF:-1,DOBRA EXCLUSIVE HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4251
-#EXTINF:-1,DOBRA MUZICKA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4245
-#EXTINF:-1,DOBRA ISLAMSKA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4318
-#EXTINF:-1,DOBRA RUSKA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/2234
-#EXTINF:-1,GOOD INTERNATIONAL HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4242
-#EXTINF:-1,E MIRE SHQIPTARE HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4249
+#EXTINF:-1,RTS1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/31
+
+#EXTINF:-1,RTS2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/32
+
+#EXTINF:-1,Pink
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/26
+
+#EXTINF:-1,PINK 3 Info
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/27
+
+#EXTINF:-1,Happy TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/75
+
+#EXTINF:-1,N1 RS
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/13
+
+#EXTINF:-1,NOVA RS
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/220
+
 #EXTINF:-1,HRT 1 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5372
-#EXTINF:-1,HRT 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5374
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/325
+
 #EXTINF:-1,HRT 3 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5375
-#EXTINF:-1,HRT 4 HD.
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5376
-#EXTINF:-1,HRT INT. HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/7
-#EXTINF:-1,N1 (HR)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/14
-#EXTINF:-1,NOVA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/993
-#EXTINF:-1,DOMA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/6
-#EXTINF:-1,RTL 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1395
-#EXTINF:-1,RTL HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/8
-#EXTINF:-1,RTL PASSION HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/10
-#EXTINF:-1,RTL LIVING HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/11
-#EXTINF:-1,RTL CRIME HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/12
-#EXTINF:-1,Z1
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/15
-#EXTINF:-1,OSJECKA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4062
-#EXTINF:-1,SLAVONSKA TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/21
-#EXTINF:-1,VINKOVACKA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/13
-#EXTINF:-1,VTV TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/22
-#EXTINF:-1,SB TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4311
-#EXTINF:-1,KANAL RI
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/16
-#EXTINF:-1,TV ISTRA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/17
-#EXTINF:-1,OTV  HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/18
-#EXTINF:-1,TV TREND KARLOVAC HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/19
-#EXTINF:-1,RTV BANOVINA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/23
-#EXTINF:-1,POLJOPRIVREDNA TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/25
-#EXTINF:-1,TV DALMACIJA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/28
-#EXTINF:-1,TV JADRAN
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/29
-#EXTINF:-1,TV SIBENIK
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/30
-#EXTINF:-1,TV DUBROVNIK
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/31
-#EXTINF:-1,LIBERTAS TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/32
-#EXTINF:-1,TV MARS VALJEVO
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/34
-#EXTINF:-1,ZDRAVA TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/26
-#EXTINF:-1,MARY TV MEDJUGORJE HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/943
-#EXTINF:-1,LAUDATO TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/33
-#EXTINF:-1,BHT 1 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/330
-#EXTINF:-1,FEDERALNA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4350
-#EXTINF:-1,TV SARAJEVO HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3737
-#EXTINF:-1,HAYAT HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3796
-#EXTINF:-1,HAYAT PLUS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/336
-#EXTINF:-1,OBN HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/332
-#EXTINF:-1,BN HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/337
-#EXTINF:-1,NOVA BH HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4301
-#EXTINF:-1,N1 (BIH)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4792
-#EXTINF:-1,N1 HD (BIH).
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/357
-#EXTINF:-1,FACE TV HD.
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3738
-#EXTINF:-1,FACE TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4304
-#EXTINF:-1,AL JAZEERA BALKANS HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3739
-#EXTINF:-1,TV DUGA PLUS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3863
-#EXTINF:-1,PRVA HERCEGOVACKA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3891
-#EXTINF:-1,TELEVIZIJA 5  HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4074
-#EXTINF:-1,BNV TV SANDZAK
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4260
-#EXTINF:-1,SUPER TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4265
-#EXTINF:-1,RTV PODRINJE JANJA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4268
-#EXTINF:-1,SANDZAK TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4275
-#EXTINF:-1,OTV VALENTINO
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1907
-#EXTINF:-1,NTV IC KAKANJ
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1910
-#EXTINF:-1,RTV 7 TUZLA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4300
-#EXTINF:-1,K3 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4310
-#EXTINF:-1,TV POSAVINA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/340
-#EXTINF:-1,ALFA TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/341
-#EXTINF:-1,HIT BRCKO TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/343
-#EXTINF:-1,B1 TV GRADACAC HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/348
-#EXTINF:-1,HEMA TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/352
-#EXTINF:-1,KANAL 6 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/355
-#EXTINF:-1,RTV SLON HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/359
-#EXTINF:-1,RTV HERCEG BOSNE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/360
-#EXTINF:-1,RTV TK
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/361
-#EXTINF:-1,RTV ZENICA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/362
-#EXTINF:-1,RTV BUGOJNO
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/363
-#EXTINF:-1,RTV VISOKO HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/364
-#EXTINF:-1,VIKOM TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/366
-#EXTINF:-1,CITY TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/404
-#EXTINF:-1,ATV BANJA LUKA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/367
-#EXTINF:-1,MTV IGMAN HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/345
-#EXTINF:-1,TV MEKKA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4348
-#EXTINF:-1,RTV BIR HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/6401
-#EXTINF:-1,RTS 1 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/49
-#EXTINF:-1,RTS 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/50
-#EXTINF:-1,RTS 3 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/51
-#EXTINF:-1,NOVA S HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5584
-#EXTINF:-1,PRVA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/60
-#EXTINF:-1,PRVA MAX
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/61
-#EXTINF:-1,PRVA KICK
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/62
-#EXTINF:-1,PRVA PLUS HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/63
-#EXTINF:-1,PRVA WORLD HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/64
-#EXTINF:-1,PRVA FILES
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/65
-#EXTINF:-1,PRVA LIFE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/368
-#EXTINF:-1,RTS DRAMA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/52
-#EXTINF:-1,RTS TREZOR
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/53
-#EXTINF:-1,RTS KOLO
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/54
-#EXTINF:-1,RTS SVET HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/55
-#EXTINF:-1,RTS ZIVOT
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/56
-#EXTINF:-1,RTS MUZIKA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/57
-#EXTINF:-1,N1 HD (SR)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/58
-#EXTINF:-1,TV PI PIROT
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/6056
-#EXTINF:-1,AURORA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/48
-#EXTINF:-1,HAPPY PAROVI 2 LIVE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5814
-#EXTINF:-1,HAPPY PAROVI 1 LIVE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1890
-#EXTINF:-1,RTV VOJVODINA 1
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/66
-#EXTINF:-1,RTV VOJVODINA 2
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/67
-#EXTINF:-1,B92 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/68
-#EXTINF:-1,HAPPY TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/69
-#EXTINF:-1,STUDIO B HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/71
-#EXTINF:-1,TV LESKOVAC
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/77
-#EXTINF:-1,BELLE AMIE TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/369
-#EXTINF:-1,RTV MIR
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/6057
-#EXTINF:-1,RTE TWO HD (UK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/372
-#EXTINF:-1,RTRS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/378
-#EXTINF:-1,RTRS PLUS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/379
-#EXTINF:-1,PALMA PLUS HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/80
-#EXTINF:-1,RTV BOR
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/82
-#EXTINF:-1,HRAM TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/89
-#EXTINF:-1,JEFIMIJA TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/90
-#EXTINF:-1,RTV NOVI PAZAR
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/94
-#EXTINF:-1,KCN 1
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/73
-#EXTINF:-1,KCN 2
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/95
-#EXTINF:-1,KCN 3
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/96
-#EXTINF:-1,RTCG SAT HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/396
-#EXTINF:-1,TV HUGO 1 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/413
-#EXTINF:-1,TV HUGO 2 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/414
-#EXTINF:-1,TV HUGO 3 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/415
-#EXTINF:-1,TV HUGO 4 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/416
-#EXTINF:-1,MPT 1 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/417
-#EXTINF:-1,MPT 2 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/418
-#EXTINF:-1,MPT SOBRANISKI (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/419
-#EXTINF:-1,24 VESTI HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/421
-#EXTINF:-1,KANAL 5 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/422
-#EXTINF:-1,SITEL HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/423
-#EXTINF:-1,TELMA HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/425
-#EXTINF:-1,ALFA TV (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/426
-#EXTINF:-1,NASA TV (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/427
-#EXTINF:-1,ALSAT TV HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/428
-#EXTINF:-1,TV HUGO 5 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/429
-#EXTINF:-1,EDO TV (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/432
-#EXTINF:-1,M1 GOLD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/433
-#EXTINF:-1,BABY TV (UK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/434
-#EXTINF:-1,KANAL 8 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/435
-#EXTINF:-1,RTV 21 HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/436
-#EXTINF:-1,SUTEL TV (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/442
-#EXTINF:-1,TV SONCE (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/445
-#EXTINF:-1,IN TV AUSTRALIA HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3846
-#EXTINF:-1,SKY FOLK HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4285
-#EXTINF:-1,MAKEDONSKA TV HD (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5690
-#EXTINF:-1,IRIS TV (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/446
-#EXTINF:-1,FOX (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/447
-#EXTINF:-1,FOX MOVIES (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/448
-#EXTINF:-1,FOX LIFE (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/449
-#EXTINF:-1,FOX CRIME (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/450
-#EXTINF:-1,TV 1000 (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/454
-#EXTINF:-1,NATIONAL GEOGRAPHIC (MK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/456
-#EXTINF:-1,PINK HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/97
-#EXTINF:-1,PINK VESTI
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/99
-#EXTINF:-1,PINK PLUS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/100
-#EXTINF:-1,PINK M
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/101
-#EXTINF:-1,PINK SOAP
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/102
-#EXTINF:-1,PINK ACTION
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/103
-#EXTINF:-1,PINK FILM
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/104
-#EXTINF:-1,PINK PREMIUM HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/105
-#EXTINF:-1,PINK COMEDY
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/106
-#EXTINF:-1,PINK HOROR
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/107
-#EXTINF:-1,PINK MOVIES
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/108
-#EXTINF:-1,PINK CRIME AND MYSTERY
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/109
-#EXTINF:-1,PINK WORLD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/110
-#EXTINF:-1,PINK WESTERN
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/111
-#EXTINF:-1,PINK SCI FI AND FANTASY
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/112
-#EXTINF:-1,PINK THRILLER
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/113
-#EXTINF:-1,PINK SERIJE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/114
-#EXTINF:-1,PINK CLASSIC
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/115
-#EXTINF:-1,PINK ROMANCE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/116
-#EXTINF:-1,PINK EXTRA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1894
-#EXTINF:-1,PINK ZABAVA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/117
-#EXTINF:-1,PINK KUVAR
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/118
-#EXTINF:-1,PINK REALITY
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/119
-#EXTINF:-1,PINK WORLD CINEMA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/120
-#EXTINF:-1,PINK PEDIA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/121
-#EXTINF:-1,PINK LOL
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/122
-#EXTINF:-1,PINK HAHA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/123
-#EXTINF:-1,PINK BH
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/124
-#EXTINF:-1,PINK FAMILY
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1895
-#EXTINF:-1,PINK FASHION
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1896
-#EXTINF:-1,PINK ZADRUGA 1 - 24/7
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/138
-#EXTINF:-1,PINK ZADRUGA 2 - 24/7
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/139
-#EXTINF:-1,PINK ZADRUGA 3 - 24/7
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/140
-#EXTINF:-1,PINK ZADRUGA 4 - 24/7
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/397
-#EXTINF:-1,HBO HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/461
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/326
+
+#EXTINF:-1,HRT 4 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/327
+
+#EXTINF:-1,DOMA HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/328
+
+#EXTINF:-1,HRT 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/539
+
+#EXTINF:-1,Studio B
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/127
+
+#EXTINF:-1,Prva
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/211
+
 #EXTINF:-1,HBO 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/462
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/87
+
 #EXTINF:-1,HBO 3 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/463
-#EXTINF:-1,CINESTAR TV 1 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/464
-#EXTINF:-1,CINESTAR ACTION (HR)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/465
-#EXTINF:-1,CINESTAR FANTASY HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/466
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/467
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/468
-#EXTINF:-1,CINEMAX 1 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/469
-#EXTINF:-1,CINEMAX 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/470
-#EXTINF:-1,FOX HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4703
-#EXTINF:-1,FOX MOVIES HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4705
-#EXTINF:-1,FOX MOVIES HD.
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/472
-#EXTINF:-1,FOX CRIME HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/473
-#EXTINF:-1,FOX LIFE HD.
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/474
-#EXTINF:-1,FOX LIFE HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4706
-#EXTINF:-1,FOX CRIME
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4704
-#EXTINF:-1,EPIC DRAMA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/520
-#EXTINF:-1,AXN ADRIA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/475
-#EXTINF:-1,AXN SPIN
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/476
-#EXTINF:-1,M1 FILM
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/477
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/88
+
+#EXTINF:-1,Cinemania
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/89
+
+#EXTINF:-1,Cinemax 1 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/90
+
+#EXTINF:-1,Cinemax 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/91
+
 #EXTINF:-1,FILMBOX EXTRA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/478
-#EXTINF:-1,FILMBOX STARS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/479
-#EXTINF:-1,AMC HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/480
-#EXTINF:-1,KINO TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/481
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/93
+
+#EXTINF:-1,Kino TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/131
+
+#EXTINF:-1,AXN
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/132
+
+#EXTINF:-1,Cinestart Premiere 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/134
+
+#EXTINF:-1,AXN Spin
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/230
+
+#EXTINF:-1,FOX LIFE FHD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/519
+
+#EXTINF:-1,M1 Gold HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/919
+
+#EXTINF:-1,Epic Drama
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/922
+
+#EXTINF:-1,Sci-Fi
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/923
+
+#EXTINF:-1,STAR TV HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/972
+
+#EXTINF:-1,SuperStar TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/973
+
+#EXTINF:-1,M1 Film
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/978
+
+#EXTINF:-1,FilmBox Stars HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/982
+
+#EXTINF:-1,CineStar TV2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2541
+
+#EXTINF:-1,pickbox TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3052
+
+#EXTINF:-1,Fox Life
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/44
+
+#EXTINF:-1,E! Entertainment
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/45
+
+#EXTINF:-1,CineStar TV 1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/47
+
+#EXTINF:-1,FOX
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/56
+
+#EXTINF:-1,Fox Movies
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/57
+
+#EXTINF:-1,Fox Crime
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/58
+
+#EXTINF:-1,Sport Klub 1 RS HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/105
+
+#EXTINF:-1,Sport Klub 2 RS HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/106
+
+#EXTINF:-1,Sport Klub 3 RS HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/107
+
+#EXTINF:-1,Sport Klub 1 HD Hr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/108
+
+#EXTINF:-1,Sport Klub 2 HD Hr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/109
+
+#EXTINF:-1,Sport Klub 3 HD Hr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/110
+
+#EXTINF:-1,Sport Klub 4 hr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/111
+
+#EXTINF:-1,Sport Klub 5 hr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/112
+
+#EXTINF:-1,Sport Klub 6 Hr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/113
+
+#EXTINF:-1,Sport Klub Golf
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/114
+
+#EXTINF:-1,Arena Sport 1 HD Sr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/100
+
+#EXTINF:-1,Arena Sport 2 HD Sr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/101
+
+#EXTINF:-1,Arena Sport 3 HD Sr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/102
+
+#EXTINF:-1,Arena Sport 4 HD Sr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/103
+
+#EXTINF:-1,Arena Sport 5 HD Sr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/104
+
+#EXTINF:-1,Prva Plus
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/212
+
+#EXTINF:-1,Prva MAX
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/213
+
+#EXTINF:-1,Prva KICK
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/214
+
+#EXTINF:-1,Prva World
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/215
+
+#EXTINF:-1,RTS Zivot
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/221
+
+#EXTINF:-1,RTS SVET
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/222
+
+#EXTINF:-1,RTS Drama
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/223
+
+#EXTINF:-1,RTS Trezor
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/224
+
+#EXTINF:-1,Nova S
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/333
+
+#EXTINF:-1,O Kanal
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/334
+
+#EXTINF:-1,Duga TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/580
+
+#EXTINF:-1,RTV Slon
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/693
+
+#EXTINF:-1,HAPPY TV PAROVI LIVE
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/695
+
+#EXTINF:-1,Sandzak tv HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/781
+
+#EXTINF:-1,Novi Pazar
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/782
+
+#EXTINF:-1,Sandzacka tv mreza
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/783
+
+#EXTINF:-1,Zadruga 3
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/921
+
+#EXTINF:-1,TV Most
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/933
+
+#EXTINF:-1,TV Istok
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/935
+
+#EXTINF:-1,Palma Plus
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/937
+
+#EXTINF:-1,Belle Amie
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/938
+
+#EXTINF:-1,Poljoprivredna TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/939
+
+#EXTINF:-1,Svet Plus
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/951
+
+#EXTINF:-1,RTS Poletarac
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/965
+
+#EXTINF:-1,RTS3
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/966
+
+#EXTINF:-1,RTS Kolo
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/967
+
+#EXTINF:-1,RTS Muzika
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/968
+
+#EXTINF:-1,Red TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/969
+
+#EXTINF:-1,Duga Plus
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/970
+
+#EXTINF:-1,Zadruga 1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/974
+
+#EXTINF:-1,Zadruga 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/975
+
+#EXTINF:-1,Prva Files
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/979
+
+#EXTINF:-1,K 3
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/1903
+
+#EXTINF:-1,Mlava TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2553
+
+#EXTINF:-1,Nov@ Sport BH
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/716
+
+#EXTINF:-1,nov@ sport
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2434
+
+#EXTINF:-1,nov@ BiH
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2435
+
+#EXTINF:-1,nov@ TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2436
+
+#EXTINF:-1,nov@ S HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2437
+
+#EXTINF:-1,nov@ M HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2438
+
+#EXTINF:-1,nov@ documentary 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2942
+
+#EXTINF:-1,nov@ documentary 2 FHD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2943
+
+#EXTINF:-1,nov@ cinema 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2954
+
+#EXTINF:-1,nov@ documentary 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4025
+
+#EXTINF:-1,nov@ cinema 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4027
+
+#EXTINF:-1,nov@ cinema
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4420
+
+#EXTINF:-1,nov@ documentary
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4753
+
+#EXTINF:-1,HTV1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/1
+
+#EXTINF:-1,N1 HR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/12
+
+#EXTINF:-1,NOVA TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/19
+
+#EXTINF:-1,Doma TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/20
+
+#EXTINF:-1,RTL2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/21
+
+#EXTINF:-1,HTV2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/22
+
+#EXTINF:-1,HTV3
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/23
+
+#EXTINF:-1,HTV4
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/24
+
+#EXTINF:-1,RTL Crime
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/39
+
+#EXTINF:-1,RTL Living
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/63
+
+#EXTINF:-1,RTL Passion
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/81
+
+#EXTINF:-1,Z1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/128
+
+#EXTINF:-1,HTV5
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/130
+
+#EXTINF:-1,RTL
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/140
+
+#EXTINF:-1,Nova TV HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/210
+
+#EXTINF:-1,HRT INT.
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/540
+
+#EXTINF:-1,Mreza Zagreb
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/707
+
+#EXTINF:-1,Mreza Split
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/708
+
+#EXTINF:-1,Osjecka TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/710
+
+#EXTINF:-1,Vinkovacka TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/711
+
 #EXTINF:-1,DIVA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/482
-#EXTINF:-1,CINEMANIA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/483
-#EXTINF:-1,TV 1000
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/484
-#EXTINF:-1,SCI FI HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/485
-#EXTINF:-1,KLASIK TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/486
-#EXTINF:-1,MAXCRO SELECT 1 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/37
-#EXTINF:-1,MAXCRO SELECT 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/38
-#EXTINF:-1,MAXCRO SELECT 3 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/39
-#EXTINF:-1,MAXCRO SELECT 4 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/40
-#EXTINF:-1,MAXCRO SELECT 5 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/41
-#EXTINF:-1,MAXCRO SELECT 6 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/42
-#EXTINF:-1,MAXCRO SELECT 7 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/43
-#EXTINF:-1,MAXCRO SELECT 8 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/44
-#EXTINF:-1,MAXCRO SELECT 9 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/45
-#EXTINF:-1,MAXCRO SELECT 10 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/46
-#EXTINF:-1,MAXCRO SELECT 11 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/47
-#EXTINF:-1,MAXCRO PREMIUM HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5862
-#EXTINF:-1,CRIME & INVESTIGATION
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/489
-#EXTINF:-1,DISCOVERY ID
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/490
-#EXTINF:-1,CBS REALITY
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/491
-#EXTINF:-1,E! HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/500
-#EXTINF:-1,TLC HD.
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/537
-#EXTINF:-1,DOKU TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/513
-#EXTINF:-1,TRAVEL CHANNEL
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/506
-#EXTINF:-1,PLANET EARTH HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1724
-#EXTINF:-1,BBC EARTH HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/492
-#EXTINF:-1,COMEDY CENTRAL EXTRA
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/494
-#EXTINF:-1,DA VINCI LEARNING / KIDS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/495
-#EXTINF:-1,HISTORY CHANNEL HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/502
-#EXTINF:-1,HISTORY 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/503
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/496
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/497
-#EXTINF:-1,DISCOVERY TURBO XTRA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/498
-#EXTINF:-1,DOCUBOX HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/499
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/505
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD.
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1793
-#EXTINF:-1,VIASAT EXPLORE HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/507
-#EXTINF:-1,VIASAT HISTORY
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/508
-#EXTINF:-1,VIASAT NATURE HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/509
-#EXTINF:-1,ANIMAL PLANET HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/493
-#EXTINF:-1,NAT GEO WILD HD.
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/504
-#EXTINF:-1,NAT GEO WILD HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4829
-#EXTINF:-1,FOOD NETWORK HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4352
-#EXTINF:-1,24 KITCHEN
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/516
-#EXTINF:-1,LOV I RIBOLOV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/517
-#EXTINF:-1,HD FASHION & LIFESTYLE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/515
-#EXTINF:-1,FASHION TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1532
-#EXTINF:-1,RUSIJA TODAY HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4021
-#EXTINF:-1,GINX ESPORTS TV HD (UK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/6498
-#EXTINF:-1,NICK JUNIOR (HR)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/930
-#EXTINF:-1,NICKELODEON (HR)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/931
-#EXTINF:-1,RTL KOCKICA HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/932
-#EXTINF:-1,VAVOOM
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/939
-#EXTINF:-1,PIKABOO TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/940
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/918
+
+#EXTINF:-1,Banovina
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/927
+
+#EXTINF:-1,Slavonska
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/929
+
+#EXTINF:-1,Kanal Ri
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/941
+
+#EXTINF:-1,TV Dubrovnik
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/942
+
+#EXTINF:-1,TV Jadran
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/944
+
+#EXTINF:-1,TV Sibenik
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/945
+
+#EXTINF:-1,TV Karlovac
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/946
+
+#EXTINF:-1,RTL HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3678
+
+#EXTINF:-1,PLAVA VINKOVACKA TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4422
+
+#EXTINF:-1,BHT1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2
+
+#EXTINF:-1,Federalna TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3
+
+#EXTINF:-1,OBN
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4
+
+#EXTINF:-1,Hayat HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/5
+
+#EXTINF:-1,Hayat Plus
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/6
+
+#EXTINF:-1,Face TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/7
+
+#EXTINF:-1,Nova BH
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/8
+
+#EXTINF:-1,Pink BH
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/9
+
+#EXTINF:-1,Al Jazeera Balkans
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/10
+
+#EXTINF:-1,N1 BA
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/11
+
+#EXTINF:-1,BN
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/14
+
+#EXTINF:-1,TVSA
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/15
+
+#EXTINF:-1,TV1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/16
+
+#EXTINF:-1,TV Tuzlanski kanton
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/17
+
+#EXTINF:-1,ATV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/18
+
+#EXTINF:-1,RTRS
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/29
+
+#EXTINF:-1,RTRS Plus
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/30
+
+#EXTINF:-1,Hayat Folk
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/62
+
+#EXTINF:-1,Oscar C
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/79
+
+#EXTINF:-1,Posavina TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/133
+
+#EXTINF:-1,Laudato TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/257
+
+#EXTINF:-1,RTV Herceg Bosne
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/337
+
+#EXTINF:-1,RTV USK
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/338
+
+#EXTINF:-1,MTV Igman
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/348
+
+#EXTINF:-1,Izvorna TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/511
+
+#EXTINF:-1,TV Sarajevo
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/513
+
+#EXTINF:-1,Nova BiH HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/516
+
+#EXTINF:-1,TV USK
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/541
+
+#EXTINF:-1,Glas Drine
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/839
+
+#EXTINF:-1,Medjugorje HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/840
+
+#EXTINF:-1,Herceg TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/930
+
+#EXTINF:-1,RTV Podrinje
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/932
+
+#EXTINF:-1,TV Cazin HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/934
+
+#EXTINF:-1,Alfa TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/947
+
+#EXTINF:-1,Televizija 5
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/948
+
+#EXTINF:-1,Alternativna TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/949
+
+#EXTINF:-1,TV Bugojno
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/950
+
+#EXTINF:-1,RTV Zenica
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/953
+
+#EXTINF:-1,RTV TK
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/955
+
+#EXTINF:-1,TV Vogosca
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/959
+
+#EXTINF:-1,Hema TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/960
+
+#EXTINF:-1,RTV Krajina
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/971
+
+#EXTINF:-1,TV7 Tuzla
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/981
+
+#EXTINF:-1,Mir tv HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/1993
+
+#EXTINF:-1,NTV IC Kakanj
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2387
+
+#EXTINF:-1,BN 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3679
+
+#EXTINF:-1,Zadruga 4
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3684
+
+#EXTINF:-1,RTCG SAT
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/25
+
+#EXTINF:-1,RTCG 1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/329
+
+#EXTINF:-1,RTCG 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/330
+
+#EXTINF:-1,Nova M
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/331
+
+#EXTINF:-1,TV Vijesti
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/332
+
+#EXTINF:-1,BABY TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/35
+
+#EXTINF:-1,Nick JR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/36
+
+#EXTINF:-1,Boomerang
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/37
+
+#EXTINF:-1,RTL Kockica
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/38
+
+#EXTINF:-1,Cartoon Network
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/43
+
+#EXTINF:-1,Hayatovci
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/64
+
+#EXTINF:-1,Nickelodeon
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/66
+
+#EXTINF:-1,HAHA
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/67
+
+#EXTINF:-1,Pink Super Kids
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/72
+
+#EXTINF:-1,TNT Kids
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/126
+
+#EXTINF:-1,PIKABOO
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/232
+
+#EXTINF:-1,LOL
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/512
+
 #EXTINF:-1,MINIMAX
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/933
-#EXTINF:-1,NICK JUNIOR (SR)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/934
-#EXTINF:-1,PINK SUPER KIDS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/935
-#EXTINF:-1,MINI TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/936
-#EXTINF:-1,DUCK TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4664
-#EXTINF:-1,NICKELODEON (SR)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/938
-#EXTINF:-1,HAYATOVCI HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/941
-#EXTINF:-1,TNT KIDS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/942
-#EXTINF:-1,PINK KIDS
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/129
-#EXTINF:-1,RTS POLETARAC
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/399
-#EXTINF:-1,SMILE
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/6284
-#EXTINF:-1,LOONEY TUNES TV HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/457
-#EXTINF:-1,MASA I MEDVJED HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1993
-#EXTINF:-1,ZABAC REGI
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/6283
-#EXTINF:-1,BABY TV (SLO)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/937
-#EXTINF:-1,TOM & JERRY CHANNEL HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1491
-#EXTINF:-1,DISNEY JUNIOR (SLO)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4073
-#EXTINF:-1,MAXCRO SELECT KIDS HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/35
-#EXTINF:-1,MAXCRO SELECT KIDS 2 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/36
-#EXTINF:-1,MAXCRO SELECT KIDS 3 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4815
-#EXTINF:-1,FIX UND FOXI (DE)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4259
-#EXTINF:-1,NICKELODEON (DE)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/74
-#EXTINF:-1,DISNEY CINEMAGIC HD (DE)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4698
-#EXTINF:-1,DISNEY JUNIOR HD (DE)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5660
-#EXTINF:-1,BOOMERANG HD (DE)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5661
-#EXTINF:-1,CARTOON NETWORK HD (DE)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/5662
-#EXTINF:-1,KIKA HD (DE)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/4057
-#EXTINF:-1,NICKELODEON HD (UK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1066
-#EXTINF:-1,BOOMERANG HD (UK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1536
-#EXTINF:-1,DISNEY XD HD (UK)
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/929
-#EXTINF:-1,CMC HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/952
-#EXTINF:-1,NARODNI TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/1892
-#EXTINF:-1,JUGOTON TV
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/951
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/532
+
+#EXTINF:-1,Da Vinci Learning - KIDS
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/753
+
+#EXTINF:-1,Mini TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/925
+
+#EXTINF:-1,Pink Kids
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/958
+
+#EXTINF:-1,Vavoom
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/964
+
+#EXTINF:-1,Nick Jr. SR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3446
+
+#EXTINF:-1,HNTV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/46
+
+#EXTINF:-1,Fight Network
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/92
+
+#EXTINF:-1,Arena Sport 1 HR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/94
+
+#EXTINF:-1,Arena Sport 2 HR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/95
+
+#EXTINF:-1,Arena Sport 3 HR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/96
+
+#EXTINF:-1,Arena Sport 4 HR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/97
+
+#EXTINF:-1,Arena Sport 5 HR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/98
+
+#EXTINF:-1,Arena Sport 6 HR
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/99
+
+#EXTINF:-1,Fight Channel
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/115
+
+#EXTINF:-1,Sportska Televizija
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/116
+
+#EXTINF:-1,Eurosport
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/117
+
+#EXTINF:-1,Eurosport 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/118
+
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/155
+
+#EXTINF:-1,SKY SPORT AUSTRIA HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/156
+
+#EXTINF:-1,DAZN 1 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/162
+
+#EXTINF:-1,DAZN 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/163
+
+#EXTINF:-1,Sky Sport 1 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/164
+
+#EXTINF:-1,Sport Digital
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/170
+
+#EXTINF:-1,Auto Motor Sport HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/172
+
+#EXTINF:-1,Motorvision HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/190
+
+#EXTINF:-1,Arena Sport 1 HD BH
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/202
+
+#EXTINF:-1,SKY BUNDESLIGA 2 HD (Match day)
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/203
+
+#EXTINF:-1,SKY BUNDESLIGA 3 HD (Match day)
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/204
+
+#EXTINF:-1,SKY BUNDESLIGA 4 HD (Match day)
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/205
+
+#EXTINF:-1,SKY BUNDESLIGA 5 HD (Match day)
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/206
+
+#EXTINF:-1,Sky Sport 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/218
+
+#EXTINF:-1,ORF Sport + HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/351
+
+#EXTINF:-1,City TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/515
+
+#EXTINF:-1,SPORT 1  HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/524
+
+#EXTINF:-1,SKY SPORT NEWS HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/529
+
+#EXTINF:-1,Sport Klub 4 RS HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/696
+
+#EXTINF:-1,Sport Klub 5 RS HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/697
+
+#EXTINF:-1,Sport Klub 6 RS HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/698
+
+#EXTINF:-1,Sky Sport  F1 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/752
+
+#EXTINF:-1,Kreator TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/916
+
+#EXTINF:-1,Sky Sport 3 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2552
+
+#EXTINF:-1,moja TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3054
+
+#EXTINF:-1,zvezda TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3055
+
+#EXTINF:-1,Sport Klub HD Hr
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4068
+
+#EXTINF:-1,Cine+SELECT 8 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2510
+
+#EXTINF:-1,Cine+SELECT 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2511
+
+#EXTINF:-1,Cine+SELECT 3 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2512
+
+#EXTINF:-1,Cine+SELECT 4 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2513
+
+#EXTINF:-1,Cine+SELECT 5 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2514
+
+#EXTINF:-1,Cine+SELECT 6 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2533
+
+#EXTINF:-1,Cine+SELECT 7 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2542
+
+#EXTINF:-1,Cine+SELECT 1 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2543
+
+#EXTINF:-1,Cine+SELECT 9 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2560
+
+#EXTINF:-1,Cine+SELECT 10 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2581
+
+#EXTINF:-1,Cine+SELECT 1 FHD 2K - (tenet)
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3590
+
+#EXTINF:-1,Cine+SELECT 2 FHD 2K - (fatman)
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3642
+
+#EXTINF:-1,Cine+SELECT 1 2K - (godzila vs kong)
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/5659
+
+#EXTINF:-1,Klasik Tv
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/59
+
+#EXTINF:-1,Cinestar Action & Thriller
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/82
+
+#EXTINF:-1,CineStar Fantasy
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/83
+
+#EXTINF:-1,Cinestar Premiere 1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/84
+
+#EXTINF:-1,AMC
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/85
+
+#EXTINF:-1,24Kitchen
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/34
+
+#EXTINF:-1,History Channel HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/40
+
+#EXTINF:-1,History 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/41
+
+#EXTINF:-1,Viasat History
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/42
+
+#EXTINF:-1,Animal Planet
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/70
+
+#EXTINF:-1,National Geographic HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/122
+
+#EXTINF:-1,Viasat Explorer
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/123
+
+#EXTINF:-1,Lov i ribolov
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/124
+
+#EXTINF:-1,National Geographic Wild
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/125
+
+#EXTINF:-1,Discovery
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/129
+
+#EXTINF:-1,Crime Investigations
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/138
+
+#EXTINF:-1,Nat Geo Wild HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/188
+
+#EXTINF:-1,History Channel
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/189
+
+#EXTINF:-1,Viasat Nature
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/226
+
+#EXTINF:-1,DISCOVERY ID HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/227
+
+#EXTINF:-1,BBC Earth
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/228
+
+#EXTINF:-1,CBS Reality
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/229
+
+#EXTINF:-1,Doku BOX
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/335
+
+#EXTINF:-1,TRAVEL Channel
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/349
+
+#EXTINF:-1,TLC
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/350
+
+#EXTINF:-1,Nat Geo HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/496
+
+#EXTINF:-1,Discovery Science
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/522
+
+#EXTINF:-1,History HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/530
+
+#EXTINF:-1,HISTORY 2 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/531
+
+#EXTINF:-1,Food Network
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2540
+
+#EXTINF:-1,HGTV Fine Living HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4421
+
+#EXTINF:-1,Jugoton TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/65
+
+#EXTINF:-1,OTV Valentino
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/78
+
+#EXTINF:-1,DM Sat
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/119
+
+#EXTINF:-1,BN Music
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/121
+
+#EXTINF:-1,CMC
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/135
+
+#EXTINF:-1,Sevdah TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/137
+
+#EXTINF:-1,GRAND
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/208
+
+#EXTINF:-1,GRAND 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/209
+
+#EXTINF:-1,City Play
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/514
+
+#EXTINF:-1,MTV Adria
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/924
+
+#EXTINF:-1,Balkanika
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/928
+
+#EXTINF:-1,Narodni TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/936
+
+#EXTINF:-1,Hit TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/954
+
+#EXTINF:-1,Bravo Music
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/956
+
+#EXTINF:-1,IDJ TV
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/976
+
+#EXTINF:-1,VH 1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/980
+
+#EXTINF:-1,VH1 Classic/MTV80's
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2539
+
+#EXTINF:-1,ntv 101 HD
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3053
+
+#EXTINF:-1,Pink Extra
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/28
+
+#EXTINF:-1,Pink Family
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/33
+
+#EXTINF:-1,Pink Action
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/48
+
+#EXTINF:-1,Pink Thriller
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/49
+
+#EXTINF:-1,Pink Movies
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/50
+
+#EXTINF:-1,Pink Premium
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/51
+
+#EXTINF:-1,Pink World Cinema
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/52
+
+#EXTINF:-1,Pink SciFi&Fantasy
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/53
+
+#EXTINF:-1,Pink Western
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/54
+
+#EXTINF:-1,Pink Comedy
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/55
+
+#EXTINF:-1,PINK Film
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/60
+
+#EXTINF:-1,Pink Serije
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/61
+
+#EXTINF:-1,Pink Koncert
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/68
+
+#EXTINF:-1,Pink Folk
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/69
+
+#EXTINF:-1,Pink Reality
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/71
+
+#EXTINF:-1,Pink Music 1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/73
+
+#EXTINF:-1,Pink Music 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/74
+
+#EXTINF:-1,Pink Folk 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/120
+
+#EXTINF:-1,PINK Zabava
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/841
+
+#EXTINF:-1,Pink Show
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/957
+
+#EXTINF:-1,Pink M
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/962
+
+#EXTINF:-1,Pink N Roll
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/983
+
+#EXTINF:-1,Pink Kuvar
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/984
+
+#EXTINF:-1,Pink Hits 1
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/985
+
+#EXTINF:-1,Pink Hits 2
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/986
+
+#EXTINF:-1,Pink Crime & Mistery
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/987
+
+#EXTINF:-1,Pink Horror
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/988
+
+#EXTINF:-1,Pink Plus
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/989
+
+#EXTINF:-1,Pink Pedia
+http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/990
