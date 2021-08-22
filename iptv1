@@ -44,9 +44,6 @@ http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/211
 #EXTINF:-1,HBO 2 HD
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/87
 
-#EXTINF:-1,HBO 3 HD
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/88
-
 #EXTINF:-1,Cinemania
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/89
 
@@ -284,21 +281,6 @@ http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2437
 #EXTINF:-1,nov@ M HD
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2438
 
-#EXTINF:-1,nov@ documentary 2 HD
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2942
-
-#EXTINF:-1,nov@ documentary 2 FHD
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2943
-
-#EXTINF:-1,nov@ cinema 2 HD
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/2954
-
-#EXTINF:-1,nov@ documentary 2
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4025
-
-#EXTINF:-1,nov@ cinema 2
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4027
-
 #EXTINF:-1,nov@ cinema
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/4420
 
@@ -434,9 +416,6 @@ http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/15
 #EXTINF:-1,TV1
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/16
 
-#EXTINF:-1,TV Tuzlanski kanton
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/17
-
 #EXTINF:-1,ATV
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/18
 
@@ -539,12 +518,6 @@ http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/3684
 #EXTINF:-1,RTCG SAT
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/25
 
-#EXTINF:-1,RTCG 1
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/329
-
-#EXTINF:-1,RTCG 2
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/330
-
 #EXTINF:-1,Nova M
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/331
 
@@ -638,9 +611,6 @@ http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/116
 #EXTINF:-1,Eurosport
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/117
 
-#EXTINF:-1,Eurosport 2
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/118
-
 #EXTINF:-1,SKY BUNDESLIGA 1 HD
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/155
 
@@ -673,9 +643,6 @@ http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/203
 
 #EXTINF:-1,SKY BUNDESLIGA 3 HD (Match day)
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/204
-
-#EXTINF:-1,SKY BUNDESLIGA 4 HD (Match day)
-http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/205
 
 #EXTINF:-1,SKY BUNDESLIGA 5 HD (Match day)
 http://tv.fast-iptv.info:12974/vladimirmiljevic1/o8H24LrGwW/206
