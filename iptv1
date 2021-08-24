@@ -1,561 +1,511 @@
 #EXTM3U
-#EXTINF:-1,RTS 1 HD
-http://krajnatv.com:8080/apo7776/skypeuser/18304
-
-#EXTINF:-1,RTS 1
-http://krajnatv.com:8080/apo7776/skypeuser/14096
-
-#EXTINF:-1,RTS 2 HD
-http://krajnatv.com:8080/apo7776/skypeuser/14097
-
-#EXTINF:-1,RTS 3
-http://krajnatv.com:8080/apo7776/skypeuser/14098
-
-#EXTINF:-1,HAPPY TV
-http://krajnatv.com:8080/apo7776/skypeuser/14119
-
-#EXTINF:-1,RTS DRAMA
-http://krajnatv.com:8080/apo7776/skypeuser/14102
-
-#EXTINF:-1,RTS ZIVOT
-http://krajnatv.com:8080/apo7776/skypeuser/14101
-
-#EXTINF:-1,RTS SVET
-http://krajnatv.com:8080/apo7776/skypeuser/14099
-
-#EXTINF:-1,RTS KOLO
-http://krajnatv.com:8080/apo7776/skypeuser/14100
-
-#EXTINF:-1,PRVA TV
-http://krajnatv.com:8080/apo7776/skypeuser/14103
-
-#EXTINF:-1,PRVA PLUS
-http://krajnatv.com:8080/apo7776/skypeuser/14104
-
-#EXTINF:-1,PRVA MAX
-http://krajnatv.com:8080/apo7776/skypeuser/14105
-
-#EXTINF:-1,PRVA KICK
-http://krajnatv.com:8080/apo7776/skypeuser/14106
-
-#EXTINF:-1,NOVA S
-http://krajnatv.com:8080/apo7776/skypeuser/87
-
-#EXTINF:-1,NOVA S L2
-http://krajnatv.com:8080/apo7776/skypeuser/88
-
-#EXTINF:-1,N1 RS
-http://krajnatv.com:8080/apo7776/skypeuser/93
-
-#EXTINF:-1,TV ISTOK
-http://krajnatv.com:8080/apo7776/skypeuser/23503
-
-#EXTINF:-1,TV K::CN 1
-http://krajnatv.com:8080/apo7776/skypeuser/20306
-
-#EXTINF:-1,TV K::CN Music 2
-http://krajnatv.com:8080/apo7776/skypeuser/20307
-
-#EXTINF:-1,TV K::CN Svet Plus 3
-http://krajnatv.com:8080/apo7776/skypeuser/20308
-
-#EXTINF:-1,TV KRAGUJEVAC
-http://krajnatv.com:8080/apo7776/skypeuser/21177
-
-#EXTINF:-1,TV LESKOVAC
-http://krajnatv.com:8080/apo7776/skypeuser/20304
-
-#EXTINF:-1,B92
-http://krajnatv.com:8080/apo7776/skypeuser/14118
-
-#EXTINF:-1,HAPPY PAROVI 24/7
-http://krajnatv.com:8080/apo7776/skypeuser/18307
-
-#EXTINF:-1,PAROVI LIVE
-http://krajnatv.com:8080/apo7776/skypeuser/15391
-
-#EXTINF:-1,KURIR TV HD
-http://krajnatv.com:8080/apo7776/skypeuser/22799
-
-#EXTINF:-1,RTV VOJVODINA 1
-http://krajnatv.com:8080/apo7776/skypeuser/14622
-
-#EXTINF:-1,RTV VOJVODINA 2
-http://krajnatv.com:8080/apo7776/skypeuser/14623
-
-#EXTINF:-1,BELLE AMIE HD
-http://krajnatv.com:8080/apo7776/skypeuser/20305
-
-#EXTINF:-1,RED TV
-http://krajnatv.com:8080/apo7776/skypeuser/5493
-
-#EXTINF:-1,HRAM TV
-http://krajnatv.com:8080/apo7776/skypeuser/18800
-
-#EXTINF:-1,RTV BOR
-http://krajnatv.com:8080/apo7776/skypeuser/14117
-
-#EXTINF:-1,RTV CITY UB
-http://krajnatv.com:8080/apo7776/skypeuser/23492
-
-#EXTINF:-1,SOS
-http://krajnatv.com:8080/apo7776/skypeuser/18306
-
-#EXTINF:-1,STUDIO B
-http://krajnatv.com:8080/apo7776/skypeuser/14122
-
-#EXTINF:-1,BNV TV SANDZAK
-http://krajnatv.com:8080/apo7776/skypeuser/23490
-
-#EXTINF:-1,HRT 1 HD
-http://krajnatv.com:8080/apo7776/skypeuser/7873
-
-#EXTINF:-1,HRT 1 HD (L2)
-http://krajnatv.com:8080/apo7776/skypeuser/15298
-
-#EXTINF:-1,HRT 2
-http://krajnatv.com:8080/apo7776/skypeuser/5797
-
-#EXTINF:-1,HRT 2 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13473
-
-#EXTINF:-1,HRT 2 HD (L2)
-http://krajnatv.com:8080/apo7776/skypeuser/10931
-
-#EXTINF:-1,HRT 3 HD
-http://krajnatv.com:8080/apo7776/skypeuser/5800
-
-#EXTINF:-1,HRT 4 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13739
-
-#EXTINF:-1,HRT INT.
-http://krajnatv.com:8080/apo7776/skypeuser/10695
-
+#EXTINF:-1,=== Srbija ===
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/90
+#EXTINF:-1,RTS 1 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/91
+#EXTINF:-1,RTS 1 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/92
+#EXTINF:-1, RTS 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/93
+#EXTINF:-1, RTS 2 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/94
+#EXTINF:-1,Pink 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/249
+#EXTINF:-1,Pink 1 (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/10842
+#EXTINF:-1,Happy TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/101
+#EXTINF:-1,Nova S
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/130
+#EXTINF:-1,Red TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/250
+#EXTINF:-1,K1 TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16744
+#EXTINF:-1,Kurir TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/14136
+#EXTINF:-1,B 92  
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/103
+#EXTINF:-1,B 92 (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/104
+#EXTINF:-1,Happy TV (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/102
+#EXTINF:-1,Prva TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/105
+#EXTINF:-1,Prva TV (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/106
+#EXTINF:-1,Prva Plus
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/109
+#EXTINF:-1,Prva Max
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/107
+#EXTINF:-1,Prva Kick
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/111
+#EXTINF:-1,Prva Life
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/18314
+#EXTINF:-1,Prva Files
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/110
+#EXTINF:-1,Prva World
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/108
+#EXTINF:-1,Prva World (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/14098
+#EXTINF:-1,RTV 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/113
+#EXTINF:-1,RTV 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/114
+#EXTINF:-1,KCN 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/116
+#EXTINF:-1,KCN 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/117
+#EXTINF:-1,KCN 3
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/118
+#EXTINF:-1,TV Duga Plus
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/119
+#EXTINF:-1,TV Palma Plus
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/123
+#EXTINF:-1,TV Pirot
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16922
+#EXTINF:-1,RTV Bor
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16522
+#EXTINF:-1,RTV MIR
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16923
+#EXTINF:-1,RTV Marš
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/126
+#EXTINF:-1,RTV Mlava
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/17895
+#EXTINF:-1,RTV AS Šabac
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/18042
+#EXTINF:-1,RTV Vranje
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/14133
+#EXTINF:-1,RTV City UB
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16916
+#EXTINF:-1,RTV Kruševac
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16935
+#EXTINF:-1,RTV Braničevo
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/13249
+#EXTINF:-1,RTV Novi Pazar
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/124
+#EXTINF:-1, SANDZAK TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20912
+#EXTINF:-1,Pruga TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/13250
+#EXTINF:-1,Jefimija TV ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/112
+#EXTINF:-1,Belle  Amie TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/129
+#EXTINF:-1,ART Vizija TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3111
+#EXTINF:-1,Pi Kanal
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/13248
+#EXTINF:-1,Kanal M
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/31076
+#EXTINF:-1,TSD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16915
+#EXTINF:-1,Televizija Hram
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20906
+#EXTINF:-1, Televizija Istok
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20910
+#EXTINF:-1,Televizija Istok 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/31077
+#EXTINF:-1,Televizija Kladovo
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20911
+#EXTINF:-1,N1 Serbia
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/14132
+#EXTINF:-1,VESTI
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/251
+#EXTINF:-1,Studio B
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/115
+#EXTINF:-1,== Hrvatska ==
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/2
+#EXTINF:-1,HRT 1 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3
+#EXTINF:-1,HRT 1 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/4
+#EXTINF:-1,HRT 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/5
+#EXTINF:-1,HRT 2 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/6
+#EXTINF:-1,HRT 3 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/7
+#EXTINF:-1,HRT 3 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/8
+#EXTINF:-1,HRT 4
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/9
+#EXTINF:-1,HRT 4 (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/6892
+#EXTINF:-1,HRT Int.
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/10
+#EXTINF:-1,HRT Int. (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/7130
+#EXTINF:-1,RTL ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/11
+#EXTINF:-1,RTL ᴴᴰ(L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/12
+#EXTINF:-1,RTL 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/13
+#EXTINF:-1,RTL 2 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/4063
+#EXTINF:-1,RTL Crime ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/14
+#EXTINF:-1,RTL Crime ᴴᴰ(L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/15
+#EXTINF:-1,RTL Living
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16
+#EXTINF:-1,RTL Passion
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/17
+#EXTINF:-1,RTL Adria ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/11025
+#EXTINF:-1,RTL Adria ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16376
+#EXTINF:-1,RTL Croatia World
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/11026
+#EXTINF:-1,NOVA TV ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/18
+#EXTINF:-1,NOVA TV ᴴᴰ(L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/19
+#EXTINF:-1,DOMA TV ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20
+#EXTINF:-1,DOMA TV ᴴᴰ(L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/21
 #EXTINF:-1,N1 HR
-http://krajnatv.com:8080/apo7776/skypeuser/89
-
-#EXTINF:-1,NOVA TV
-http://krajnatv.com:8080/apo7776/skypeuser/80
-
-#EXTINF:-1,NOVA TV HD
-http://krajnatv.com:8080/apo7776/skypeuser/81
-
-#EXTINF:-1,NOVA CINEMA
-http://krajnatv.com:8080/apo7776/skypeuser/11
-
-#EXTINF:-1,RTL
-http://krajnatv.com:8080/apo7776/skypeuser/5482
-
-#EXTINF:-1,RTL 2
-http://krajnatv.com:8080/apo7776/skypeuser/5483
-
-#EXTINF:-1,RTL ADRIA HD
-http://krajnatv.com:8080/apo7776/skypeuser/10
-
-#EXTINF:-1,RTL ADRIA
-http://krajnatv.com:8080/apo7776/skypeuser/21620
-
-#EXTINF:-1,RTL CRIME
-http://krajnatv.com:8080/apo7776/skypeuser/5484
-
-#EXTINF:-1,RTL CROATIA WORLD
-http://krajnatv.com:8080/apo7776/skypeuser/21621
-
-#EXTINF:-1,RTL HD (hevc)
-http://krajnatv.com:8080/apo7776/skypeuser/21781
-
-#EXTINF:-1,RTL LIVING
-http://krajnatv.com:8080/apo7776/skypeuser/5798
-
-#EXTINF:-1,RTL PASSION
-http://krajnatv.com:8080/apo7776/skypeuser/5465
-
-#EXTINF:-1,RTV CAZIN
-http://krajnatv.com:8080/apo7776/skypeuser/20347
-
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/23
+#EXTINF:-1,Z 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/22
+#EXTINF:-1,OTV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/33
+#EXTINF:-1,Mreža Tv Zagreb
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/24
+#EXTINF:-1,Laudato TV 
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/32
 #EXTINF:-1,SBTV
-http://krajnatv.com:8080/apo7776/skypeuser/26433
-
-#EXTINF:-1,MREZA TV SPLIT
-http://krajnatv.com:8080/apo7776/skypeuser/22127
-
-#EXTINF:-1,MREZA TV ZAGREB
-http://krajnatv.com:8080/apo7776/skypeuser/22126
-
-#EXTINF:-1,ZDRAVA TV
-http://krajnatv.com:8080/apo7776/skypeuser/21623
-
-#EXTINF:-1,VTV
-http://krajnatv.com:8080/apo7776/skypeuser/21622
-
-#EXTINF:-1,RTL HD
-http://krajnatv.com:8080/apo7776/skypeuser/7040
-
-#EXTINF:-1,O KANAL
-http://krajnatv.com:8080/apo7776/skypeuser/13903
-
-#EXTINF:-1,TV DUBROVNIK
-http://krajnatv.com:8080/apo7776/skypeuser/20216
-
-#EXTINF:-1,OSJECKA TV
-http://krajnatv.com:8080/apo7776/skypeuser/5627
-
-#EXTINF:-1,PALMA PLUS
-http://krajnatv.com:8080/apo7776/skypeuser/14107
-
-#EXTINF:-1,POLJOPRIVREDNA TV
-http://krajnatv.com:8080/apo7776/skypeuser/10899
-
-#EXTINF:-1,POSAVINA TV
-http://krajnatv.com:8080/apo7776/skypeuser/20129
-
-#EXTINF:-1,PRIGORSKA TV
-http://krajnatv.com:8080/apo7776/skypeuser/14
-
-#EXTINF:-1,RTV BANOVINA
-http://krajnatv.com:8080/apo7776/skypeuser/5819
-
-#EXTINF:-1,SEZAM TV
-http://krajnatv.com:8080/apo7776/skypeuser/23475
-
-#EXTINF:-1,TREND TV
-http://krajnatv.com:8080/apo7776/skypeuser/20709
-
-#EXTINF:-1,Z1
-http://krajnatv.com:8080/apo7776/skypeuser/5486
-
-#EXTINF:-1,AGRO TV
-http://krajnatv.com:8080/apo7776/skypeuser/22341
-
-#EXTINF:-1,ALFA TV
-http://krajnatv.com:8080/apo7776/skypeuser/23470
-
-#EXTINF:-1,DOMA TV
-http://krajnatv.com:8080/apo7776/skypeuser/6023
-
-#EXTINF:-1,PINK FASHION
-http://krajnatv.com:8080/apo7776/skypeuser/4868
-
-#EXTINF:-1,HBO 2 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13748
-
-#EXTINF:-1,HBO 3 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13749
-
-#EXTINF:-1,FOX
-http://krajnatv.com:8080/apo7776/skypeuser/20621
-
-#EXTINF:-1,FOX LIFE HD
-http://krajnatv.com:8080/apo7776/skypeuser/20620
-
-#EXTINF:-1,FOX MOVIES
-http://krajnatv.com:8080/apo7776/skypeuser/13751
-
-#EXTINF:-1,FOX LIFE
-http://krajnatv.com:8080/apo7776/skypeuser/13752
-
-#EXTINF:-1,FOX HD
-http://krajnatv.com:8080/apo7776/skypeuser/13750
-
-#EXTINF:-1,CINEMAX 2 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13759
-
-#EXTINF:-1,CINEMAX 1 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13758
-
-#EXTINF:-1,CINESTAR TV 1 (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/13754
-
-#EXTINF:-1,CINESTAR TV 2 (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/21644
-
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13756
-
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://krajnatv.com:8080/apo7776/skypeuser/13757
-
-#EXTINF:-1,CINESTAR ACTION (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/13755
-
-#EXTINF:-1,CINESTAR FANTASY
-http://krajnatv.com:8080/apo7776/skypeuser/19351
-
-#EXTINF:-1,M1 FILM
-http://krajnatv.com:8080/apo7776/skypeuser/13765
-
-#EXTINF:-1,DIVA
-http://krajnatv.com:8080/apo7776/skypeuser/17892
-
-#EXTINF:-1,SCI-FI
-http://krajnatv.com:8080/apo7776/skypeuser/17888
-
-#EXTINF:-1,KINO TV HD
-http://krajnatv.com:8080/apo7776/skypeuser/13764
-
-#EXTINF:-1,AMC HD
-http://krajnatv.com:8080/apo7776/skypeuser/14611
-
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/38
+#EXTINF:-1,Osječka TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/26
+#EXTINF:-1,Slavonska TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/27
+#EXTINF:-1,Plava Vinkovačka TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/25
+#EXTINF:-1,kanal Ri
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/29
+#EXTINF:-1,TV Jadran
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36
+#EXTINF:-1,TV Šibenik
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16378
+#EXTINF:-1,Libertas TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/34
+#EXTINF:-1,Dubrovačka TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/28
+#EXTINF:-1,Televizija Dalmacija
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3120
+#EXTINF:-1,VTV Televizija 
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/35
+#EXTINF:-1,Trend TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/43
+#EXTINF:-1,CRO TV ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16518
+#EXTINF:-1,Prigorska TV ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/30
+#EXTINF:-1,Narodni TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/42
+#EXTINF:-1,Posavina TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/41
+#EXTINF:-1,RTV Banovina
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/37
+#EXTINF:-1,Aurora TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/81
+#EXTINF:-1,Zdrava Televizija
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/31
+#EXTINF:-1,Poljoprivredna TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/46
+#EXTINF:-1,=== Film Prevod ===
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/141
+#EXTINF:-1,AXN
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/142
+#EXTINF:-1,AXN Spin
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/143
+#EXTINF:-1,Cinemania
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/168
+#EXTINF:-1, HBO ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/151
+#EXTINF:-1, HBO 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/152
+#EXTINF:-1, HBO 3 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/153
+#EXTINF:-1, CINEMAX 1 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/154
+#EXTINF:-1, CINEMAX 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/155
+#EXTINF:-1, Cinestar TV 1 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/146
+#EXTINF:-1, Cinestar TV 1 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/31000
+#EXTINF:-1, Cinestar TV 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/595
+#EXTINF:-1, Cinestar  ACTION ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/147
+#EXTINF:-1, Cinestar COMEDY ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/5079
+#EXTINF:-1,Cinestar FANTASY
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/148
+#EXTINF:-1, Cinestar PREMIERE 1 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/149
+#EXTINF:-1, Cinestar PREMIERE 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/150
+#EXTINF:-1,FilmBox Stars
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/157
+#EXTINF:-1, FOX ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/158
+#EXTINF:-1, FOX LIFE ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/160
+#EXTINF:-1, FOX CRIME ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/159
+#EXTINF:-1, FOX MOVIES ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/161
 #EXTINF:-1,TV 1000
-http://krajnatv.com:8080/apo7776/skypeuser/13761
-
-#EXTINF:-1,SUPER STAR TV
-http://krajnatv.com:8080/apo7776/skypeuser/18303
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://krajnatv.com:8080/apo7776/skypeuser/14192
-
-#EXTINF:-1,CRIME INVESTIGATION
-http://krajnatv.com:8080/apo7776/skypeuser/21815
-
-#EXTINF:-1,LOV I RIBOLOV
-http://krajnatv.com:8080/apo7776/skypeuser/101
-
-#EXTINF:-1,ANIMAL PLANET
-http://krajnatv.com:8080/apo7776/skypeuser/14185
-
-#EXTINF:-1,FOOD NETWORK
-http://krajnatv.com:8080/apo7776/skypeuser/20019
-
-#EXTINF:-1,DISCOVERY ID
-http://krajnatv.com:8080/apo7776/skypeuser/20014
-
-#EXTINF:-1,24 KITCHEN
-http://krajnatv.com:8080/apo7776/skypeuser/15709
-
-#EXTINF:-1,E!
-http://krajnatv.com:8080/apo7776/skypeuser/15300
-
-#EXTINF:-1,VIASAT EXPLORE
-http://krajnatv.com:8080/apo7776/skypeuser/14200
-
-#EXTINF:-1,TRAVEL
-http://krajnatv.com:8080/apo7776/skypeuser/14198
-
-#EXTINF:-1,HISTORY CHANNEL HD
-http://krajnatv.com:8080/apo7776/skypeuser/14196
-
-#EXTINF:-1,DOKU TV
-http://krajnatv.com:8080/apo7776/skypeuser/19669
-
-#EXTINF:-1,TLC
-http://krajnatv.com:8080/apo7776/skypeuser/18308
-
-#EXTINF:-1,BBC EARTH HD
-http://krajnatv.com:8080/apo7776/skypeuser/14202
-
-#EXTINF:-1,HISTORY 2
-http://krajnatv.com:8080/apo7776/skypeuser/14195
-
-#EXTINF:-1,DOCUBOX HD
-http://krajnatv.com:8080/apo7776/skypeuser/20805
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://krajnatv.com:8080/apo7776/skypeuser/14194
-
-#EXTINF:-1,VIASAT NATURE
-http://krajnatv.com:8080/apo7776/skypeuser/14190
-
-#EXTINF:-1,WOMAN TV (test)
-http://krajnatv.com:8080/apo7776/skypeuser/26499
-
-#EXTINF:-1,HAYATOVCI
-http://krajnatv.com:8080/apo7776/skypeuser/5605
-
-#EXTINF:-1,TOM & JERRY TV HD
-http://krajnatv.com:8080/apo7776/skypeuser/6492
-
-#EXTINF:-1,MASA I MEDO TV (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/11303
-
-#EXTINF:-1,BABY TV
-http://krajnatv.com:8080/apo7776/skypeuser/4848
-
-#EXTINF:-1,MINIMAX
-http://krajnatv.com:8080/apo7776/skypeuser/6493
-
-#EXTINF:-1,DUCK TV
-http://krajnatv.com:8080/apo7776/skypeuser/10660
-
-#EXTINF:-1,TOM & JERRY TV 2 HD
-http://krajnatv.com:8080/apo7776/skypeuser/6491
-
-#EXTINF:-1,NICK JUNIOR (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/4759
-
-#EXTINF:-1,JIMJAM TV
-http://krajnatv.com:8080/apo7776/skypeuser/10659
-
-#EXTINF:-1,DISNEY CHANNEL (FR)
-http://krajnatv.com:8080/apo7776/skypeuser/10742
-
-#EXTINF:-1,MINI TV
-http://krajnatv.com:8080/apo7776/skypeuser/98
-
-#EXTINF:-1,SPUZVA BOB TV
-http://krajnatv.com:8080/apo7776/skypeuser/20981
-
-#EXTINF:-1,NICKELODEON (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/5788
-
-#EXTINF:-1,VAVOOM
-http://krajnatv.com:8080/apo7776/skypeuser/100
-
-#EXTINF:-1,RTL KOCKICA HD (hevc)
-http://krajnatv.com:8080/apo7776/skypeuser/22262
-
-#EXTINF:-1,NICKELODEON (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/10657
-
-#EXTINF:-1,CARTOON NETWORK (DE)
-http://krajnatv.com:8080/apo7776/skypeuser/7659
-
-#EXTINF:-1,JUGOTON
-http://krajnatv.com:8080/apo7776/skypeuser/5377
-
-#EXTINF:-1,HAYAT MUSIC
-http://krajnatv.com:8080/apo7776/skypeuser/5590
-
-#EXTINF:-1,HAYAT FOLK
-http://krajnatv.com:8080/apo7776/skypeuser/4750
-
-#EXTINF:-1,IDJ TV HD
-http://krajnatv.com:8080/apo7776/skypeuser/99
-
-#EXTINF:-1,BN MUSIC
-http://krajnatv.com:8080/apo7776/skypeuser/5592
-
-#EXTINF:-1,GRAND TV
-http://krajnatv.com:8080/apo7776/skypeuser/96
-
-#EXTINF:-1,BALKANIKA
-http://krajnatv.com:8080/apo7776/skypeuser/5596
-
-#EXTINF:-1,SEVDAH TV
-http://krajnatv.com:8080/apo7776/skypeuser/4860
-
-#EXTINF:-1,CMC HD
-http://krajnatv.com:8080/apo7776/skypeuser/22265
-
-#EXTINF:-1,ROMA TV
-http://krajnatv.com:8080/apo7776/skypeuser/6022
-
-#EXTINF:-1,CMC
-http://krajnatv.com:8080/apo7776/skypeuser/5591
-
-#EXTINF:-1,VH 1
-http://krajnatv.com:8080/apo7776/skypeuser/4923
-
-#EXTINF:-1,MTV CLASSIC
-http://krajnatv.com:8080/apo7776/skypeuser/7814
-
-#EXTINF:-1,EUROSPORT 1 HD (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/14792
-
-#EXTINF:-1,EUROSPORT 2 HD (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/14794
-
-#EXTINF:-1,ARENA SPORT 1 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/14735
-
-#EXTINF:-1,ARENA SPORT 2 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/14736
-
-#EXTINF:-1,ARENA SPORT 3 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/14812
-
-#EXTINF:-1,ARENA SPORT 4 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/14734
-
-#EXTINF:-1,ARENA SPORT 5 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/14737
-
-#EXTINF:-1,ARENA SPORT 1 (SR) FHD
-http://krajnatv.com:8080/apo7776/skypeuser/26501
-
-#EXTINF:-1,ARENA SPORT 2 (SR) FHD
-http://krajnatv.com:8080/apo7776/skypeuser/26502
-
-#EXTINF:-1,ARENA SPORT 3 (SR) FHD
-http://krajnatv.com:8080/apo7776/skypeuser/26503
-
-#EXTINF:-1,ARENA SPORT 4 (SR) FHD
-http://krajnatv.com:8080/apo7776/skypeuser/26504
-
-#EXTINF:-1,ARENA SPORT 5 (SR) FHD
-http://krajnatv.com:8080/apo7776/skypeuser/26505
-
-#EXTINF:-1,ARENA SPORT 1 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/14724
-
-#EXTINF:-1,ARENA SPORT 2 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/14725
-
-#EXTINF:-1,ARENA SPORT 3 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/14726
-
-#EXTINF:-1,ARENA SPORT 4 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/14727
-
-#EXTINF:-1,ARENA SPORT 5 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/14728
-
-#EXTINF:-1,ARENA SPORT 6 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/14729
-
-#EXTINF:-1,ARENA SPORT 1 (BIH)
-http://krajnatv.com:8080/apo7776/skypeuser/23472
-
-#EXTINF:-1,SPORT KLUB HD (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/67
-
-#EXTINF:-1,SPORT KLUB 1 HD (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/68
-
-#EXTINF:-1,SPORT KLUB 2 HD (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/69
-
-#EXTINF:-1,SPORT KLUB 3 HD (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/70
-
-#EXTINF:-1,SPORT KLUB 4 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/71
-
-#EXTINF:-1,SPORT KLUB 5 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/72
-
-#EXTINF:-1,SPORT KLUB 6 (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/26506
-
-#EXTINF:-1,SPORT KLUB 1 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/61
-
-#EXTINF:-1,SPORT KLUB 2 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/62
-
-#EXTINF:-1,SPORT KLUB 3 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/63
-
-#EXTINF:-1,SPORT KLUB 4 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/64
-
-#EXTINF:-1,SPORT KLUB 5 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/65
-
-#EXTINF:-1,SPORT KLUB 6 HD (HR)
-http://krajnatv.com:8080/apo7776/skypeuser/66
-
-#EXTINF:-1,PLANET SPORT 1 HD
-http://krajnatv.com:8080/apo7776/skypeuser/14719
-
-#EXTINF:-1,CITY TV
-http://krajnatv.com:8080/apo7776/skypeuser/13918
-
-#EXTINF:-1,NOVA SPORT (SR)
-http://krajnatv.com:8080/apo7776/skypeuser/20028
-
-#EXTINF:-1,SONY TV HD (DE)
-http://krajnatv.com:8080/apo7776/skypeuser/13804
-
-#EXTINF:-1,PARTIZAN TV
-http://krajnatv.com:8080/apo7776/skypeuser/46
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/162
+#EXTINF:-1,AMC
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/174
+#EXTINF:-1,Diva
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/165
+#EXTINF:-1,Epic Drama
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/163
+#EXTINF:-1, STAR TV ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/167
+#EXTINF:-1,SUPERSTAR TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/177
+#EXTINF:-1,M1 Film ᴴᴰ 
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/175
+#EXTINF:-1, M1 GOLD ᴴᴰ 
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20918
+#EXTINF:-1,M1 GOLD ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/176
+#EXTINF:-1,M1 Family
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16519
+#EXTINF:-1,TimeOut
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/18179
+#EXTINF:-1,Cinema TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20916
+#EXTINF:-1,Kino TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/178
+#EXTINF:-1,Klasik TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/2410
+#EXTINF:-1,pickbox TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/179
+#EXTINF:-1, SEHARA ONLINE TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20917
+#EXTINF:-1,Nova Cinema 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/18317
+#EXTINF:-1,Nova Cinema 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/18316
+#EXTINF:-1,Nova Premium ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3126
+#EXTINF:-1,Sci-Fi
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/164
+#EXTINF:-1,MAX Sci-Fi
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16525
+#EXTINF:-1,MAX FILMS ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16925
+#EXTINF:-1,MaxCro Select 1 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/331
+#EXTINF:-1,MaxCro Select 2 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/332
+#EXTINF:-1,MaxCro Select 3 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/333
+#EXTINF:-1,MaxCro Select 4 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/334
+#EXTINF:-1,MaxCro Select 5 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/335
+#EXTINF:-1,MaxCro Select 6 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/336
+#EXTINF:-1,MaxCro Select 7 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/337
+#EXTINF:-1,MaxCro Select 8 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/338
+#EXTINF:-1,MaxCro Select 9 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/339
+#EXTINF:-1,MaxCro Select 10 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/340
+#EXTINF:-1,MaxCro Select 11 HD
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3108
+#EXTINF:-1,TV GORA KIDS 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16361
+#EXTINF:-1,TV GORA SELECT 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16362
+#EXTINF:-1,TV GORA SELECT 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16363
+#EXTINF:-1,TV GORA SELECT 3
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16364
+#EXTINF:-1,TV GORA SELECT 4
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16365
+#EXTINF:-1,TV GORA SELECT 5
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16366
+#EXTINF:-1,TV GORA SELECT 6
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16367
+#EXTINF:-1,TV GORA SELECT 7
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16368
+#EXTINF:-1,TV GORA SELECT 8
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16369
+#EXTINF:-1,TV GORA SELECT 9
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16370
+#EXTINF:-1,TV GORA SELECT 10
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16371
+#EXTINF:-1,TV GORA PREMIERE 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16372
+#EXTINF:-1,TV GORA PREMIERE 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16373
+#EXTINF:-1,HBO GO ᴴᴰ(TEST)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20915
+#EXTINF:-1,Balkan Sky - Premiere 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/31047
+#EXTINF:-1,Balkan Sky - Premiere 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/31048
+#EXTINF:-1,Balkan Sky - Adventure
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/31049
+#EXTINF:-1,Balkan Sky - Folk
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/32440
+#EXTINF:-1,Balkan Sky - Comedy
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/32441
+#EXTINF:-1,Balkan Sky - Drama
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/32442
+#EXTINF:-1,Balkan Sky - Fantasy
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/32443
+#EXTINF:-1,Balkan Sky -Sci-Fi
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/32444
+#EXTINF:-1,Balkan Sky -Horror
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/32445
+#EXTINF:-1,Balkan Sky - Pop-Rock
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36266
+#EXTINF:-1,Balkan Sky - Ex-Yu Hits
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36267
+#EXTINF:-1,Balkan Sky - Film
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36268
+#EXTINF:-1,Balkan Sky - Thriller
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36269
+#EXTINF:-1,Balkan Sky - Western
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36270
+#EXTINF:-1,Balkan Sky - Doku
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36271
+#EXTINF:-1,Balkan Sky - Kids 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36272
+#EXTINF:-1,Balkan Sky - Kids 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36273
+#EXTINF:-1,Balkan Sky - Music
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36274
+#EXTINF:-1,Balkan Sky - Selo Veselo
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/36275
+#EXTINF:-1,=== Dokumentarni ===
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/180
+#EXTINF:-1, HISTORY CHANNEL ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/181
+#EXTINF:-1, HISTORY CHANNEL ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/182
+#EXTINF:-1, HISTORY CHANNEL 2 ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/183
+#EXTINF:-1, NATGEO ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/184
+#EXTINF:-1, NATGEO ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/185
+#EXTINF:-1, NATGEO WILD ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/186
+#EXTINF:-1, DISCOVERY CHANNEL ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/187
+#EXTINF:-1,DISCOVERY CHANNEL ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/188
+#EXTINF:-1, DISCOVERY SCIENCE ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/189
+#EXTINF:-1, ID DISCOVERY ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/190
+#EXTINF:-1, DA VINCI LEARNING ᴴᴰ 
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/191
+#EXTINF:-1, VIASAT NATURE ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/192
+#EXTINF:-1, VIASAT HISTORY ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/193
+#EXTINF:-1, VIASAT EXPLORER
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/194
+#EXTINF:-1, DOCU BOX ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/195
+#EXTINF:-1, BBC EARTH ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/196
+#EXTINF:-1, PLANET EARTH  ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/197
+#EXTINF:-1, TLC ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/198
+#EXTINF:-1,E!  ENTERTAINMENT ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/199
+#EXTINF:-1, LOV & RIBOLOV ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/200
+#EXTINF:-1, ANIMAL PLANET ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/201
+#EXTINF:-1, TRAVEL CHANNEL ᴴᴰ 
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/330
+#EXTINF:-1, 24 KITCHEN ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3845
+#EXTINF:-1, HISTORY CHANNEL 2 ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/4011
+#EXTINF:-1, NATGEO WILD ᴴᴰ (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/4066
+#EXTINF:-1,FOOD NETWORK(TEST)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/4067
+#EXTINF:-1,Doku TV
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/4068
+#EXTINF:-1, CBS REALITY ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20945
+#EXTINF:-1, CRIME INVESTIGATION ᴴᴰ
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20946
+#EXTINF:-1, DISCOVERY TURBO XTRA ᴴᴰ 
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/20947
+#EXTINF:-1,=== Pink Media ===
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/248
+#EXTINF:-1,Zadruga 1
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3137
+#EXTINF:-1,Zadruga 2
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3138
+#EXTINF:-1,Zadruga 3
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/3139
+#EXTINF:-1,Pink Plus
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/285
+#EXTINF:-1,Pink Extra
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/279
+#EXTINF:-1,Pink Action
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/252
+#EXTINF:-1,Pink Comedy
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/253
+#EXTINF:-1,Pink Crime  & Mistery
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/254
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/258
+#EXTINF:-1,Pink Horror
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/255
+#EXTINF:-1,Pink Movies
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/256
+#EXTINF:-1,Pink Thriller
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/259
+#EXTINF:-1,Pink Romance
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/257
+#EXTINF:-1,Pink Premium
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/262
+#EXTINF:-1,Pink Clasic
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/266
+#EXTINF:-1,Pink Family
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/267
+#EXTINF:-1,Pink Western
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/260
+#EXTINF:-1,Pink Western (L2)
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/16281
+#EXTINF:-1,Pink Film
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/264
+#EXTINF:-1,Pink Serije
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/265
+#EXTINF:-1,Pink Soap
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/263
+#EXTINF:-1,Pink World Cinema
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/268
+#EXTINF:-1,Pink Pedia
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/277
+#EXTINF:-1,Pink Kuvar
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/278
+#EXTINF:-1,Pink Show
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/280
+#EXTINF:-1,Pink Zabava
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/281
+#EXTINF:-1,Pink World
+http://unitediptv.xyz:8080/Goldenmedia/Deki691245/282
