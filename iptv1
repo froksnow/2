@@ -1,657 +1,561 @@
 #EXTM3U
-#EXTINF:-1,EX-YU: RTS 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1049
+#EXTINF:-1,RTS 1 HD
+http://krajnatv.com:8080/apo7776/skypeuser/18304
 
-#EXTINF:-1,EX-YU: RTS 1 (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2746
+#EXTINF:-1,RTS 1
+http://krajnatv.com:8080/apo7776/skypeuser/14096
 
-#EXTINF:-1,EX-YU: RTS 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1050
+#EXTINF:-1,RTS 2 HD
+http://krajnatv.com:8080/apo7776/skypeuser/14097
 
-#EXTINF:-1,EX-YU: RTS 2 (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2747
-
-#EXTINF:-1,EX-YU: RTS 3
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2748
+#EXTINF:-1,RTS 3
+http://krajnatv.com:8080/apo7776/skypeuser/14098
 
 #EXTINF:-1,HAPPY TV
 http://krajnatv.com:8080/apo7776/skypeuser/14119
 
-#EXTINF:-1,EX-YU: Pink
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1004
+#EXTINF:-1,RTS DRAMA
+http://krajnatv.com:8080/apo7776/skypeuser/14102
 
-#EXTINF:-1,EX-YU: PINK 1 (reserve)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2759
+#EXTINF:-1,RTS ZIVOT
+http://krajnatv.com:8080/apo7776/skypeuser/14101
 
-#EXTINF:-1,EX-YU: PINK2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1005
+#EXTINF:-1,RTS SVET
+http://krajnatv.com:8080/apo7776/skypeuser/14099
 
-#EXTINF:-1,EX-YU: PINK 3
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2761
+#EXTINF:-1,RTS KOLO
+http://krajnatv.com:8080/apo7776/skypeuser/14100
 
-#EXTINF:-1,EX-YU: N1 SRB
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2765
+#EXTINF:-1,PRVA TV
+http://krajnatv.com:8080/apo7776/skypeuser/14103
 
-#EXTINF:-1,EX-YU: Nova RS
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2757
+#EXTINF:-1,PRVA PLUS
+http://krajnatv.com:8080/apo7776/skypeuser/14104
 
-#EXTINF:-1,EX-YU: NOVA S HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/23655
+#EXTINF:-1,PRVA MAX
+http://krajnatv.com:8080/apo7776/skypeuser/14105
 
-#EXTINF:-1,EX-YU: TSD Televizija srpske dijaspore
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/60730
+#EXTINF:-1,PRVA KICK
+http://krajnatv.com:8080/apo7776/skypeuser/14106
 
-#EXTINF:-1,CRO: TV Zapad HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/60729
+#EXTINF:-1,NOVA S
+http://krajnatv.com:8080/apo7776/skypeuser/87
 
-#EXTINF:-1,EX-YU: Kurir TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/60725
+#EXTINF:-1,NOVA S L2
+http://krajnatv.com:8080/apo7776/skypeuser/88
 
-#EXTINF:-1,EX-YU: Belle Amie TV HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/60724
+#EXTINF:-1,N1 RS
+http://krajnatv.com:8080/apo7776/skypeuser/93
 
-#EXTINF:-1,EX-YU: Jugoton TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/39492
+#EXTINF:-1,TV ISTOK
+http://krajnatv.com:8080/apo7776/skypeuser/23503
 
-#EXTINF:-1,EX-YU: OBN
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1623
+#EXTINF:-1,TV K::CN 1
+http://krajnatv.com:8080/apo7776/skypeuser/20306
 
-#EXTINF:-1,EX-YU: BHT
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1605
+#EXTINF:-1,TV K::CN Music 2
+http://krajnatv.com:8080/apo7776/skypeuser/20307
 
-#EXTINF:-1,EX-YU: BHT 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2775
+#EXTINF:-1,TV K::CN Svet Plus 3
+http://krajnatv.com:8080/apo7776/skypeuser/20308
 
-#EXTINF:-1,EX-YU: NOVA BH
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1624
+#EXTINF:-1,TV KRAGUJEVAC
+http://krajnatv.com:8080/apo7776/skypeuser/21177
 
-#EXTINF:-1,EX-YU: B1 HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29165
+#EXTINF:-1,TV LESKOVAC
+http://krajnatv.com:8080/apo7776/skypeuser/20304
 
-#EXTINF:-1,EX-YU: RTV SLON
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/38461
+#EXTINF:-1,B92
+http://krajnatv.com:8080/apo7776/skypeuser/14118
 
-#EXTINF:-1,EX-YU: TK Tuzla
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2781
+#EXTINF:-1,HAPPY PAROVI 24/7
+http://krajnatv.com:8080/apo7776/skypeuser/18307
 
-#EXTINF:-1,EX-YU: TVSA Sarajevo
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2782
+#EXTINF:-1,PAROVI LIVE
+http://krajnatv.com:8080/apo7776/skypeuser/15391
 
-#EXTINF:-1,EX-YU: ALFA TV BH
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22656
+#EXTINF:-1,KURIR TV HD
+http://krajnatv.com:8080/apo7776/skypeuser/22799
 
-#EXTINF:-1,EX-YU: A TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29164
+#EXTINF:-1,RTV VOJVODINA 1
+http://krajnatv.com:8080/apo7776/skypeuser/14622
 
-#EXTINF:-1,EX-YU: ALFA TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29166
+#EXTINF:-1,RTV VOJVODINA 2
+http://krajnatv.com:8080/apo7776/skypeuser/14623
 
-#EXTINF:-1,EX-YU: O KANAL
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2778
+#EXTINF:-1,BELLE AMIE HD
+http://krajnatv.com:8080/apo7776/skypeuser/20305
 
-#EXTINF:-1,EX-YU: RTV USK
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2791
+#EXTINF:-1,RED TV
+http://krajnatv.com:8080/apo7776/skypeuser/5493
 
-#EXTINF:-1,EX-YU: Hayat HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1616
+#EXTINF:-1,HRAM TV
+http://krajnatv.com:8080/apo7776/skypeuser/18800
 
-#EXTINF:-1,EX-YU: HAYAT PLUS
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2779
+#EXTINF:-1,RTV BOR
+http://krajnatv.com:8080/apo7776/skypeuser/14117
 
-#EXTINF:-1,EX-YU: Federalna TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2777
+#EXTINF:-1,RTV CITY UB
+http://krajnatv.com:8080/apo7776/skypeuser/23492
 
-#EXTINF:-1,EX-YU: FACE TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2780
+#EXTINF:-1,SOS
+http://krajnatv.com:8080/apo7776/skypeuser/18306
 
-#EXTINF:-1,EX-YU: HEMA TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/23635
+#EXTINF:-1,STUDIO B
+http://krajnatv.com:8080/apo7776/skypeuser/14122
 
-#EXTINF:-1,EX-YU: TV 5
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2773
+#EXTINF:-1,BNV TV SANDZAK
+http://krajnatv.com:8080/apo7776/skypeuser/23490
 
-#EXTINF:-1,EX-YU: MTV Igman
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2786
+#EXTINF:-1,HRT 1 HD
+http://krajnatv.com:8080/apo7776/skypeuser/7873
 
-#EXTINF:-1,EX-YU: Sandzak TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2767
+#EXTINF:-1,HRT 1 HD (L2)
+http://krajnatv.com:8080/apo7776/skypeuser/15298
 
-#EXTINF:-1,EX-YU: CITY TV MOSTAR
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/25446
+#EXTINF:-1,HRT 2
+http://krajnatv.com:8080/apo7776/skypeuser/5797
 
-#EXTINF:-1,EX-YU: NTV IC
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29167
+#EXTINF:-1,HRT 2 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13473
 
-#EXTINF:-1,EX-YU: PODRINJE
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29170
+#EXTINF:-1,HRT 2 HD (L2)
+http://krajnatv.com:8080/apo7776/skypeuser/10931
 
-#EXTINF:-1,EX-YU: TV Sehara
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2784
+#EXTINF:-1,HRT 3 HD
+http://krajnatv.com:8080/apo7776/skypeuser/5800
 
-#EXTINF:-1,EX-YU: Otv Valentino
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2789
+#EXTINF:-1,HRT 4 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13739
 
-#EXTINF:-1,EX-YU: Posavina TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1633
+#EXTINF:-1,HRT INT.
+http://krajnatv.com:8080/apo7776/skypeuser/10695
 
-#EXTINF:-1,EX-YU: Hayat Folk
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1617
+#EXTINF:-1,N1 HR
+http://krajnatv.com:8080/apo7776/skypeuser/89
 
-#EXTINF:-1,EX-YU: HAYAT MUSIC
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2858
+#EXTINF:-1,NOVA TV
+http://krajnatv.com:8080/apo7776/skypeuser/80
 
-#EXTINF:-1,EX-YU: SEVDAH TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22686
+#EXTINF:-1,NOVA TV HD
+http://krajnatv.com:8080/apo7776/skypeuser/81
 
-#EXTINF:-1,EX-YU: TNT KIDS
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22667
+#EXTINF:-1,NOVA CINEMA
+http://krajnatv.com:8080/apo7776/skypeuser/11
 
-#EXTINF:-1,EX-YU: Hayatovci
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2924
+#EXTINF:-1,RTL
+http://krajnatv.com:8080/apo7776/skypeuser/5482
 
-#EXTINF:-1,EX-YU: RTS Drama
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14350
+#EXTINF:-1,RTL 2
+http://krajnatv.com:8080/apo7776/skypeuser/5483
 
-#EXTINF:-1,EX-YU: RTS Kolo
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14351
+#EXTINF:-1,RTL ADRIA HD
+http://krajnatv.com:8080/apo7776/skypeuser/10
 
-#EXTINF:-1,EX-YU: RTS Muzika
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14352
+#EXTINF:-1,RTL ADRIA
+http://krajnatv.com:8080/apo7776/skypeuser/21620
 
-#EXTINF:-1,EX-YU: RTS Satelit
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14355
+#EXTINF:-1,RTL CRIME
+http://krajnatv.com:8080/apo7776/skypeuser/5484
 
-#EXTINF:-1,EX-YU: RTCG 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/5825
+#EXTINF:-1,RTL CROATIA WORLD
+http://krajnatv.com:8080/apo7776/skypeuser/21621
 
-#EXTINF:-1,EX-YU: RTCG 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/5826
+#EXTINF:-1,RTL HD (hevc)
+http://krajnatv.com:8080/apo7776/skypeuser/21781
 
-#EXTINF:-1,EX-YU: RTCG SAT
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2811
+#EXTINF:-1,RTL LIVING
+http://krajnatv.com:8080/apo7776/skypeuser/5798
 
-#EXTINF:-1,EX-YU: RTL HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1635
+#EXTINF:-1,RTL PASSION
+http://krajnatv.com:8080/apo7776/skypeuser/5465
 
-#EXTINF:-1,EX-YU: RTL 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2803
+#EXTINF:-1,RTV CAZIN
+http://krajnatv.com:8080/apo7776/skypeuser/20347
 
-#EXTINF:-1,EX-YU: PRVA
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2750
+#EXTINF:-1,SBTV
+http://krajnatv.com:8080/apo7776/skypeuser/26433
 
-#EXTINF:-1,EX-YU: PRVA (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2751
+#EXTINF:-1,MREZA TV SPLIT
+http://krajnatv.com:8080/apo7776/skypeuser/22127
 
-#EXTINF:-1,EX-YU: Prva Kick
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21678
+#EXTINF:-1,MREZA TV ZAGREB
+http://krajnatv.com:8080/apo7776/skypeuser/22126
 
-#EXTINF:-1,EX-YU: Prva MAX
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21252
+#EXTINF:-1,ZDRAVA TV
+http://krajnatv.com:8080/apo7776/skypeuser/21623
 
-#EXTINF:-1,EX-YU: PRVA Plus
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1634
+#EXTINF:-1,VTV
+http://krajnatv.com:8080/apo7776/skypeuser/21622
 
-#EXTINF:-1,EX-YU: Prva TV Montenegro
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21014
+#EXTINF:-1,RTL HD
+http://krajnatv.com:8080/apo7776/skypeuser/7040
 
-#EXTINF:-1,EX-YU: PRVA World TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2754
+#EXTINF:-1,O KANAL
+http://krajnatv.com:8080/apo7776/skypeuser/13903
 
-#EXTINF:-1,EX-YU: NOVA M
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2812
+#EXTINF:-1,TV DUBROVNIK
+http://krajnatv.com:8080/apo7776/skypeuser/20216
 
-#EXTINF:-1,EX-YU: ZADRUGA 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29136
+#EXTINF:-1,OSJECKA TV
+http://krajnatv.com:8080/apo7776/skypeuser/5627
 
-#EXTINF:-1,EX-YU: ZADRUGA 3
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29138
+#EXTINF:-1,PALMA PLUS
+http://krajnatv.com:8080/apo7776/skypeuser/14107
 
-#EXTINF:-1,EX-YU: Red TV HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/60726
+#EXTINF:-1,POLJOPRIVREDNA TV
+http://krajnatv.com:8080/apo7776/skypeuser/10899
 
-#EXTINF:-1,EX-YU: HIT BRCKO
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22180
+#EXTINF:-1,POSAVINA TV
+http://krajnatv.com:8080/apo7776/skypeuser/20129
 
-#EXTINF:-1,EX-YU: 24 KITCHEN
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2899
+#EXTINF:-1,PRIGORSKA TV
+http://krajnatv.com:8080/apo7776/skypeuser/14
 
-#EXTINF:-1,EX-YU: ANIMAL PLANET
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2903
+#EXTINF:-1,RTV BANOVINA
+http://krajnatv.com:8080/apo7776/skypeuser/5819
 
-#EXTINF:-1,EX-YU: A1 BALKAN
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2785
+#EXTINF:-1,SEZAM TV
+http://krajnatv.com:8080/apo7776/skypeuser/23475
 
-#EXTINF:-1,CRO: HRT 1 HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1618
+#EXTINF:-1,TREND TV
+http://krajnatv.com:8080/apo7776/skypeuser/20709
 
-#EXTINF:-1,CRO: HRT 2 HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1619
+#EXTINF:-1,Z1
+http://krajnatv.com:8080/apo7776/skypeuser/5486
 
-#EXTINF:-1,CRO: HRT 3 HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1620
+#EXTINF:-1,AGRO TV
+http://krajnatv.com:8080/apo7776/skypeuser/22341
 
-#EXTINF:-1,CRO: HRT 4 HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1621
+#EXTINF:-1,ALFA TV
+http://krajnatv.com:8080/apo7776/skypeuser/23470
 
-#EXTINF:-1,CRO: HRT  International HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/13250
+#EXTINF:-1,DOMA TV
+http://krajnatv.com:8080/apo7776/skypeuser/6023
 
-#EXTINF:-1,CRO: NOVA TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2801
+#EXTINF:-1,PINK FASHION
+http://krajnatv.com:8080/apo7776/skypeuser/4868
 
-#EXTINF:-1,CRO: NOVA TV HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1622
+#EXTINF:-1,HBO 2 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13748
 
-#EXTINF:-1,CRO: NOVA HR HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22144
+#EXTINF:-1,HBO 3 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13749
 
-#EXTINF:-1,EX-YU: HBO (HD)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2743
+#EXTINF:-1,FOX
+http://krajnatv.com:8080/apo7776/skypeuser/20621
 
-#EXTINF:-1,EX-YU: HBO 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2880
+#EXTINF:-1,FOX LIFE HD
+http://krajnatv.com:8080/apo7776/skypeuser/20620
 
-#EXTINF:-1,EX-YU: HBO 2 (HD)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2744
+#EXTINF:-1,FOX MOVIES
+http://krajnatv.com:8080/apo7776/skypeuser/13751
 
-#EXTINF:-1,EX-YU: HBO 2 (HD).
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/954
+#EXTINF:-1,FOX LIFE
+http://krajnatv.com:8080/apo7776/skypeuser/13752
 
-#EXTINF:-1,EX-YU: HBO 3
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2881
+#EXTINF:-1,FOX HD
+http://krajnatv.com:8080/apo7776/skypeuser/13750
 
-#EXTINF:-1,CRO: RTL
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/10859
+#EXTINF:-1,CINEMAX 2 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13759
 
-#EXTINF:-1,CRO: RTL 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1636
+#EXTINF:-1,CINEMAX 1 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13758
 
-#EXTINF:-1,CRO: RTL Living
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1637
+#EXTINF:-1,CINESTAR TV 1 (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/13754
 
-#EXTINF:-1,CRO: RTL Passion
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/13936
+#EXTINF:-1,CINESTAR TV 2 (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/21644
 
-#EXTINF:-1,CRO: RTL CRIME
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2804
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13756
 
-#EXTINF:-1,CRO: RTL KOCKICA
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2920
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://krajnatv.com:8080/apo7776/skypeuser/13757
 
-#EXTINF:-1,CRO: CINESTAR ACTION
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1609
+#EXTINF:-1,CINESTAR ACTION (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/13755
 
-#EXTINF:-1,CRO: Cinestar Premier 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1610
+#EXTINF:-1,CINESTAR FANTASY
+http://krajnatv.com:8080/apo7776/skypeuser/19351
 
-#EXTINF:-1,CRO: Cinestar Premier 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1611
+#EXTINF:-1,M1 FILM
+http://krajnatv.com:8080/apo7776/skypeuser/13765
 
-#EXTINF:-1,CRO: CINESTAR FANTASY
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/7929
+#EXTINF:-1,DIVA
+http://krajnatv.com:8080/apo7776/skypeuser/17892
 
-#EXTINF:-1,CRO: CINEMAX-1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2885
+#EXTINF:-1,SCI-FI
+http://krajnatv.com:8080/apo7776/skypeuser/17888
 
-#EXTINF:-1,CRO: CINEMAX-2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2886
+#EXTINF:-1,KINO TV HD
+http://krajnatv.com:8080/apo7776/skypeuser/13764
 
-#EXTINF:-1,CRO: Doma TV HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1613
+#EXTINF:-1,AMC HD
+http://krajnatv.com:8080/apo7776/skypeuser/14611
 
-#EXTINF:-1,CRO: DIVA
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2795
+#EXTINF:-1,TV 1000
+http://krajnatv.com:8080/apo7776/skypeuser/13761
 
-#EXTINF:-1,CRO: TV Banovina
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2806
+#EXTINF:-1,SUPER STAR TV
+http://krajnatv.com:8080/apo7776/skypeuser/18303
 
-#EXTINF:-1,CRO: CMC
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2861
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://krajnatv.com:8080/apo7776/skypeuser/14192
 
-#EXTINF:-1,CRO: HBO Adria
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2879
+#EXTINF:-1,CRIME INVESTIGATION
+http://krajnatv.com:8080/apo7776/skypeuser/21815
 
-#EXTINF:-1,CRO: FilmBox Extra
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2893
+#EXTINF:-1,LOV I RIBOLOV
+http://krajnatv.com:8080/apo7776/skypeuser/101
 
-#EXTINF:-1,CRO: Viasat Nature
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2906
+#EXTINF:-1,ANIMAL PLANET
+http://krajnatv.com:8080/apo7776/skypeuser/14185
 
-#EXTINF:-1,CRO: Viasat History
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/13933
+#EXTINF:-1,FOOD NETWORK
+http://krajnatv.com:8080/apo7776/skypeuser/20019
 
-#EXTINF:-1,CRO: Viasat Explorer
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/13934
+#EXTINF:-1,DISCOVERY ID
+http://krajnatv.com:8080/apo7776/skypeuser/20014
 
-#EXTINF:-1,CRO: HNTV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22178
+#EXTINF:-1,24 KITCHEN
+http://krajnatv.com:8080/apo7776/skypeuser/15709
 
-#EXTINF:-1,CRO: Aurora Tv
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/60727
+#EXTINF:-1,E!
+http://krajnatv.com:8080/apo7776/skypeuser/15300
 
-#EXTINF:-1,CRO: Kreator TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22177
+#EXTINF:-1,VIASAT EXPLORE
+http://krajnatv.com:8080/apo7776/skypeuser/14200
 
-#EXTINF:-1,CRO: SPORTSKA TV SPTV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22176
+#EXTINF:-1,TRAVEL
+http://krajnatv.com:8080/apo7776/skypeuser/14198
 
-#EXTINF:-1,CRO: DOKU TV ADRIA
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22170
+#EXTINF:-1,HISTORY CHANNEL HD
+http://krajnatv.com:8080/apo7776/skypeuser/14196
 
-#EXTINF:-1,CRO: Travel Channel Adria
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22169
+#EXTINF:-1,DOKU TV
+http://krajnatv.com:8080/apo7776/skypeuser/19669
 
-#EXTINF:-1,CRO: AXN Adria
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2891
+#EXTINF:-1,TLC
+http://krajnatv.com:8080/apo7776/skypeuser/18308
 
-#EXTINF:-1,CRO: AXN SPIN
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2813
+#EXTINF:-1,BBC EARTH HD
+http://krajnatv.com:8080/apo7776/skypeuser/14202
 
-#EXTINF:-1,CRO: AXN SPIN Adria
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21720
+#EXTINF:-1,HISTORY 2
+http://krajnatv.com:8080/apo7776/skypeuser/14195
 
-#EXTINF:-1,CRO: N1 HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/13667
+#EXTINF:-1,DOCUBOX HD
+http://krajnatv.com:8080/apo7776/skypeuser/20805
 
-#EXTINF:-1,EX-YU: BALKANIKA
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1721
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://krajnatv.com:8080/apo7776/skypeuser/14194
 
-#EXTINF:-1,EX-YU: Cinemania
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21012
+#EXTINF:-1,VIASAT NATURE
+http://krajnatv.com:8080/apo7776/skypeuser/14190
 
-#EXTINF:-1,EX-YU: Crime & Investigation
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2910
+#EXTINF:-1,WOMAN TV (test)
+http://krajnatv.com:8080/apo7776/skypeuser/26499
 
-#EXTINF:-1,EX-YU: Da Vinci Learning
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2911
+#EXTINF:-1,HAYATOVCI
+http://krajnatv.com:8080/apo7776/skypeuser/5605
 
-#EXTINF:-1,EX-YU: Discovery Science HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21721
+#EXTINF:-1,TOM & JERRY TV HD
+http://krajnatv.com:8080/apo7776/skypeuser/6492
 
-#EXTINF:-1,EX-YU: DM Sat
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1612
+#EXTINF:-1,MASA I MEDO TV (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/11303
 
-#EXTINF:-1,EX-YU: Docubox
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2916
+#EXTINF:-1,BABY TV
+http://krajnatv.com:8080/apo7776/skypeuser/4848
 
-#EXTINF:-1,EX-YU: E!
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2907
+#EXTINF:-1,MINIMAX
+http://krajnatv.com:8080/apo7776/skypeuser/6493
 
-#EXTINF:-1,EX-YU: Eurosport 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2948
+#EXTINF:-1,DUCK TV
+http://krajnatv.com:8080/apo7776/skypeuser/10660
 
-#EXTINF:-1,EX-YU: Eurosport 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2949
+#EXTINF:-1,TOM & JERRY TV 2 HD
+http://krajnatv.com:8080/apo7776/skypeuser/6491
 
-#EXTINF:-1,EX-YU: Filmbox HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/25411
+#EXTINF:-1,NICK JUNIOR (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/4759
 
-#EXTINF:-1,EX-YU: Fox Crime HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2889
+#EXTINF:-1,JIMJAM TV
+http://krajnatv.com:8080/apo7776/skypeuser/10659
 
-#EXTINF:-1,EX-YU: FOX HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22146
+#EXTINF:-1,DISNEY CHANNEL (FR)
+http://krajnatv.com:8080/apo7776/skypeuser/10742
 
-#EXTINF:-1,EX-YU: Fox Life HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1615
+#EXTINF:-1,MINI TV
+http://krajnatv.com:8080/apo7776/skypeuser/98
 
-#EXTINF:-1,EX-YU: Fox Movies HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2888
+#EXTINF:-1,SPUZVA BOB TV
+http://krajnatv.com:8080/apo7776/skypeuser/20981
 
-#EXTINF:-1,EX-YU: Fox Movies HD (HR SUB)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/13759
+#EXTINF:-1,NICKELODEON (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/5788
 
-#EXTINF:-1,EX-YU: Grand TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2859
+#EXTINF:-1,VAVOOM
+http://krajnatv.com:8080/apo7776/skypeuser/100
 
-#EXTINF:-1,EX-YU: Happy Parovi 24/7
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/9594
+#EXTINF:-1,RTL KOCKICA HD (hevc)
+http://krajnatv.com:8080/apo7776/skypeuser/22262
 
-#EXTINF:-1,EX-YU: History 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2901
+#EXTINF:-1,NICKELODEON (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/10657
 
-#EXTINF:-1,EX-YU: HISTORY CHANNEL
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2900
+#EXTINF:-1,CARTOON NETWORK (DE)
+http://krajnatv.com:8080/apo7776/skypeuser/7659
 
-#EXTINF:-1,EX-YU: Izvorna TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2860
+#EXTINF:-1,JUGOTON
+http://krajnatv.com:8080/apo7776/skypeuser/5377
 
-#EXTINF:-1,EX-YU: KCN 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2850
+#EXTINF:-1,HAYAT MUSIC
+http://krajnatv.com:8080/apo7776/skypeuser/5590
 
-#EXTINF:-1,EX-YU: KCN 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2851
+#EXTINF:-1,HAYAT FOLK
+http://krajnatv.com:8080/apo7776/skypeuser/4750
 
-#EXTINF:-1,EX-YU: KCN 3
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2852
+#EXTINF:-1,IDJ TV HD
+http://krajnatv.com:8080/apo7776/skypeuser/99
 
-#EXTINF:-1,EX-YU: Kino TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21013
+#EXTINF:-1,BN MUSIC
+http://krajnatv.com:8080/apo7776/skypeuser/5592
 
-#EXTINF:-1,EX-YU: KLASIK TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2875
+#EXTINF:-1,GRAND TV
+http://krajnatv.com:8080/apo7776/skypeuser/96
 
-#EXTINF:-1,EX-YU: LOV I RIBOLOV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2898
+#EXTINF:-1,BALKANIKA
+http://krajnatv.com:8080/apo7776/skypeuser/5596
 
-#EXTINF:-1,EX-YU: M1 Film
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21679
+#EXTINF:-1,SEVDAH TV
+http://krajnatv.com:8080/apo7776/skypeuser/4860
 
-#EXTINF:-1,EX-YU: M1 Gold
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/23649
+#EXTINF:-1,CMC HD
+http://krajnatv.com:8080/apo7776/skypeuser/22265
 
-#EXTINF:-1,EX-YU: Mini TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2925
+#EXTINF:-1,ROMA TV
+http://krajnatv.com:8080/apo7776/skypeuser/6022
 
-#EXTINF:-1,EX-YU: Mini TV HR
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2926
+#EXTINF:-1,CMC
+http://krajnatv.com:8080/apo7776/skypeuser/5591
 
-#EXTINF:-1,EX-YU: Minimax
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2922
+#EXTINF:-1,VH 1
+http://krajnatv.com:8080/apo7776/skypeuser/4923
 
-#EXTINF:-1,EX-YU: NASA TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/25447
+#EXTINF:-1,MTV CLASSIC
+http://krajnatv.com:8080/apo7776/skypeuser/7814
 
-#EXTINF:-1,EX-YU: NAT GEO WILD HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22919
+#EXTINF:-1,EUROSPORT 1 HD (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/14792
 
-#EXTINF:-1,EX-YU: NATIONAL GEOGRAPHIC HD (HR)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22058
+#EXTINF:-1,EUROSPORT 2 HD (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/14794
 
-#EXTINF:-1,EX-YU: O2 (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2753
+#EXTINF:-1,ARENA SPORT 1 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/14735
 
-#EXTINF:-1,EX-YU: PAROVI 24 SATA
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/25434
+#EXTINF:-1,ARENA SPORT 2 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/14736
 
-#EXTINF:-1,EX-YU: Partizan HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/9398
+#EXTINF:-1,ARENA SPORT 3 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/14812
 
-#EXTINF:-1,EX-YU: Pikaboo
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/22665
+#EXTINF:-1,ARENA SPORT 4 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/14734
 
-#EXTINF:-1,EX-YU: Pink M
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/34396
+#EXTINF:-1,ARENA SPORT 5 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/14737
 
-#EXTINF:-1,EX-YU: Pink Action
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1006
+#EXTINF:-1,ARENA SPORT 1 (SR) FHD
+http://krajnatv.com:8080/apo7776/skypeuser/26501
 
-#EXTINF:-1,EX-YU: Pink Classic
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14326
+#EXTINF:-1,ARENA SPORT 2 (SR) FHD
+http://krajnatv.com:8080/apo7776/skypeuser/26502
 
-#EXTINF:-1,EX-YU: Pink Comedy
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1008
+#EXTINF:-1,ARENA SPORT 3 (SR) FHD
+http://krajnatv.com:8080/apo7776/skypeuser/26503
 
-#EXTINF:-1,EX-YU: Pink Crime & Mystery
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1684
+#EXTINF:-1,ARENA SPORT 4 (SR) FHD
+http://krajnatv.com:8080/apo7776/skypeuser/26504
 
-#EXTINF:-1,EX-YU: Pink Extra
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1009
+#EXTINF:-1,ARENA SPORT 5 (SR) FHD
+http://krajnatv.com:8080/apo7776/skypeuser/26505
 
-#EXTINF:-1,EX-YU: Pink Family
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14328
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/14724
 
-#EXTINF:-1,EX-YU: Pink Film
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1011
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/14725
 
-#EXTINF:-1,EX-YU: Pink Folk
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2869
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/14726
 
-#EXTINF:-1,EX-YU: Pink Folk 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2870
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/14727
 
-#EXTINF:-1,EX-YU: Pink HaHa
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14324
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/14728
 
-#EXTINF:-1,EX-YU: Pink Hits 2
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2866
+#EXTINF:-1,ARENA SPORT 6 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/14729
 
-#EXTINF:-1,EX-YU: Pink Horror
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1012
+#EXTINF:-1,ARENA SPORT 1 (BIH)
+http://krajnatv.com:8080/apo7776/skypeuser/23472
 
-#EXTINF:-1,EX-YU: Pink Kids
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2919
+#EXTINF:-1,SPORT KLUB HD (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/67
 
-#EXTINF:-1,EX-YU: Pink Koncert
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2865
+#EXTINF:-1,SPORT KLUB 1 HD (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/68
 
-#EXTINF:-1,EX-YU: Pink Kuvar
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2913
+#EXTINF:-1,SPORT KLUB 2 HD (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/69
 
-#EXTINF:-1,EX-YU: Pink LoL
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14325
+#EXTINF:-1,SPORT KLUB 3 HD (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/70
 
-#EXTINF:-1,EX-YU: PINK MEDIA BIH
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/21697
+#EXTINF:-1,SPORT KLUB 4 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/71
 
-#EXTINF:-1,EX-YU: Pink Movies
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1013
+#EXTINF:-1,SPORT KLUB 5 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/72
 
-#EXTINF:-1,EX-YU: Pink Music
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2867
+#EXTINF:-1,SPORT KLUB 6 (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/26506
 
-#EXTINF:-1,EX-YU: Pink Pedia
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1014
+#EXTINF:-1,SPORT KLUB 1 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/61
 
-#EXTINF:-1,EX-YU: Pink Plus TV
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2772
+#EXTINF:-1,SPORT KLUB 2 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/62
 
-#EXTINF:-1,EX-YU: Pink Premium
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1626
+#EXTINF:-1,SPORT KLUB 3 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/63
 
-#EXTINF:-1,EX-YU: Pink Reality
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/11452
+#EXTINF:-1,SPORT KLUB 4 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/64
 
-#EXTINF:-1,EX-YU: Pink Romance
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1628
+#EXTINF:-1,SPORT KLUB 5 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/65
 
-#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1629
+#EXTINF:-1,SPORT KLUB 6 HD (HR)
+http://krajnatv.com:8080/apo7776/skypeuser/66
 
-#EXTINF:-1,EX-YU: Pink Serije
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1630
+#EXTINF:-1,PLANET SPORT 1 HD
+http://krajnatv.com:8080/apo7776/skypeuser/14719
 
-#EXTINF:-1,EX-YU: Pink Show
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2872
+#EXTINF:-1,CITY TV
+http://krajnatv.com:8080/apo7776/skypeuser/13918
 
-#EXTINF:-1,EX-YU: Pink Soap
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2894
+#EXTINF:-1,NOVA SPORT (SR)
+http://krajnatv.com:8080/apo7776/skypeuser/20028
 
-#EXTINF:-1,EX-YU: Pink Super Kids
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2918
+#EXTINF:-1,SONY TV HD (DE)
+http://krajnatv.com:8080/apo7776/skypeuser/13804
 
-#EXTINF:-1,EX-YU: Pink Thriller
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1631
-
-#EXTINF:-1,EX-YU: Pink Western
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/1632
-
-#EXTINF:-1,EX-YU: Pink World
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2914
-
-#EXTINF:-1,EX-YU: Pink World Cinema
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14327
-
-#EXTINF:-1,EX-YU: Pink Zabava
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2912
-
-#EXTINF:-1,EX-YU: Planet Tv
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/9306
-
-#EXTINF:-1,EX-YU: Pop Oto
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2843
-
-#EXTINF:-1,EX-YU: Roma Tv
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/4120
-
-#EXTINF:-1,EX-YU: RT Vojvodina 1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2763
-
-#EXTINF:-1,EX-YU: RTS Trezor
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14353
-
-#EXTINF:-1,EX-YU: RTS Zivot
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/14354
-
-#EXTINF:-1,EX-YU: RTV BOR
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/23098
-
-#EXTINF:-1,EX-YU: RTV Novi Pazar
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2768
-
-#EXTINF:-1,EX-YU: Sobraniski Kanal (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2828
-
-#EXTINF:-1,EX-YU: SOS (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2929
-
-#EXTINF:-1,EX-YU: Studio B
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2762
-
-#EXTINF:-1,EX-YU: TLC (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2908
-
-#EXTINF:-1,EX-YU: TV 1000
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2876
-
-#EXTINF:-1,EX-YU: TV Nasha  (local)
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2831
-
-#EXTINF:-1,EX-YU: Z1
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2807
-
-#EXTINF:-1,EX-YU: Nova Sport HD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/53499
-
-#EXTINF:-1,EX-YU: Maxcro Select 1 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29958
-
-#EXTINF:-1,EX-YU: Maxcro Select 2 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29959
-
-#EXTINF:-1,EX-YU:  Maxcro Select 3 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29960
-
-#EXTINF:-1,EX-YU: Maxcro Select 4 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29961
-
-#EXTINF:-1,EX-YU: Maxcro Select 5 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29962
-
-#EXTINF:-1,EX-YU:  Maxcro Select 6 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29963
-
-#EXTINF:-1,EX-YU: Maxcro Select 8 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29965
-
-#EXTINF:-1,EX-YU: Maxcro Select 9 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29966
-
-#EXTINF:-1,EX-YU: Maxcro Select 10 FHD
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/29967
-
-#EXTINF:-1,EX-YU: Pop Brio
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/2844
-
-#EXTINF:-1,EX-YU: RTV City UB
-http://client.ksporttv.com:88/qlbline/nqdYftPnBEFx4Xrs/52482
+#EXTINF:-1,PARTIZAN TV
+http://krajnatv.com:8080/apo7776/skypeuser/46
