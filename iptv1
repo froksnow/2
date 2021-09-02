@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,EUROSPORT
+http://ip.cs4ip.com:8000/imran2020/imran2020/178097
 #EXTINF:-1,PINK
 http://krajnatv.com:8080/johnseven/skypeuser/5490
 #EXTINF:-1,HAPPY TV
