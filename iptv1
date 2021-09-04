@@ -1,962 +1,664 @@
 #EXTM3U
-#EXTINF:-1,EUROSPORT
-http://ip.cs4ip.com:8000/imran2020/imran2020/178097
-#EXTINF:-1,PINK
-http://krajnatv.com:8080/johnseven/skypeuser/5490
-#EXTINF:-1,HAPPY TV
-http://krajnatv.com:8080/johnseven/skypeuser/14119
-#EXTINF:-1,KURIR TV HD
-http://krajnatv.com:8080/johnseven/skypeuser/22799
-#EXTINF:-1,NOVA S
-http://krajnatv.com:8080/johnseven/skypeuser/87
+#EXTINF:-1,EX-YU: RTS 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1049
 
-#EXTINF:-1,NOVA S L2
-http://krajnatv.com:8080/johnseven/skypeuser/88
+#EXTINF:-1,EX-YU: RTS 1 (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2746
+#EXTINF:-1,EX-YU: Pink
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1004
 
-#EXTINF:-1,N1 RS
-http://krajnatv.com:8080/johnseven/skypeuser/93
+#EXTINF:-1,EX-YU: PINK 1 (reserve)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2759
 
-#EXTINF:-1,RED TV
-http://krajnatv.com:8080/johnseven/skypeuser/5493
+#EXTINF:-1,EX-YU: PINK2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1005
 
-#EXTINF:-1,RTS 1
-http://krajnatv.com:8080/johnseven/skypeuser/14096
+#EXTINF:-1,EX-YU: PINK 3
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2761
+#EXTINF:-1,EX-YU: Happy (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2756
 
-#EXTINF:-1,RTS 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/14097
+#EXTINF:-1,EX-YU: N1 SRB
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2765
+#EXTINF:-1,EX-YU: Nova RS
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2757
 
-#EXTINF:-1,RTS 3
-http://krajnatv.com:8080/johnseven/skypeuser/14098
+#EXTINF:-1,EX-YU: NOVA S HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/23655
 
-#EXTINF:-1,RTS SVET
-http://krajnatv.com:8080/johnseven/skypeuser/14099
+#EXTINF:-1,EX-YU: RTS 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1049
 
-#EXTINF:-1,RTS KOLO
-http://krajnatv.com:8080/johnseven/skypeuser/14100
+#EXTINF:-1,CRO: HRT 1 HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1618
 
-#EXTINF:-1,RTS ZIVOT
-http://krajnatv.com:8080/johnseven/skypeuser/14101
+#EXTINF:-1,CRO: HRT 2 HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1619
 
-#EXTINF:-1,RTS DRAMA
-http://krajnatv.com:8080/johnseven/skypeuser/14102
+#EXTINF:-1,CRO: HRT 3 HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1620
 
-#EXTINF:-1,PRVA TV
-http://krajnatv.com:8080/johnseven/skypeuser/14103
+#EXTINF:-1,CRO: HRT 4 HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1621
 
-#EXTINF:-1,PRVA PLUS
-http://krajnatv.com:8080/johnseven/skypeuser/14104
+#EXTINF:-1,EX-YU: HBO (HD)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2743
 
-#EXTINF:-1,PRVA MAX
-http://krajnatv.com:8080/johnseven/skypeuser/14105
+#EXTINF:-1,EX-YU: HBO 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2880
 
-#EXTINF:-1,PRVA KICK
-http://krajnatv.com:8080/johnseven/skypeuser/14106
+#EXTINF:-1,EX-YU: HBO 2 (HD)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2744
 
-#EXTINF:-1,PALMA PLUS
-http://krajnatv.com:8080/johnseven/skypeuser/14107
+#EXTINF:-1,EX-YU: HBO 2 (HD).
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/954
 
-#EXTINF:-1,TV DUGA PLUS
-http://krajnatv.com:8080/johnseven/skypeuser/14108
+#EXTINF:-1,EX-YU: HBO 3
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2881
 
-#EXTINF:-1,RTV BOR
-http://krajnatv.com:8080/johnseven/skypeuser/14117
+#EXTINF:-1,EX-YU: TSD Televizija srpske dijaspore
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/60730
 
-#EXTINF:-1,B92
-http://krajnatv.com:8080/johnseven/skypeuser/14118
+#EXTINF:-1,CRO: TV Zapad HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/60729
 
+#EXTINF:-1,EX-YU: Kurir TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/60725
 
+#EXTINF:-1,EX-YU: Belle Amie TV HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/60724
 
-#EXTINF:-1,PRVA WORLD
-http://krajnatv.com:8080/johnseven/skypeuser/14120
+#EXTINF:-1,EX-YU: Jugoton TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/39492
 
-#EXTINF:-1,STUDIO B
-http://krajnatv.com:8080/johnseven/skypeuser/14122
+#EXTINF:-1,EX-YU: OBN
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1623
 
-#EXTINF:-1,JEFIMIJA HD
-http://krajnatv.com:8080/johnseven/skypeuser/14124
+#EXTINF:-1,EX-YU: BHT
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1605
 
-#EXTINF:-1,K1 HD
-http://krajnatv.com:8080/johnseven/skypeuser/14131
+#EXTINF:-1,EX-YU: BHT 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2775
 
-#EXTINF:-1,RTV VOJVODINA 1
-http://krajnatv.com:8080/johnseven/skypeuser/14622
+#EXTINF:-1,EX-YU: NOVA BH
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1624
 
-#EXTINF:-1,RTV VOJVODINA 2
-http://krajnatv.com:8080/johnseven/skypeuser/14623
+#EXTINF:-1,EX-YU: B1 HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29165
 
-#EXTINF:-1,SANDZAK TV
-http://krajnatv.com:8080/johnseven/skypeuser/14931
+#EXTINF:-1,EX-YU: RTV SLON
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/38461
 
-#EXTINF:-1,PAROVI LIVE
-http://krajnatv.com:8080/johnseven/skypeuser/15391
+#EXTINF:-1,EX-YU: TK Tuzla
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2781
 
-#EXTINF:-1,RTS 1 HD
-http://krajnatv.com:8080/johnseven/skypeuser/18304
+#EXTINF:-1,EX-YU: TVSA Sarajevo
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2782
 
-#EXTINF:-1,SANDZACKA TV MREZA
-http://krajnatv.com:8080/johnseven/skypeuser/18305
+#EXTINF:-1,EX-YU: ALFA TV BH
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22656
 
-#EXTINF:-1,SOS
-http://krajnatv.com:8080/johnseven/skypeuser/18306
+#EXTINF:-1,EX-YU: A TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29164
 
-#EXTINF:-1,HAPPY PAROVI 24/7
-http://krajnatv.com:8080/johnseven/skypeuser/18307
+#EXTINF:-1,EX-YU: ALFA TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29166
 
-#EXTINF:-1,HRAM TV
-http://krajnatv.com:8080/johnseven/skypeuser/18800
+#EXTINF:-1,EX-YU: O KANAL
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2778
 
-#EXTINF:-1,PRVA TV HD
-http://krajnatv.com:8080/johnseven/skypeuser/19696
+#EXTINF:-1,EX-YU: RTV USK
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2791
 
-#EXTINF:-1,RTV NOVI PAZAR
-http://krajnatv.com:8080/johnseven/skypeuser/20135
+#EXTINF:-1,EX-YU: Hayat HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1616
 
-#EXTINF:-1,TESLA VISION
-http://krajnatv.com:8080/johnseven/skypeuser/20227
+#EXTINF:-1,EX-YU: HAYAT PLUS
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2779
 
-#EXTINF:-1,TV LESKOVAC
-http://krajnatv.com:8080/johnseven/skypeuser/20304
+#EXTINF:-1,EX-YU: Federalna TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2777
 
-#EXTINF:-1,BELLE AMIE HD
-http://krajnatv.com:8080/johnseven/skypeuser/20305
+#EXTINF:-1,EX-YU: FACE TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2780
 
-#EXTINF:-1,TV K::CN 1
-http://krajnatv.com:8080/johnseven/skypeuser/20306
+#EXTINF:-1,EX-YU: HEMA TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/23635
 
-#EXTINF:-1,TV K::CN Music 2
-http://krajnatv.com:8080/johnseven/skypeuser/20307
+#EXTINF:-1,EX-YU: TV 5
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2773
 
-#EXTINF:-1,TV K::CN Svet Plus 3
-http://krajnatv.com:8080/johnseven/skypeuser/20308
+#EXTINF:-1,EX-YU: MTV Igman
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2786
 
-#EXTINF:-1,TV KRAGUJEVAC
-http://krajnatv.com:8080/johnseven/skypeuser/21177
+#EXTINF:-1,EX-YU: Sandzak TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2767
 
-#EXTINF:-1,RTV MARS HD
-http://krajnatv.com:8080/johnseven/skypeuser/21178
+#EXTINF:-1,EX-YU: CITY TV MOSTAR
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/25446
 
-#EXTINF:-1,RTS POLETARAC
-http://krajnatv.com:8080/johnseven/skypeuser/21179
+#EXTINF:-1,EX-YU: NTV IC
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29167
 
-#EXTINF:-1,SAT TV
-http://krajnatv.com:8080/johnseven/skypeuser/21182
+#EXTINF:-1,EX-YU: PODRINJE
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29170
 
-#EXTINF:-1,RTV MIR
-http://krajnatv.com:8080/johnseven/skypeuser/21186
+#EXTINF:-1,EX-YU: TV Sehara
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2784
 
-#EXTINF:-1,AGRO TV
-http://krajnatv.com:8080/johnseven/skypeuser/22341
+#EXTINF:-1,EX-YU: TV Glas Drine
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2793
 
+#EXTINF:-1,EX-YU: Otv Valentino
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2789
 
+#EXTINF:-1,EX-YU: Posavina TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1633
 
-#EXTINF:-1,TV KLADOVO
-http://krajnatv.com:8080/johnseven/skypeuser/23483
+#EXTINF:-1,EX-YU: Hayat Folk
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1617
 
-#EXTINF:-1,RTV MLAVA
-http://krajnatv.com:8080/johnseven/skypeuser/23484
+#EXTINF:-1,EX-YU: HAYAT MUSIC
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2858
 
-#EXTINF:-1,TV KRUSEVAC
-http://krajnatv.com:8080/johnseven/skypeuser/23485
+#EXTINF:-1,EX-YU: SEVDAH TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22686
 
-#EXTINF:-1,MIS TV
-http://krajnatv.com:8080/johnseven/skypeuser/23486
+#EXTINF:-1,EX-YU: TNT KIDS
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22667
 
-#EXTINF:-1,TV PI PIROT
-http://krajnatv.com:8080/johnseven/skypeuser/23487
+#EXTINF:-1,EX-YU: Hayatovci
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2924
 
-#EXTINF:-1,BNV TV SANDZAK
-http://krajnatv.com:8080/johnseven/skypeuser/23490
+#EXTINF:-1,EX-YU: N1 SRB
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2765
 
-#EXTINF:-1,RTV CITY UB
-http://krajnatv.com:8080/johnseven/skypeuser/23492
+#EXTINF:-1,EX-YU: RTS 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1049
 
-#EXTINF:-1,TV ISTOK
-http://krajnatv.com:8080/johnseven/skypeuser/23503
+#EXTINF:-1,EX-YU: RTS 1 (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2746
 
-#EXTINF:-1,TV VITEZEVO
-http://krajnatv.com:8080/johnseven/skypeuser/25306
+#EXTINF:-1,EX-YU: RTS 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1050
 
-#EXTINF:-1,TV GEM
-http://krajnatv.com:8080/johnseven/skypeuser/25311
+#EXTINF:-1,EX-YU: RTS 2 (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2747
 
-#EXTINF:-1,TV PULS
-http://krajnatv.com:8080/johnseven/skypeuser/25854
-#EXTINF:-1,RTL ADRIA HD
-http://krajnatv.com:8080/johnseven/skypeuser/10
+#EXTINF:-1,EX-YU: RTS 3
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2748
 
-#EXTINF:-1,NOVA CINEMA
-http://krajnatv.com:8080/johnseven/skypeuser/11
+#EXTINF:-1,EX-YU: RTS Drama
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14350
 
-#EXTINF:-1,NOVA FAMILY
-http://krajnatv.com:8080/johnseven/skypeuser/12
+#EXTINF:-1,EX-YU: RTS Kolo
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14351
 
-#EXTINF:-1,NOVA TV
-http://krajnatv.com:8080/johnseven/skypeuser/80
+#EXTINF:-1,EX-YU: RTS Muzika
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14352
 
-#EXTINF:-1,NOVA TV HD
-http://krajnatv.com:8080/johnseven/skypeuser/81
+#EXTINF:-1,EX-YU: RTS Satelit
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14355
 
-#EXTINF:-1,N1 HR L2
-http://krajnatv.com:8080/johnseven/skypeuser/90
+#EXTINF:-1,EX-YU: RTCG 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5825
 
-#EXTINF:-1,RTL PASSION
-http://krajnatv.com:8080/johnseven/skypeuser/5465
+#EXTINF:-1,EX-YU: RTCG 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/5826
 
-#EXTINF:-1,DOMA TV HD
-http://krajnatv.com:8080/johnseven/skypeuser/5481
+#EXTINF:-1,EX-YU: RTCG SAT
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2811
 
-#EXTINF:-1,RTL
-http://krajnatv.com:8080/johnseven/skypeuser/5482
+#EXTINF:-1,EX-YU: RTL HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1635
 
-#EXTINF:-1,RTL 2
-http://krajnatv.com:8080/johnseven/skypeuser/5483
+#EXTINF:-1,EX-YU: RTL 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2803
 
-#EXTINF:-1,OSJECKA TV
-http://krajnatv.com:8080/johnseven/skypeuser/5627
+#EXTINF:-1,EX-YU: PRVA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2750
 
-#EXTINF:-1,SBTV
-http://krajnatv.com:8080/johnseven/skypeuser/26433
+#EXTINF:-1,EX-YU: PRVA (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2751
 
-#EXTINF:-1,CMC HD
-http://krajnatv.com:8080/johnseven/skypeuser/22265
+#EXTINF:-1,EX-YU: Prva Kick
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21678
 
-#EXTINF:-1,MREZA TV SPLIT
-http://krajnatv.com:8080/johnseven/skypeuser/22127
+#EXTINF:-1,EX-YU: Prva MAX
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21252
 
-#EXTINF:-1,MREZA TV ZAGREB
-http://krajnatv.com:8080/johnseven/skypeuser/22126
+#EXTINF:-1,EX-YU: PRVA Plus
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1634
 
-#EXTINF:-1,TV NOVA PULA HD
-http://krajnatv.com:8080/johnseven/skypeuser/21880
+#EXTINF:-1,EX-YU: Prva TV Montenegro
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21014
 
-#EXTINF:-1,RTL HD (hevc)
-http://krajnatv.com:8080/johnseven/skypeuser/21781
+#EXTINF:-1,EX-YU: PRVA World TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2754
 
-#EXTINF:-1,HRT 4 HD (hevc)
-http://krajnatv.com:8080/johnseven/skypeuser/21643
+#EXTINF:-1,EX-YU: NOVA M
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2812
 
-#EXTINF:-1,HRT 3 HD (hevc)
-http://krajnatv.com:8080/johnseven/skypeuser/21642
 
-#EXTINF:-1,HRT 2 HD (hevc)
-http://krajnatv.com:8080/johnseven/skypeuser/21641
 
-#EXTINF:-1,HRT 1 HD (hevc)
-http://krajnatv.com:8080/johnseven/skypeuser/21640
+#EXTINF:-1,EX-YU: ZADRUGA 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29136
 
-#EXTINF:-1,ZDRAVA TV
-http://krajnatv.com:8080/johnseven/skypeuser/21623
+#EXTINF:-1,EX-YU: ZADRUGA 3
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29138
 
-#EXTINF:-1,RTL CROATIA WORLD
-http://krajnatv.com:8080/johnseven/skypeuser/21621
+#EXTINF:-1,EX-YU: Red TV HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/60726
 
-#EXTINF:-1,RTL ADRIA
-http://krajnatv.com:8080/johnseven/skypeuser/21620
+#EXTINF:-1,EX-YU: HIT BRCKO
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22180
 
-#EXTINF:-1,AURORA TV
-http://krajnatv.com:8080/johnseven/skypeuser/21183
+#EXTINF:-1,EX-YU: 24 KITCHEN
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2899
 
-#EXTINF:-1,RTL KOCKICA HD (hevc)
-http://krajnatv.com:8080/johnseven/skypeuser/22262
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2903
 
-#EXTINF:-1,HRT 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13473
+#EXTINF:-1,EX-YU: A1 BALKAN
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2785
 
-#EXTINF:-1,HRT 2 HD (L2)
-http://krajnatv.com:8080/johnseven/skypeuser/10931
 
-#EXTINF:-1,POLJOPRIVREDNA TV
-http://krajnatv.com:8080/johnseven/skypeuser/10899
 
-#EXTINF:-1,HRT INT.
-http://krajnatv.com:8080/johnseven/skypeuser/10695
+#EXTINF:-1,CRO: HRT  International HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/13250
 
-#EXTINF:-1,KANAL RI
-http://krajnatv.com:8080/johnseven/skypeuser/7884
+#EXTINF:-1,CRO: NOVA TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2801
 
-#EXTINF:-1,TV DUBROVNIK
-http://krajnatv.com:8080/johnseven/skypeuser/20216
+#EXTINF:-1,CRO: NOVA TV HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1622
 
-#EXTINF:-1,KLASIK TV
-http://krajnatv.com:8080/johnseven/skypeuser/19744
+#EXTINF:-1,CRO: NOVA HR HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22144
 
-#EXTINF:-1,HRT 1 HD (L2)
-http://krajnatv.com:8080/johnseven/skypeuser/15298
+#EXTINF:-1,CRO: RTL
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/10859
 
-#EXTINF:-1,HRT 4 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13739
+#EXTINF:-1,CRO: RTL 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1636
 
-#EXTINF:-1,JADRAN TV
-http://krajnatv.com:8080/johnseven/skypeuser/7883
+#EXTINF:-1,CRO: RTL Living
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1637
 
-#EXTINF:-1,LAUDATO TV
-http://krajnatv.com:8080/johnseven/skypeuser/7877
+#EXTINF:-1,CRO: RTL CRIME
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2804
 
-#EXTINF:-1,HRT 1 HD
-http://krajnatv.com:8080/johnseven/skypeuser/7873
+#EXTINF:-1,CRO: RTL KOCKICA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2920
 
-#EXTINF:-1,RTL HD
-http://krajnatv.com:8080/johnseven/skypeuser/7040
+#EXTINF:-1,CRO: CINESTAR ACTION
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1609
 
-#EXTINF:-1,DOMA TV
-http://krajnatv.com:8080/johnseven/skypeuser/6023
+#EXTINF:-1,CRO: Cinestar Premier 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1610
 
-#EXTINF:-1,VINKOVACKA TV
-http://krajnatv.com:8080/johnseven/skypeuser/6010
+#EXTINF:-1,CRO: Cinestar Premier 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1611
 
-#EXTINF:-1,RTV BANOVINA
-http://krajnatv.com:8080/johnseven/skypeuser/5819
+#EXTINF:-1,CRO: CINEMAX-1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2885
 
-#EXTINF:-1,RTL CRIME
-http://krajnatv.com:8080/johnseven/skypeuser/5484
+#EXTINF:-1,CRO: CINEMAX-2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2886
 
-#EXTINF:-1,Z1
-http://krajnatv.com:8080/johnseven/skypeuser/5486
+#EXTINF:-1,CRO: DIVA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2795
 
-#EXTINF:-1,HRT 2
-http://krajnatv.com:8080/johnseven/skypeuser/5797
+#EXTINF:-1,CRO: TV Banovina
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2806
 
-#EXTINF:-1,RTL LIVING
-http://krajnatv.com:8080/johnseven/skypeuser/5798
+#EXTINF:-1,CRO: CMC
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2861
 
-#EXTINF:-1,HRT 3 HD
-http://krajnatv.com:8080/johnseven/skypeuser/5800
+#EXTINF:-1,CRO: HBO Adria
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2879
 
-#EXTINF:-1,SLAVONSKA TV
-http://krajnatv.com:8080/johnseven/skypeuser/5801
+#EXTINF:-1,CRO: FilmBox Extra
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2893
 
-#EXTINF:-1,LIBERTAS TV
-http://krajnatv.com:8080/johnseven/skypeuser/4722
+#EXTINF:-1,CRO: Viasat Nature
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2906
 
-#EXTINF:-1,RTV ZIVINICE
-http://krajnatv.com:8080/johnseven/skypeuser/32
+#EXTINF:-1,CRO: Viasat History
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/13933
 
-#EXTINF:-1,RTV LUKAVAC
-http://krajnatv.com:8080/johnseven/skypeuser/54
+#EXTINF:-1,CRO: Viasat Explorer
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/13934
 
-#EXTINF:-1,NOVA BH
-http://krajnatv.com:8080/johnseven/skypeuser/83
+#EXTINF:-1,CRO: HNTV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22178
 
-#EXTINF:-1,RTV JABLANICA
-http://krajnatv.com:8080/johnseven/skypeuser/53
+#EXTINF:-1,CRO: Aurora Tv
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/60727
 
-#EXTINF:-1,NOVA BH HD
-http://krajnatv.com:8080/johnseven/skypeuser/84
+#EXTINF:-1,CRO: Kreator TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22177
 
-#EXTINF:-1,NOVA M
-http://krajnatv.com:8080/johnseven/skypeuser/85
+#EXTINF:-1,CRO: SPORTSKA TV SPTV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22176
 
-#EXTINF:-1,N1 BIH
-http://krajnatv.com:8080/johnseven/skypeuser/91
+#EXTINF:-1,CRO: DOKU TV ADRIA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22170
 
-#EXTINF:-1,N1 HD BIH
-http://krajnatv.com:8080/johnseven/skypeuser/92
+#EXTINF:-1,CRO: AXN Adria
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2891
 
-#EXTINF:-1,ELTA
-http://krajnatv.com:8080/johnseven/skypeuser/4732
+#EXTINF:-1,CRO: AXN SPIN
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2813
 
-#EXTINF:-1,TV SEHARA ONLINE
-http://krajnatv.com:8080/johnseven/skypeuser/5292
+#EXTINF:-1,CRO: AXN SPIN Adria
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21720
 
-#EXTINF:-1,BIR TV
-http://krajnatv.com:8080/johnseven/skypeuser/10892
+#EXTINF:-1,CRO: N1 HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/13667
 
-#EXTINF:-1,FTV L2
-http://krajnatv.com:8080/johnseven/skypeuser/13897
+#EXTINF:-1,EX-YU: BALKANIKA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1721
 
-#EXTINF:-1,BHT 1
-http://krajnatv.com:8080/johnseven/skypeuser/13898
+#EXTINF:-1,EX-YU: Cinemania
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21012
 
-#EXTINF:-1,FTV
-http://krajnatv.com:8080/johnseven/skypeuser/13899
+#EXTINF:-1,EX-YU: Crime & Investigation
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2910
 
-#EXTINF:-1,TK
-http://krajnatv.com:8080/johnseven/skypeuser/13900
+#EXTINF:-1,EX-YU: Da Vinci Learning
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2911
 
-#EXTINF:-1,OBN
-http://krajnatv.com:8080/johnseven/skypeuser/13901
+#EXTINF:-1,EX-YU: Discovery Science HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21721
 
-#EXTINF:-1,FACE TV
-http://krajnatv.com:8080/johnseven/skypeuser/13902
+#EXTINF:-1,EX-YU: DM Sat
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1612
 
-#EXTINF:-1,O KANAL
-http://krajnatv.com:8080/johnseven/skypeuser/13903
+#EXTINF:-1,EX-YU: Docubox
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2916
 
-#EXTINF:-1,HAYAT HD
-http://krajnatv.com:8080/johnseven/skypeuser/13906
+#EXTINF:-1,EX-YU: E!
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2907
 
-#EXTINF:-1,AL JAZEERA BALKANS HD
-http://krajnatv.com:8080/johnseven/skypeuser/13908
+#EXTINF:-1,EX-YU: Eurosport 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2948
 
-#EXTINF:-1,RTRS
-http://krajnatv.com:8080/johnseven/skypeuser/13910
+#EXTINF:-1,EX-YU: Fightbox
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2950
 
-#EXTINF:-1,RTRS PLUS
-http://krajnatv.com:8080/johnseven/skypeuser/13911
+#EXTINF:-1,EX-YU: Filmbox HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/25411
 
-#EXTINF:-1,BN HD
-http://krajnatv.com:8080/johnseven/skypeuser/13912
+#EXTINF:-1,EX-YU: Fox Crime HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2889
 
-#EXTINF:-1,ATV BANJA LUKA
-http://krajnatv.com:8080/johnseven/skypeuser/13913
+#EXTINF:-1,EX-YU: FOX HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22146
 
-#EXTINF:-1,H PLUS
-http://krajnatv.com:8080/johnseven/skypeuser/13907
+#EXTINF:-1,EX-YU: Fox Life HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1615
 
-#EXTINF:-1,K3 TV
-http://krajnatv.com:8080/johnseven/skypeuser/13914
+#EXTINF:-1,EX-YU: Fox Movies HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2888
 
-#EXTINF:-1,MTV IGMAN HD
-http://krajnatv.com:8080/johnseven/skypeuser/13916
+#EXTINF:-1,EX-YU: Fox Movies HD (HR SUB)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/13759
 
-#EXTINF:-1,BN 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13917
+#EXTINF:-1,EX-YU: Grand TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2859
 
-#EXTINF:-1,TV SLON EXTRA
-http://krajnatv.com:8080/johnseven/skypeuser/13919
 
-#EXTINF:-1,TV ZENICA
-http://krajnatv.com:8080/johnseven/skypeuser/13920
 
-#EXTINF:-1,HEMA TV
-http://krajnatv.com:8080/johnseven/skypeuser/13921
+#EXTINF:-1,EX-YU: Happy Parovi 24/7
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/9594
 
-#EXTINF:-1,HIT BRCKO TV
-http://krajnatv.com:8080/johnseven/skypeuser/13922
 
-#EXTINF:-1,USK HD
-http://krajnatv.com:8080/johnseven/skypeuser/13924
 
-#EXTINF:-1,BOSANSKO POSAVSKA TV HD
-http://krajnatv.com:8080/johnseven/skypeuser/13925
+#EXTINF:-1,EX-YU: History 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2901
 
-#EXTINF:-1,GLAS DRINE
-http://krajnatv.com:8080/johnseven/skypeuser/13926
+#EXTINF:-1,EX-YU: HISTORY CHANNEL
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2900
 
-#EXTINF:-1,MEKKA TV
-http://krajnatv.com:8080/johnseven/skypeuser/13927
+#EXTINF:-1,EX-YU: Izvorna TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2860
 
-#EXTINF:-1,QOURAN BOSNA TV
-http://krajnatv.com:8080/johnseven/skypeuser/13928
+#EXTINF:-1,EX-YU: KCN 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2850
 
-#EXTINF:-1,TV SRPSKE DIJASPORE HD
-http://krajnatv.com:8080/johnseven/skypeuser/14132
+#EXTINF:-1,EX-YU: KCN 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2851
 
-#EXTINF:-1,RTV HERCEG BOSNE
-http://krajnatv.com:8080/johnseven/skypeuser/17866
+#EXTINF:-1,EX-YU: KCN 3
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2852
 
-#EXTINF:-1,NTV IC KAKANJ
-http://krajnatv.com:8080/johnseven/skypeuser/19874
+#EXTINF:-1,EX-YU: Kino TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21013
 
-#EXTINF:-1,POSAVINA TV
-http://krajnatv.com:8080/johnseven/skypeuser/20129
+#EXTINF:-1,EX-YU: KLASIK TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2875
 
-#EXTINF:-1,TV SARAJEVO
-http://krajnatv.com:8080/johnseven/skypeuser/20136
+#EXTINF:-1,EX-YU: LOV I RIBOLOV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2898
 
-#EXTINF:-1,PODRINJE
-http://krajnatv.com:8080/johnseven/skypeuser/20138
+#EXTINF:-1,EX-YU: M1 Film
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21679
 
-#EXTINF:-1,JASMIN TV
-http://krajnatv.com:8080/johnseven/skypeuser/20314
+#EXTINF:-1,EX-YU: M1 Gold
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/23649
 
-#EXTINF:-1,OBN L2
-http://krajnatv.com:8080/johnseven/skypeuser/20330
+#EXTINF:-1,EX-YU: Mini TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2925
 
-#EXTINF:-1,RTV CAZIN
-http://krajnatv.com:8080/johnseven/skypeuser/20347
+#EXTINF:-1,EX-YU: Mini TV HR
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2926
 
-#EXTINF:-1,RTV VISOKO HD
-http://krajnatv.com:8080/johnseven/skypeuser/20348
+#EXTINF:-1,EX-YU: Minimax
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2922
 
-#EXTINF:-1,RTV SANA
-http://krajnatv.com:8080/johnseven/skypeuser/20349
+#EXTINF:-1,EX-YU: NASA TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/25447
 
-#EXTINF:-1,MARY TV MEDJUGORJE
-http://krajnatv.com:8080/johnseven/skypeuser/21034
+#EXTINF:-1,EX-YU: NAT GEO WILD HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22919
 
-#EXTINF:-1,FACE TV HD
-http://krajnatv.com:8080/johnseven/skypeuser/21120
+#EXTINF:-1,EX-YU: National Geographic
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2902
 
-#EXTINF:-1,B1 GRADACAC
-http://krajnatv.com:8080/johnseven/skypeuser/23469
+#EXTINF:-1,EX-YU: NATIONAL GEOGRAPHIC HD (HR)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22058
 
-#EXTINF:-1,ALFA TV
-http://krajnatv.com:8080/johnseven/skypeuser/23470
+#EXTINF:-1,EX-YU: O2 (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2753
 
-#EXTINF:-1,KANAL 6 HD
-http://krajnatv.com:8080/johnseven/skypeuser/23471
+#EXTINF:-1,EX-YU: PAROVI 24 SATA
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/25434
 
-#EXTINF:-1,PRVA HERCEGOVACKA
-http://krajnatv.com:8080/johnseven/skypeuser/23473
+#EXTINF:-1,EX-YU: Partizan HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/9398
 
-#EXTINF:-1,BHT 1 HD (L2)
-http://krajnatv.com:8080/johnseven/skypeuser/19697
+#EXTINF:-1,EX-YU: Pikaboo
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/22665
 
-#EXTINF:-1,TV 7 TUZLA
-http://krajnatv.com:8080/johnseven/skypeuser/23474
 
-#EXTINF:-1,SEZAM TV
-http://krajnatv.com:8080/johnseven/skypeuser/23475
 
-#EXTINF:-1,MG TV
-http://krajnatv.com:8080/johnseven/skypeuser/23476
+#EXTINF:-1,EX-YU: Pink M
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/34396
 
-#EXTINF:-1,SLOBOMIR TV
-http://krajnatv.com:8080/johnseven/skypeuser/23477
+#EXTINF:-1,EX-YU: Pink Action
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1006
 
-#EXTINF:-1,AMNA TV
-http://krajnatv.com:8080/johnseven/skypeuser/23478
+#EXTINF:-1,EX-YU: Pink Classic
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14326
 
-#EXTINF:-1,SMART TV TESANJ
-http://krajnatv.com:8080/johnseven/skypeuser/23479
+#EXTINF:-1,EX-YU: Pink Comedy
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1008
 
-#EXTINF:-1,BUJRUM  TV
-http://krajnatv.com:8080/johnseven/skypeuser/23480
+#EXTINF:-1,EX-YU: Pink Crime & Mystery
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1684
 
-#EXTINF:-1,IN TV
-http://krajnatv.com:8080/johnseven/skypeuser/23482
+#EXTINF:-1,EX-YU: Pink Extra
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1009
 
-#EXTINF:-1,TATABRADA TV
-http://krajnatv.com:8080/johnseven/skypeuser/25283
+#EXTINF:-1,EX-YU: Pink Family
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14328
 
-#EXTINF:-1,RTV MAGLAJ
-http://krajnatv.com:8080/johnseven/skypeuser/26500
+#EXTINF:-1,EX-YU: Pink Film
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1011
 
+#EXTINF:-1,EX-YU: Pink Folk
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2869
 
-#EXTINF:-1,NOVA M (CG)
-http://krajnatv.com:8080/johnseven/skypeuser/86
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2870
 
-#EXTINF:-1,RTCG 1 (CG)
-http://krajnatv.com:8080/johnseven/skypeuser/14207
+#EXTINF:-1,EX-YU: Pink HaHa
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14324
 
-#EXTINF:-1,RTCG 2 (CG)
-http://krajnatv.com:8080/johnseven/skypeuser/14208
+#EXTINF:-1,EX-YU: Pink Hits 2
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2866
 
-#EXTINF:-1,RTCG (SAT) (CG)
-http://krajnatv.com:8080/johnseven/skypeuser/14209
+#EXTINF:-1,EX-YU: Pink Horror
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1012
 
-#EXTINF:-1,TV VIJESTI (CG)
-http://krajnatv.com:8080/johnseven/skypeuser/15233
+#EXTINF:-1,EX-YU: Pink Kids
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2919
 
-#EXTINF:-1,PRVA TV (CG)
-http://krajnatv.com:8080/johnseven/skypeuser/21016
+#EXTINF:-1,EX-YU: Pink Koncert
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2865
 
-#EXTINF:-1,NOVI TV (CG)
-http://krajnatv.com:8080/johnseven/skypeuser/25298
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2913
 
-#EXTINF:-1,EXODUS (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/14150
+#EXTINF:-1,EX-YU: Pink LoL
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14325
 
-#EXTINF:-1,SLO 1 HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/14152
+#EXTINF:-1,EX-YU: PINK MEDIA BIH
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/21697
 
-#EXTINF:-1,SLO 2 HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/14153
+#EXTINF:-1,EX-YU: Pink Movies
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1013
 
-#EXTINF:-1,SLO 3 HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/14154
+#EXTINF:-1,EX-YU: Pink Music
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2867
 
-#EXTINF:-1,POP TV (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/14158
+#EXTINF:-1,EX-YU: Pink Pedia
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1014
 
-#EXTINF:-1,POP KINO HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/14159
+#EXTINF:-1,EX-YU: Pink Plus TV
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2772
 
-#EXTINF:-1,PLANET HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/14161
+#EXTINF:-1,EX-YU: Pink Premium
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1626
 
-#EXTINF:-1,POP BRIO (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20170
+#EXTINF:-1,EX-YU: Pink Reality
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/11452
 
-#EXTINF:-1,POP OTO (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20171
+#EXTINF:-1,EX-YU: Pink Romance
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1628
 
-#EXTINF:-1,TV KOPER (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20172
+#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1629
 
-#EXTINF:-1,TV MARIBOR (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20173
+#EXTINF:-1,EX-YU: Pink Serije
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1630
 
-#EXTINF:-1,MMC INFO KANAL (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20174
+#EXTINF:-1,EX-YU: Pink Show
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2872
 
-#EXTINF:-1,TV VESELJAK (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20197
+#EXTINF:-1,EX-YU: Pink Soap
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2894
 
-#EXTINF:-1,MINIMAX (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20200
+#EXTINF:-1,EX-YU: Pink Super Kids
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2918
 
-#EXTINF:-1,NOVA 24 (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/20201
+#EXTINF:-1,EX-YU: Pink Thriller
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1631
 
-#EXTINF:-1,PLANET 2 HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/22373
+#EXTINF:-1,EX-YU: Pink Western
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/1632
 
-#EXTINF:-1,CINESTAR ACTION TV (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25442
+#EXTINF:-1,EX-YU: Pink World
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2914
 
-#EXTINF:-1,CINESTAR TV 1 (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25443
+#EXTINF:-1,EX-YU: Pink World Cinema
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14327
 
-#EXTINF:-1,NET TV (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25446
+#EXTINF:-1,EX-YU: Pink Zabava
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2912
 
-#EXTINF:-1,ARENA (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25447
+#EXTINF:-1,EX-YU: Planet Tv
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/9306
 
-#EXTINF:-1,AXN (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25449
+#EXTINF:-1,EX-YU: Pop Oto
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2843
 
-#EXTINF:-1,AXN SPIN (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25450
+#EXTINF:-1,EX-YU: Roma Tv
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/4120
 
-#EXTINF:-1,NOVA 24 TV L2 HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25451
+#EXTINF:-1,EX-YU: RT Vojvodina 1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2763
 
-#EXTINF:-1,TV3 HD (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25452
+#EXTINF:-1,EX-YU: RTS Trezor
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14353
 
-#EXTINF:-1,Pink S! (SLO)
-http://krajnatv.com:8080/johnseven/skypeuser/25453
+#EXTINF:-1,EX-YU: RTS Zivot
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/14354
 
-#EXTINF:-1,PINK FASHION
-http://krajnatv.com:8080/johnseven/skypeuser/4868
+#EXTINF:-1,EX-YU: RTV BOR
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/23098
 
-#EXTINF:-1,PINK FAMILY
-http://krajnatv.com:8080/johnseven/skypeuser/5374
+#EXTINF:-1,EX-YU: RTV Novi Pazar
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2768
 
+#EXTINF:-1,EX-YU: Sobraniski Kanal (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2828
 
+#EXTINF:-1,EX-YU: SOS (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2929
 
-#EXTINF:-1,PINK VESTI
-http://krajnatv.com:8080/johnseven/skypeuser/5494
+#EXTINF:-1,EX-YU: Studio B
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2762
 
-#EXTINF:-1,PINK ACTION
-http://krajnatv.com:8080/johnseven/skypeuser/5495
+#EXTINF:-1,RO: Muscel Tv
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/4118
 
-#EXTINF:-1,PINK COMEDY
-http://krajnatv.com:8080/johnseven/skypeuser/5496
+#EXTINF:-1,EX-YU: TLC (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2908
 
-#EXTINF:-1,PINK HORROR
-http://krajnatv.com:8080/johnseven/skypeuser/5497
+#EXTINF:-1,EX-YU: TV 1000
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2876
 
-#EXTINF:-1,PINK PREMIUM
-http://krajnatv.com:8080/johnseven/skypeuser/5498
+#EXTINF:-1,EX-YU: TV Nasha  (local)
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2831
 
-#EXTINF:-1,PINK REALITY
-http://krajnatv.com:8080/johnseven/skypeuser/5499
+#EXTINF:-1,EX-YU: Z1
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/2807
 
-#EXTINF:-1,PINK SCI FI AND FANTASY
-http://krajnatv.com:8080/johnseven/skypeuser/5500
+#EXTINF:-1,EX-YU: Maxcro Select 1 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29958
 
-#EXTINF:-1,PINK SERIJE
-http://krajnatv.com:8080/johnseven/skypeuser/5501
+#EXTINF:-1,EX-YU: Maxcro Select 2 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29959
 
-#EXTINF:-1,PINK THRILLER
-http://krajnatv.com:8080/johnseven/skypeuser/5502
+#EXTINF:-1,EX-YU:  Maxcro Select 3 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29960
 
-#EXTINF:-1,PINK WESTERN
-http://krajnatv.com:8080/johnseven/skypeuser/5503
+#EXTINF:-1,EX-YU: Maxcro Select 4 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29961
 
-#EXTINF:-1,PINK ZABAVA
-http://krajnatv.com:8080/johnseven/skypeuser/5504
+#EXTINF:-1,EX-YU: Maxcro Select 5 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29962
 
-#EXTINF:-1,PINK SOAP
-http://krajnatv.com:8080/johnseven/skypeuser/5505
+#EXTINF:-1,EX-YU:  Maxcro Select 6 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29963
 
-#EXTINF:-1,PINK ROMANCE
-http://krajnatv.com:8080/johnseven/skypeuser/5506
+#EXTINF:-1,EX-YU: Maxcro Select 8 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29965
 
-#EXTINF:-1,PINK PLUS
-http://krajnatv.com:8080/johnseven/skypeuser/5507
+#EXTINF:-1,EX-YU: Maxcro Select 9 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29966
 
-#EXTINF:-1,PINK KUVAR
-http://krajnatv.com:8080/johnseven/skypeuser/5508
-
-#EXTINF:-1,PINK CRIME AND MYSTERY
-http://krajnatv.com:8080/johnseven/skypeuser/5509
-
-#EXTINF:-1,PINK CRIME AND MYSTERY L2
-http://krajnatv.com:8080/johnseven/skypeuser/5510
-
-#EXTINF:-1,PINK CLASSIC
-http://krajnatv.com:8080/johnseven/skypeuser/5635
-
-#EXTINF:-1,PINK WORLD
-http://krajnatv.com:8080/johnseven/skypeuser/5789
-
-#EXTINF:-1,PINK PEDIA
-http://krajnatv.com:8080/johnseven/skypeuser/5790
-
-#EXTINF:-1,PINK FILM
-http://krajnatv.com:8080/johnseven/skypeuser/5847
-
-#EXTINF:-1,PINK (L2)
-http://krajnatv.com:8080/johnseven/skypeuser/6392
-
-#EXTINF:-1,PINK WORLD CINEMA
-http://krajnatv.com:8080/johnseven/skypeuser/6498
-
-#EXTINF:-1,PINK EXTRA
-http://krajnatv.com:8080/johnseven/skypeuser/6525
-
-#EXTINF:-1,PINK MOVIES
-http://krajnatv.com:8080/johnseven/skypeuser/6540
-
-#EXTINF:-1,PINK LOL
-http://krajnatv.com:8080/johnseven/skypeuser/6544
-
-#EXTINF:-1,PINK HAHA
-http://krajnatv.com:8080/johnseven/skypeuser/6545
-
-#EXTINF:-1,PINK STYLE
-http://krajnatv.com:8080/johnseven/skypeuser/6760
-
-#EXTINF:-1,PINK ZADRUGA
-http://krajnatv.com:8080/johnseven/skypeuser/7597
-
-#EXTINF:-1,PINK BH
-http://krajnatv.com:8080/johnseven/skypeuser/7633
-
-#EXTINF:-1,PINK M
-http://krajnatv.com:8080/johnseven/skypeuser/12166
-
-#EXTINF:-1,PINK ZADRUGA 1
-http://krajnatv.com:8080/johnseven/skypeuser/18296
-
-#EXTINF:-1,PINK ZADRUGA 2
-http://krajnatv.com:8080/johnseven/skypeuser/18297
-
-#EXTINF:-1,PINK ZADRUGA 3
-http://krajnatv.com:8080/johnseven/skypeuser/18298
-
-#EXTINF:-1,PINK ZADRUGA 4
-http://krajnatv.com:8080/johnseven/skypeuser/18299
-
-#EXTINF:-1,PINK SCI FI AND FANTASY L2
-http://krajnatv.com:8080/johnseven/skypeuser/21124
-
-#EXTINF:-1,FILM KLUB
-http://krajnatv.com:8080/johnseven/skypeuser/27
-
-#EXTINF:-1,HBO 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13748
-
-#EXTINF:-1,HBO 3 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13749
-
-#EXTINF:-1,FOX HD
-http://krajnatv.com:8080/johnseven/skypeuser/13750
-
-#EXTINF:-1,FOX MOVIES
-http://krajnatv.com:8080/johnseven/skypeuser/13751
-
-#EXTINF:-1,FOX LIFE
-http://krajnatv.com:8080/johnseven/skypeuser/13752
-
-#EXTINF:-1,CINESTAR TV 1 (HR)
-http://krajnatv.com:8080/johnseven/skypeuser/13754
-
-#EXTINF:-1,CINESTAR ACTION (HR)
-http://krajnatv.com:8080/johnseven/skypeuser/13755
-
-#EXTINF:-1,CINESTAR PREMIERE 1 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13756
-
-#EXTINF:-1,CINESTAR PREMIERE 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13757
-
-#EXTINF:-1,CINEMAX 1 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13758
-
-#EXTINF:-1,CINEMAX 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13759
-
-#EXTINF:-1,TV 1000
-http://krajnatv.com:8080/johnseven/skypeuser/13761
-
-#EXTINF:-1,AXN ADRIA
-http://krajnatv.com:8080/johnseven/skypeuser/13762
-
-#EXTINF:-1,KINO TV HD
-http://krajnatv.com:8080/johnseven/skypeuser/13764
-
-#EXTINF:-1,M1 FILM
-http://krajnatv.com:8080/johnseven/skypeuser/13765
-
-#EXTINF:-1,MAXCRO SELECT 1 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13778
-
-#EXTINF:-1,MAXCRO SELECT 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13779
-
-#EXTINF:-1,MAXCRO SELECT 3 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13780
-
-#EXTINF:-1,MAXCRO SELECT 4 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13781
-
-#EXTINF:-1,MAXCRO SELECT 5 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13782
-
-#EXTINF:-1,MAXCRO SELECT 6 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13783
-
-#EXTINF:-1,MAXCRO SELECT 7 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13784
-
-#EXTINF:-1,MAXCRO SELECT 8 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13785
-
-#EXTINF:-1,MAXCRO SELECT 9 HD
-http://krajnatv.com:8080/johnseven/skypeuser/13786
-
-#EXTINF:-1,AMC HD
-http://krajnatv.com:8080/johnseven/skypeuser/14611
-
-#EXTINF:-1,MAXCRO SELECT 10 HD
-http://krajnatv.com:8080/johnseven/skypeuser/17853
-
-#EXTINF:-1,MAXCRO SELECT 11 HD
-http://krajnatv.com:8080/johnseven/skypeuser/17854
-
-#EXTINF:-1,MAXCRO SELECT KIDS HD
-http://krajnatv.com:8080/johnseven/skypeuser/17855
-
-#EXTINF:-1,MAXCRO SELECT KIDS 2 HD
-http://krajnatv.com:8080/johnseven/skypeuser/17856
-
-#EXTINF:-1,FILMBOX STARS
-http://krajnatv.com:8080/johnseven/skypeuser/17876
-
-#EXTINF:-1,EPIC DRAMA
-http://krajnatv.com:8080/johnseven/skypeuser/17877
-
-#EXTINF:-1,SCI-FI
-http://krajnatv.com:8080/johnseven/skypeuser/17888
-
-#EXTINF:-1,FILMBOX EXTRA HD
-http://krajnatv.com:8080/johnseven/skypeuser/17890
-
-#EXTINF:-1,AXN SPIN
-http://krajnatv.com:8080/johnseven/skypeuser/17891
-
-#EXTINF:-1,DIVA
-http://krajnatv.com:8080/johnseven/skypeuser/17892
-
-#EXTINF:-1,SUPER STAR TV
-http://krajnatv.com:8080/johnseven/skypeuser/18303
-
-#EXTINF:-1,CINESTAR FANTASY
-http://krajnatv.com:8080/johnseven/skypeuser/19351
-
-#EXTINF:-1,M1 GOLD
-http://krajnatv.com:8080/johnseven/skypeuser/20226
-
-#EXTINF:-1,FOX LIFE HD
-http://krajnatv.com:8080/johnseven/skypeuser/20620
-
-#EXTINF:-1,FOX
-http://krajnatv.com:8080/johnseven/skypeuser/20621
-
-#EXTINF:-1,LUD ZBUNJEN NORMALAN
-http://krajnatv.com:8080/johnseven/skypeuser/20983
-
-#EXTINF:-1,CINESTAR TV 2 (HR)
-http://krajnatv.com:8080/johnseven/skypeuser/21644
-
-#EXTINF:-1,STAR TV
-http://krajnatv.com:8080/johnseven/skypeuser/23499
-
-#EXTINF:-1,PICKBOX TV
-http://krajnatv.com:8080/johnseven/skypeuser/25403
-
-#EXTINF:-1,LOV I RIBOLOV
-http://krajnatv.com:8080/johnseven/skypeuser/101
-
-#EXTINF:-1,ANIMAL PLANET
-http://krajnatv.com:8080/johnseven/skypeuser/14185
-
-#EXTINF:-1,DISCOVERY SCI
-http://krajnatv.com:8080/johnseven/skypeuser/14186
-
-#EXTINF:-1,DISCOVERY CHANNEL
-http://krajnatv.com:8080/johnseven/skypeuser/14187
-
-#EXTINF:-1,DISCOVERY SCI HD
-http://krajnatv.com:8080/johnseven/skypeuser/14189
-
-#EXTINF:-1,VIASAT NATURE
-http://krajnatv.com:8080/johnseven/skypeuser/14190
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://krajnatv.com:8080/johnseven/skypeuser/14192
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://krajnatv.com:8080/johnseven/skypeuser/14193
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://krajnatv.com:8080/johnseven/skypeuser/14194
-
-#EXTINF:-1,HISTORY 2
-http://krajnatv.com:8080/johnseven/skypeuser/14195
-
-#EXTINF:-1,HISTORY CHANNEL HD
-http://krajnatv.com:8080/johnseven/skypeuser/14196
-
-#EXTINF:-1,TRAVEL
-http://krajnatv.com:8080/johnseven/skypeuser/14198
-
-#EXTINF:-1,VIASAT EXPLORE
-http://krajnatv.com:8080/johnseven/skypeuser/14200
-
-#EXTINF:-1,BBC EARTH HD
-http://krajnatv.com:8080/johnseven/skypeuser/14202
-
-#EXTINF:-1,E!
-http://krajnatv.com:8080/johnseven/skypeuser/15300
-
-#EXTINF:-1,24 KITCHEN
-http://krajnatv.com:8080/johnseven/skypeuser/15709
-
-#EXTINF:-1,VIASAT HISTORY
-http://krajnatv.com:8080/johnseven/skypeuser/17330
-
-#EXTINF:-1,CBS REALITY
-http://krajnatv.com:8080/johnseven/skypeuser/17870
-
-#EXTINF:-1,DISCOVERY DTX
-http://krajnatv.com:8080/johnseven/skypeuser/17878
-
-#EXTINF:-1,TLC
-http://krajnatv.com:8080/johnseven/skypeuser/18308
-
-#EXTINF:-1,DOKU TV
-http://krajnatv.com:8080/johnseven/skypeuser/19669
-
-#EXTINF:-1,DISCOVERY ID
-http://krajnatv.com:8080/johnseven/skypeuser/20014
-
-#EXTINF:-1,FOOD NETWORK
-http://krajnatv.com:8080/johnseven/skypeuser/20019
-
-#EXTINF:-1,DOCUBOX HD
-http://krajnatv.com:8080/johnseven/skypeuser/20805
-
-#EXTINF:-1,CRIME INVESTIGATION
-http://krajnatv.com:8080/johnseven/skypeuser/21815
-
-#EXTINF:-1,OUTDOOR HD
-http://krajnatv.com:8080/johnseven/skypeuser/23500
-
-#EXTINF:-1,KITCHEN TV SR
-http://krajnatv.com:8080/johnseven/skypeuser/23502
-
-#EXTINF:-1,DOX TV
-http://krajnatv.com:8080/johnseven/skypeuser/23974
-
-#EXTINF:-1,BALKAN TRIP TV
-http://krajnatv.com:8080/johnseven/skypeuser/23976
-
-#EXTINF:-1,WOMAN TV (test)
-http://krajnatv.com:8080/johnseven/skypeuser/26499
+#EXTINF:-1,EX-YU: Maxcro Select 10 FHD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/29967
