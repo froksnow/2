@@ -1,606 +1,700 @@
+
 #EXTM3U
-#EXTINF:-1,Ex-Yu | Srb: Roma Tv
-http://new-pro.tv:8080/Hotel-2021/Allroom/21399
+#EXTINF:-1,Ex-Yu: Pink 1
+http://smartmedia.watch:2086/112233/112233/95522
 
-#EXTINF:-1,Ex-Yu | Srb: Fox Crime HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21413
+#EXTINF:-1,Ex-Yu: Pink 2 (Red TV)
+http://smartmedia.watch:2086/112233/112233/95523
 
-#EXTINF:-1,Ex-Yu | Srb: Fox Life HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21412
+#EXTINF:-1,Ex-Yu: Pink 3
+http://smartmedia.watch:2086/112233/112233/95524
 
-#EXTINF:-1,Ex-Yu | Srb: Fox Movies HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21411
+#EXTINF:-1,Ex-Yu: Pink Film
+http://smartmedia.watch:2086/112233/112233/95525
 
-#EXTINF:-1,Ex-Yu | Srb: Duga TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/21272
+#EXTINF:-1,Ex-Yu: Pink Serije
+http://smartmedia.watch:2086/112233/112233/95526
 
-#EXTINF:-1,Ex-Yu | Srb: TV Hram
-http://new-pro.tv:8080/Hotel-2021/Allroom/21262
+#EXTINF:-1,Ex-Yu: Pink Movies
+http://smartmedia.watch:2086/112233/112233/95527
 
-#EXTINF:-1,Ex-Yu | Srb: Cinemania
-http://new-pro.tv:8080/Hotel-2021/Allroom/21247
+#EXTINF:-1,Ex-Yu: Pink Action
+http://smartmedia.watch:2086/112233/112233/95528
 
-#EXTINF:-1,Ex-Yu | Srb: Cinemax 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/21246
+#EXTINF:-1,Ex-Yu: Pink Comedy
+http://smartmedia.watch:2086/112233/112233/95529
 
-#EXTINF:-1,Ex-Yu | Srb: Cinemax 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/21245
+#EXTINF:-1,Ex-Yu: Pink Horror
+http://smartmedia.watch:2086/112233/112233/95530
 
-#EXTINF:-1,Ex-Yu | Srb: Cinestar Premiere 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/21244
+#EXTINF:-1,Ex-Yu: Pink M
+http://smartmedia.watch:2086/112233/112233/95531
 
-#EXTINF:-1,Ex-Yu | Srb: Cinestar Premiere 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/21243
+#EXTINF:-1,Ex-Yu: Pink Classic
+http://smartmedia.watch:2086/112233/112233/95532
 
-#EXTINF:-1,Ex-Yu | Srb: HBO Adria
-http://new-pro.tv:8080/Hotel-2021/Allroom/21239
+#EXTINF:-1,Ex-Yu: Pink Crime & Mystery
+http://smartmedia.watch:2086/112233/112233/95533
 
-#EXTINF:-1,Ex-Yu | Srb: M1 Film
-http://new-pro.tv:8080/Hotel-2021/Allroom/21237
+#EXTINF:-1,Ex-Yu: Pink Sci-Fi&Fantasy
+http://smartmedia.watch:2086/112233/112233/95534
 
-#EXTINF:-1,Ex-Yu | Srb: Mini Ultra TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/21236
+#EXTINF:-1,Ex-Yu:  Pink Thriller
+http://smartmedia.watch:2086/112233/112233/95535
 
-#EXTINF:-1,Ex-Yu | Srb: Nat Geo
-http://new-pro.tv:8080/Hotel-2021/Allroom/21235
+#EXTINF:-1,Ex-Yu: Pink Western
+http://smartmedia.watch:2086/112233/112233/95536
 
-#EXTINF:-1,Ex-Yu | Srb: RTL Kockica
-http://new-pro.tv:8080/Hotel-2021/Allroom/21233
+#EXTINF:-1,Ex-Yu: Pink Kuvar
+http://smartmedia.watch:2086/112233/112233/95537
 
-#EXTINF:-1,Ex-Yu | Srb: Tom And Jerry HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21232
+#EXTINF:-1,Ex-Yu: Pink Pedia
+http://smartmedia.watch:2086/112233/112233/95538
 
-#EXTINF:-1,Ex-Yu | Srb: EuroSport 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33416
+#EXTINF:-1,Ex-Yu: Pink Reality
+http://smartmedia.watch:2086/112233/112233/95539
 
-#EXTINF:-1,Ex-Yu | Srb: EuroSport 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33417
+#EXTINF:-1,Ex-Yu: Pink Romance
+http://smartmedia.watch:2086/112233/112233/95540
 
-#EXTINF:-1,Ex-Yu | Srb: Pink 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/14107
+#EXTINF:-1,Ex-Yu: Pink Premium
+http://smartmedia.watch:2086/112233/112233/95541
 
-#EXTINF:-1,Ex-Yu | Srb: Pink 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/14106
+#EXTINF:-1,Ex-Yu: Pink World Cinema
+http://smartmedia.watch:2086/112233/112233/95542
 
-#EXTINF:-1,Ex-Yu | Srb: Pink 3
-http://new-pro.tv:8080/Hotel-2021/Allroom/14105
+#EXTINF:-1,Ex-Yu: Pink World
+http://smartmedia.watch:2086/112233/112233/95543
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Action
-http://new-pro.tv:8080/Hotel-2021/Allroom/14104
+#EXTINF:-1,Ex-Yu: Pink Show
+http://smartmedia.watch:2086/112233/112233/95544
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Classic
-http://new-pro.tv:8080/Hotel-2021/Allroom/14102
+#EXTINF:-1,Ex-Yu: Pink BH
+http://smartmedia.watch:2086/112233/112233/95545
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Comedy
-http://new-pro.tv:8080/Hotel-2021/Allroom/14101
+#EXTINF:-1,Ex-Yu: Pink Extra
+http://smartmedia.watch:2086/112233/112233/95546
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Crime & Mystery
-http://new-pro.tv:8080/Hotel-2021/Allroom/14100
+#EXTINF:-1,Ex-Yu: Pink Style
+http://smartmedia.watch:2086/112233/112233/95547
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Extra
-http://new-pro.tv:8080/Hotel-2021/Allroom/14099
+#EXTINF:-1,Ex-Yu: Pink Soap
+http://smartmedia.watch:2086/112233/112233/95548
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Family
-http://new-pro.tv:8080/Hotel-2021/Allroom/14098
+#EXTINF:-1,Ex-Yu: Pink Plus
+http://smartmedia.watch:2086/112233/112233/95549
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Film
-http://new-pro.tv:8080/Hotel-2021/Allroom/14097
+#EXTINF:-1,Ex-Yu: Pink Fashion
+http://smartmedia.watch:2086/112233/112233/95550
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Folk 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/14096
+#EXTINF:-1,Ex-Yu: Pink HaHa
+http://smartmedia.watch:2086/112233/112233/95551
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Folk 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/14095
+#EXTINF:-1,Ex-Yu: Pink LoL
+http://smartmedia.watch:2086/112233/112233/95552
 
-#EXTINF:-1,Ex-Yu | Srb: Pink HAHA
-http://new-pro.tv:8080/Hotel-2021/Allroom/14094
+#EXTINF:-1,Ex-Yu: Pink & Roll
+http://smartmedia.watch:2086/112233/112233/95553
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Hits 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/14093
+#EXTINF:-1,Ex-Yu: Pink Folk 1
+http://smartmedia.watch:2086/112233/112233/95554
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Horror
-http://new-pro.tv:8080/Hotel-2021/Allroom/14092
+#EXTINF:-1,Ex-Yu: Pink Folk 2
+http://smartmedia.watch:2086/112233/112233/95555
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Kids
-http://new-pro.tv:8080/Hotel-2021/Allroom/14091
+#EXTINF:-1,Ex-Yu: Pink Music
+http://smartmedia.watch:2086/112233/112233/95556
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Kuvar
-http://new-pro.tv:8080/Hotel-2021/Allroom/14090
+#EXTINF:-1,Ex-Yu: Pink Music 2
+http://smartmedia.watch:2086/112233/112233/95557
 
-#EXTINF:-1,Ex-Yu | Srb: Pink LOL SRB
-http://new-pro.tv:8080/Hotel-2021/Allroom/14089
+#EXTINF:-1,Ex-Yu: Pink Hits
+http://smartmedia.watch:2086/112233/112233/95558
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Movies
-http://new-pro.tv:8080/Hotel-2021/Allroom/14087
+#EXTINF:-1,Ex-Yu: Pink Hits 2
+http://smartmedia.watch:2086/112233/112233/95559
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Music 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/14086
+#EXTINF:-1,Ex-Yu: Pink Zabava
+http://smartmedia.watch:2086/112233/112233/95560
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Music 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/14085
+#EXTINF:-1,Ex-Yu:  RTS 1
+http://smartmedia.watch:2086/112233/112233/95561
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Pedia
-http://new-pro.tv:8080/Hotel-2021/Allroom/14084
+#EXTINF:-1,Ex-Yu: RTS 1 HD
+http://smartmedia.watch:2086/112233/112233/95562
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Plus
-http://new-pro.tv:8080/Hotel-2021/Allroom/14083
+#EXTINF:-1,Ex-Yu: RTS 2
+http://smartmedia.watch:2086/112233/112233/95563
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Premium
-http://new-pro.tv:8080/Hotel-2021/Allroom/14082
+#EXTINF:-1,Ex-Yu: RTS 3
+http://smartmedia.watch:2086/112233/112233/95564
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Reality
-http://new-pro.tv:8080/Hotel-2021/Allroom/14081
+#EXTINF:-1,Ex-Yu: RTRS
+http://smartmedia.watch:2086/112233/112233/95565
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Romance
-http://new-pro.tv:8080/Hotel-2021/Allroom/14080
+#EXTINF:-1,Ex-Yu: RTRS Plus
+http://smartmedia.watch:2086/112233/112233/95566
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Sci Fi & Fantasy
-http://new-pro.tv:8080/Hotel-2021/Allroom/14079
+#EXTINF:-1,Ex-Yu: RTS Trezor
+http://smartmedia.watch:2086/112233/112233/95567
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Serije
-http://new-pro.tv:8080/Hotel-2021/Allroom/14078
+#EXTINF:-1,Ex-Yu: RTS Svet
+http://smartmedia.watch:2086/112233/112233/95568
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Soap
-http://new-pro.tv:8080/Hotel-2021/Allroom/14076
+#EXTINF:-1,Ex-Yu: RTS Muzika
+http://smartmedia.watch:2086/112233/112233/95569
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Style
-http://new-pro.tv:8080/Hotel-2021/Allroom/14075
+#EXTINF:-1,Ex-Yu: RTS Kolo
+http://smartmedia.watch:2086/112233/112233/95570
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Thriler
-http://new-pro.tv:8080/Hotel-2021/Allroom/14074
+#EXTINF:-1,Ex-Yu: RTS Zivot
+http://smartmedia.watch:2086/112233/112233/95571
 
-#EXTINF:-1,Ex-Yu | Srb: Pink World
-http://new-pro.tv:8080/Hotel-2021/Allroom/14072
+#EXTINF:-1,Ex-Yu: RTS Drama
+http://smartmedia.watch:2086/112233/112233/95572
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Zabava
-http://new-pro.tv:8080/Hotel-2021/Allroom/14071
+#EXTINF:-1,Ex-Yu: Prva TV
+http://smartmedia.watch:2086/112233/112233/95573
 
-#EXTINF:-1,Ex-Yu | Srb: Pink Western
-http://new-pro.tv:8080/Hotel-2021/Allroom/14073
+#EXTINF:-1,Ex-Yu: Prva TV (HD)
+http://smartmedia.watch:2086/112233/112233/95574
 
-#EXTINF:-1,Ex-Yu | Srb: RTRS
-http://new-pro.tv:8080/Hotel-2021/Allroom/28113
+#EXTINF:-1,Ex-Yu: Prva Plus
+http://smartmedia.watch:2086/112233/112233/95575
 
-#EXTINF:-1,Ex-Yu | Srb: RTS 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21397
+#EXTINF:-1,Ex-Yu: Prva Kick
+http://smartmedia.watch:2086/112233/112233/95576
 
-#EXTINF:-1,Ex-Yu | Srb: RTS 3
-http://new-pro.tv:8080/Hotel-2021/Allroom/21396
+#EXTINF:-1,Ex-Yu: Prva Max
+http://smartmedia.watch:2086/112233/112233/95577
 
-#EXTINF:-1,Ex-Yu | Srb: RTS Satelit
-http://new-pro.tv:8080/Hotel-2021/Allroom/21267
+#EXTINF:-1,Ex-Yu: Prva World
+http://smartmedia.watch:2086/112233/112233/95578
 
-#EXTINF:-1,Ex-Yu | Srb: AXN Spin
-http://new-pro.tv:8080/Hotel-2021/Allroom/101507
+#EXTINF:-1,Ex-Yu: Prva Files
+http://smartmedia.watch:2086/112233/112233/95579
 
-#EXTINF:-1,Ex-Yu | Srb: GRAND TV 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/121997
+#EXTINF:-1,Ex-Yu: Nova M
+http://smartmedia.watch:2086/112233/112233/95580
 
-#EXTINF:-1,Ex-Yu | Srb: HAPPY
-http://new-pro.tv:8080/Hotel-2021/Allroom/121995
+#EXTINF:-1,Ex-Yu: StarTV
+http://smartmedia.watch:2086/112233/112233/95581
 
-#EXTINF:-1,Ex-Yu | Srb: IDJ TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/122000
+#EXTINF:-1,Ex-Yu: PickBox TV
+http://smartmedia.watch:2086/112233/112233/95582
 
-#EXTINF:-1,Ex-Yu | Srb: KCN 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/121996
+#EXTINF:-1,Ex-Yu: Narodna Televizija
+http://smartmedia.watch:2086/112233/112233/95583
 
-#EXTINF:-1,Ex-Yu | Srb: Lov i Ribolov
-http://new-pro.tv:8080/Hotel-2021/Allroom/121994
+#EXTINF:-1,Ex-Yu: SOS Kanal
+http://smartmedia.watch:2086/112233/112233/95584
 
-#EXTINF:-1,Ex-Yu | Srb: N1 TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/121999
+#EXTINF:-1,Ex-Yu: TLC
+http://smartmedia.watch:2086/112233/112233/95585
 
-#EXTINF:-1,Ex-Yu | Srb: Studio B
-http://new-pro.tv:8080/Hotel-2021/Allroom/121998
+#EXTINF:-1,Ex-Yu: Studio B
+http://smartmedia.watch:2086/112233/112233/95586
 
-#EXTINF:-1,Ex-Yu | Srb: SUPERSTAR TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/121993
+#EXTINF:-1,Ex-Yu:  b92
+http://smartmedia.watch:2086/112233/112233/95587
 
-#EXTINF:-1,Ex-Yu | Srb: Belle Amie
-http://new-pro.tv:8080/Hotel-2021/Allroom/101663
+#EXTINF:-1,Ex-Yu: Nova S
+http://smartmedia.watch:2086/112233/112233/95588
 
-#EXTINF:-1,Ex-Yu | Srb: Crime+ Investigation
-http://new-pro.tv:8080/Hotel-2021/Allroom/101510
+#EXTINF:-1,Ex-Yu: SciFi
+http://smartmedia.watch:2086/112233/112233/95589
 
-#EXTINF:-1,Ex-Yu | Srb: Food Network
-http://new-pro.tv:8080/Hotel-2021/Allroom/101514
+#EXTINF:-1,Ex-Yu: Duga TV
+http://smartmedia.watch:2086/112233/112233/95590
 
-#EXTINF:-1,Ex-Yu | Srb: Sport Klub 6 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/101488
+#EXTINF:-1,Ex-Yu: E!  Enteriament
+http://smartmedia.watch:2086/112233/112233/95591
 
-#EXTINF:-1,Ex-Yu | Srb: TLC HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/101505
+#EXTINF:-1,Ex-Yu: AMC
+http://smartmedia.watch:2086/112233/112233/95592
 
-#EXTINF:-1,Ex-Yu | Srb: Prva World
-http://new-pro.tv:8080/Hotel-2021/Allroom/21400
+#EXTINF:-1,Ex-Yu: RTV 1
+http://smartmedia.watch:2086/112233/112233/95593
 
-#EXTINF:-1,Ex-Yu | Srb: RTV Pazar
-http://new-pro.tv:8080/Hotel-2021/Allroom/21263
+#EXTINF:-1,Ex-Yu: RTV 2
+http://smartmedia.watch:2086/112233/112233/95594
 
-#EXTINF:-1,Ex-Yu | Srb: RTCG 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/21398
+#EXTINF:-1,Ex-Yu: OTV Valentino
+http://smartmedia.watch:2086/112233/112233/95595
 
-#EXTINF:-1,Ex-Yu | Srb: RTV 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/21266
+#EXTINF:-1,Ex-Yu: Happy TV
+http://smartmedia.watch:2086/112233/112233/95596
 
-#EXTINF:-1,Ex-Yu | Srb: RTV 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/21265
+#EXTINF:-1,Ex-Yu: Laudaato TV
+http://smartmedia.watch:2086/112233/112233/95597
 
-#EXTINF:-1,Ex-Yu | Srb: RTV MLAVA
-http://new-pro.tv:8080/Hotel-2021/Allroom/21264
+#EXTINF:-1,Ex-Yu: RTV Bor
+http://smartmedia.watch:2086/112233/112233/95598
 
-#EXTINF:-1,Ex-Yu | Srb: TV ISTOK 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/21261
+#EXTINF:-1,Ex-Yu: TV Balkan
+http://smartmedia.watch:2086/112233/112233/95599
 
-#EXTINF:-1,Ex-Yu | Srb: TV ISTOK 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/21260
+#EXTINF:-1,Ex-Yu: MAG TV
+http://smartmedia.watch:2086/112233/112233/95600
 
-#EXTINF:-1,Ex-Yu | Srb: KCN 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/21404
+#EXTINF:-1,Ex-Yu: Sandzacka TV Mreza
+http://smartmedia.watch:2086/112233/112233/95601
 
-#EXTINF:-1,Ex-Yu | Srb: KCN 3
-http://new-pro.tv:8080/Hotel-2021/Allroom/21402
+#EXTINF:-1,Ex-Yu: K1 TV
+http://smartmedia.watch:2086/112233/112233/95603
 
-#EXTINF:-1,Ex-Yu | Srb: TV 1000 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21248
+#EXTINF:-1,Ex-Yu: Dobra Exlusive
+http://smartmedia.watch:2086/112233/112233/95604
 
-#EXTINF:-1,Ex-Yu | Srb: Nova HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21279
+#EXTINF:-1,Ex-Yu: Zadruga 1 Live
+http://smartmedia.watch:2086/112233/112233/95605
 
-#EXTINF:-1,Ex-Yu | Srb: Prva 1 TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/21277
+#EXTINF:-1,Ex-Yu: Zadruga 2 Live
+http://smartmedia.watch:2086/112233/112233/95606
 
-#EXTINF:-1,Ex-Yu | Srb: B 92
-http://new-pro.tv:8080/Hotel-2021/Allroom/21273
+#EXTINF:-1,Ex-Yu: Zadruga Live 3
+http://smartmedia.watch:2086/112233/112233/95607
 
-#EXTINF:-1,Ex-Yu | Srb: Prva Plus
-http://new-pro.tv:8080/Hotel-2021/Allroom/21276
+#EXTINF:-1,Ex-Yu: Zadruga Live 4
+http://smartmedia.watch:2086/112233/112233/95608
 
-#EXTINF:-1,Ex-Yu | Srb: DM Sat
-http://new-pro.tv:8080/Hotel-2021/Allroom/21414
+#EXTINF:-1,Ex-Yu: TV Parovi 24/7
+http://smartmedia.watch:2086/112233/112233/95609
 
-#EXTINF:-1,Ex-Yu | Srb: Prva Max
-http://new-pro.tv:8080/Hotel-2021/Allroom/21270
+#EXTINF:-1,Ex-Yu: Happy Parovi Live 24/7
+http://smartmedia.watch:2086/112233/112233/95610
 
-#EXTINF:-1,Ex-Yu | Srb: Sandzak TV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/28418
+#EXTINF:-1,Ex-Yu: N1
+http://smartmedia.watch:2086/112233/112233/95611
 
-#EXTINF:-1,Ex-Yu | Srb: Grand 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/28408
+#EXTINF:-1,Ex-Yu: Banovina TV
+http://smartmedia.watch:2086/112233/112233/95612
 
-#EXTINF:-1,Ex-Yu | Srb: RTS 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/21268
+#EXTINF:-1,Ex-Yu: MRT 1
+http://smartmedia.watch:2086/112233/112233/95613
 
-#EXTINF:-1,Ex-Yu | Srb: Sport Klub HD 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/33408
+#EXTINF:-1,Ex-Yu: MRT 2
+http://smartmedia.watch:2086/112233/112233/95614
 
-#EXTINF:-1,Ex-Yu | Srb: Sport Klub HD 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/33409
+#EXTINF:-1,Ex-Yu: SITEL (HD)
+http://smartmedia.watch:2086/112233/112233/95615
 
-#EXTINF:-1,Ex-Yu | Srb: Sport Klub HD 3
-http://new-pro.tv:8080/Hotel-2021/Allroom/33410
+#EXTINF:-1,Ex-Yu: SITEL
+http://smartmedia.watch:2086/112233/112233/95616
 
-#EXTINF:-1,Ex-Yu | Srb: Sport Klub 4
-http://new-pro.tv:8080/Hotel-2021/Allroom/33405
+#EXTINF:-1,Ex-Yu: MRT 3
+http://smartmedia.watch:2086/112233/112233/95617
 
-#EXTINF:-1,Ex-Yu | Srb: Sport Klub Golf
-http://new-pro.tv:8080/Hotel-2021/Allroom/33406
+#EXTINF:-1,Ex-Yu: Kanal 5
+http://smartmedia.watch:2086/112233/112233/95618
 
-#EXTINF:-1,Ex-Yu | Srb: Filmbox Extra
-http://new-pro.tv:8080/Hotel-2021/Allroom/21255
+#EXTINF:-1,Ex-Yu: Alfa
+http://smartmedia.watch:2086/112233/112233/95619
 
-#EXTINF:-1,Ex-Yu | Srb: Filmbox Plus
-http://new-pro.tv:8080/Hotel-2021/Allroom/21254
+#EXTINF:-1,Ex-Yu: Telma
+http://smartmedia.watch:2086/112233/112233/95620
 
-#EXTINF:-1,Ex-Yu | Srb: HBO 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21253
+#EXTINF:-1,Ex-Yu: 24 Vesti
+http://smartmedia.watch:2086/112233/112233/95621
 
-#EXTINF:-1,Ex-Yu | Srb: HBO 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21252
+#EXTINF:-1,Ex-Yu: Nasa TV
+http://smartmedia.watch:2086/112233/112233/95623
 
-#EXTINF:-1,Ex-Yu | Srb: HBO 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21251
+#EXTINF:-1,Ex-Yu: TV Sonce
+http://smartmedia.watch:2086/112233/112233/95624
 
-#EXTINF:-1,Ex-Yu | Srb: SciFi
-http://new-pro.tv:8080/Hotel-2021/Allroom/21249
+#EXTINF:-1,Ex-Yu: Sobraniski Kanal
+http://smartmedia.watch:2086/112233/112233/95626
 
-#EXTINF:-1,Ex-Yu | Srb: AXN HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21280
+#EXTINF:-1,Ex-Yu: Kanal 21
+http://smartmedia.watch:2086/112233/112233/95627
 
-#EXTINF:-1,Ex-Yu | Srb: Arena Sport 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57093
+#EXTINF:-1,Ex-Yu: ALSAT M
+http://smartmedia.watch:2086/112233/112233/95630
 
-#EXTINF:-1,Ex-Yu | Srb: Arena Sport 4 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57094
+#EXTINF:-1,Ex-Yu: Kanal 5 -Reserve
+http://smartmedia.watch:2086/112233/112233/95632
 
-#EXTINF:-1,Ex-Yu | Srb: MiniMax TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/57095
+#EXTINF:-1,Ex-Yu: MTM Skopska
+http://smartmedia.watch:2086/112233/112233/95633
 
-#EXTINF:-1,Ex-Yu | Srb: 24 Kitchen HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57096
+#EXTINF:-1,Ex-Yu: Hugo 1
+http://smartmedia.watch:2086/112233/112233/95634
 
-#EXTINF:-1,Ex-Yu | Srb: Arena Sport 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57097
+#EXTINF:-1,Ex-Yu: Hugo 2
+http://smartmedia.watch:2086/112233/112233/95635
 
-#EXTINF:-1,Ex-Yu | Srb: Arena Sport 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57098
+#EXTINF:-1,Ex-Yu: RTV USK
+http://smartmedia.watch:2086/112233/112233/95636
 
-#EXTINF:-1,Ex-Yu | Srb: Arena Sport 5 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57099
+#EXTINF:-1,Ex-Yu: TV Sarajevo
+http://smartmedia.watch:2086/112233/112233/95637
 
-#EXTINF:-1,Ex-Yu | Srb: Baby TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/57101
+#EXTINF:-1,Ex-Yu: Sehara Film
+http://smartmedia.watch:2086/112233/112233/95638
 
-#EXTINF:-1,Ex-Yu | Srb: Boomerang HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57102
+#EXTINF:-1,Ex-Yu: O Kanal
+http://smartmedia.watch:2086/112233/112233/95639
 
-#EXTINF:-1,Ex-Yu | Srb: CMC Music HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/57103
+#EXTINF:-1,Ex-Yu: RTV Zenica
+http://smartmedia.watch:2086/112233/112233/95640
 
-#EXTINF:-1,BIH: History HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/28419
+#EXTINF:-1,Ex-Yu: Posavina TV
+http://smartmedia.watch:2086/112233/112233/95641
 
-#EXTINF:-1,Ex-Yu | Srb: Discovery Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/28420
+#EXTINF:-1,Ex-Yu: OBN
+http://smartmedia.watch:2086/112233/112233/95642
 
-#EXTINF:-1,Ex-Yu | Srb: Klasik TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/28403
+#EXTINF:-1,Ex-Yu: Novi Pazar
+http://smartmedia.watch:2086/112233/112233/95643
 
-#EXTINF:-1,Ex-Yu | Srb: Discovery ID HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/28405
+#EXTINF:-1,Ex-Yu: Nova BiH
+http://smartmedia.watch:2086/112233/112233/95644
 
-#EXTINF:-1,Ex-Yu | Srb: Nickelodeon HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/28406
+#EXTINF:-1,Ex-Yu: N1
+http://smartmedia.watch:2086/112233/112233/95645
 
-#EXTINF:-1,Ex-Yu | Srb: Nat Geo Wild HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/28407
+#EXTINF:-1,Ex-Yu: MTV Igman
+http://smartmedia.watch:2086/112233/112233/95646
 
-#EXTINF:-1,Ex-Yu | Srb: Fox HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/28414
+#EXTINF:-1,Ex-Yu: TV TK
+http://smartmedia.watch:2086/112233/112233/95647
 
-#EXTINF:-1,Ex-Yu | Srb: RTV Vojvodina
-http://new-pro.tv:8080/Hotel-2021/Allroom/21274
+#EXTINF:-1,Ex-Yu: Moj Kanal
+http://smartmedia.watch:2086/112233/112233/95648
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71113
+#EXTINF:-1,Ex-Yu: Izvorna TV
+http://smartmedia.watch:2086/112233/112233/95649
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71114
+#EXTINF:-1,Ex-Yu: Hayat TV
+http://smartmedia.watch:2086/112233/112233/95650
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71115
+#EXTINF:-1,Ex-Yu: Hayat Plus
+http://smartmedia.watch:2086/112233/112233/95651
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 4 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71116
+#EXTINF:-1,Ex-Yu: Glas Drine
+http://smartmedia.watch:2086/112233/112233/95652
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 5 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71117
+#EXTINF:-1,Ex-Yu: Federalna TV
+http://smartmedia.watch:2086/112233/112233/95653
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 6 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71118
+#EXTINF:-1,Ex-Yu: Face TV
+http://smartmedia.watch:2086/112233/112233/95654
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 7 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71119
+#EXTINF:-1,Ex-Yu: Diva
+http://smartmedia.watch:2086/112233/112233/95655
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 8 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71120
+#EXTINF:-1,Ex-Yu: BHT 1
+http://smartmedia.watch:2086/112233/112233/95656
 
-#EXTINF:-1,Ex-Yu | Hr: CroMax Select 9 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/71121
+#EXTINF:-1,Ex-Yu: BN Televizija
+http://smartmedia.watch:2086/112233/112233/95657
 
-#EXTINF:-1,Ex-Yu | Hr: HRT 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21430
+#EXTINF:-1,Ex-Yu: Alternativna TV
+http://smartmedia.watch:2086/112233/112233/95658
 
-#EXTINF:-1,Ex-Yu | Hr: HRT 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21429
+#EXTINF:-1,Ex-Yu: Aljazeera Balkans
+http://smartmedia.watch:2086/112233/112233/95659
 
-#EXTINF:-1,Ex-Yu | Hr: HRT 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21428
+#EXTINF:-1,CG: RTCG Sat
+http://smartmedia.watch:2086/112233/112233/95660
 
-#EXTINF:-1,Ex-Yu | Hr: HRT 4 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21427
+#EXTINF:-1,CG: RTCG 2
+http://smartmedia.watch:2086/112233/112233/95661
 
-#EXTINF:-1,Ex-Yu | Hr: HRT International HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21426
+#EXTINF:-1,CG: RTCG 1
+http://smartmedia.watch:2086/112233/112233/95662
 
-#EXTINF:-1,Ex-Yu | Hr: RTL 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21424
+#EXTINF:-1,CG: TV Vijesti
+http://smartmedia.watch:2086/112233/112233/95663
 
-#EXTINF:-1,Ex-Yu | Hr: RTL Crime HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21423
+#EXTINF:-1,Ex-Yu: HTV 1
+http://smartmedia.watch:2086/112233/112233/95664
 
-#EXTINF:-1,Ex-Yu | Hr: RTL Kockica HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21422
+#EXTINF:-1,Ex-Yu: HTV 2
+http://smartmedia.watch:2086/112233/112233/95665
 
-#EXTINF:-1,Ex-Yu | Hr: RTL Living HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21421
+#EXTINF:-1,Ex-Yu: HRT 3
+http://smartmedia.watch:2086/112233/112233/95666
 
-#EXTINF:-1,Ex-Yu | Hr: RTL Passion HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21420
+#EXTINF:-1,Ex-Yu: HRT 4
+http://smartmedia.watch:2086/112233/112233/95667
 
-#EXTINF:-1,Ex-Yu | Hr: Nova HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/21410
+#EXTINF:-1,Ex-Yu: HRT international
+http://smartmedia.watch:2086/112233/112233/95668
 
-#EXTINF:-1,Ex-Yu | Hr: Sport Klub 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33191
+#EXTINF:-1,Ex-Yu: RTL
+http://smartmedia.watch:2086/112233/112233/95669
 
-#EXTINF:-1,Ex-Yu | Hr: Sport Klub 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33196
+#EXTINF:-1,Ex-Yu: RTL 2
+http://smartmedia.watch:2086/112233/112233/95670
 
-#EXTINF:-1,Ex-Yu | Hr: Arena Sport 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33344
+#EXTINF:-1,Ex-Yu: RTL Crime
+http://smartmedia.watch:2086/112233/112233/95671
 
-#EXTINF:-1,Ex-Yu | Hr: Arena Sport 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33345
+#EXTINF:-1,Ex-Yu: RTL Living
+http://smartmedia.watch:2086/112233/112233/95672
 
-#EXTINF:-1,Ex-Yu | Hr: Arena Sport 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33346
+#EXTINF:-1,Ex-Yu: RTL Passion
+http://smartmedia.watch:2086/112233/112233/95673
 
-#EXTINF:-1,Ex-Yu | Hr: Arena Sport 4 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33347
+#EXTINF:-1,Ex-Yu: RTL Adria
+http://smartmedia.watch:2086/112233/112233/95674
 
-#EXTINF:-1,Ex-Yu | Hr: Discovery Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/29197
+#EXTINF:-1,Ex-Yu: Nova TV (HD)
+http://smartmedia.watch:2086/112233/112233/95675
 
-#EXTINF:-1,Ex-Yu | Hr: Fox HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/29198
+#EXTINF:-1,Ex-Yu: NOVA
+http://smartmedia.watch:2086/112233/112233/95676
 
-#EXTINF:-1,Ex-Yu | Hr: Fox Life HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/29199
+#EXTINF:-1,Ex-Yu:  FOX
+http://smartmedia.watch:2086/112233/112233/95677
 
-#EXTINF:-1,Ex-Yu | Hr: Baby TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/101508
+#EXTINF:-1,Ex-Yu: FOX Life
+http://smartmedia.watch:2086/112233/112233/95678
 
-#EXTINF:-1,Ex-Yu | Hr: Klasik
-http://new-pro.tv:8080/Hotel-2021/Allroom/101502
+#EXTINF:-1,Ex-Yu: FOX Crime
+http://smartmedia.watch:2086/112233/112233/95679
 
-#EXTINF:-1,Ex-Yu | Hr: Nick Junior HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/101496
+#EXTINF:-1,Ex-Yu: FOX Movies
+http://smartmedia.watch:2086/112233/112233/95680
 
-#EXTINF:-1,Ex-Yu | Hr: Sport Klub 10 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/101492
+#EXTINF:-1,Ex-Yu: TV Palma Plus Jagodina
+http://smartmedia.watch:2086/112233/112233/95681
 
-#EXTINF:-1,Ex-Yu | Hr: Sport Klub 8 HD [ Live ]
-http://new-pro.tv:8080/Hotel-2021/Allroom/101490
+#EXTINF:-1,Bravo Music
+http://smartmedia.watch:2086/112233/112233/95682
 
-#EXTINF:-1,Ex-Yu | Hr: Sport Klub 4 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/101491
+#EXTINF:-1,Ex-Yu: Doma TV
+http://smartmedia.watch:2086/112233/112233/95683
 
-#EXTINF:-1,Ex-Yu | Hr: Sport Klub Golf HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/101493
+#EXTINF:-1,Ex-Yu: Z1
+http://smartmedia.watch:2086/112233/112233/95684
 
-#EXTINF:-1,Ex-Yu | Hr: Srce
-http://new-pro.tv:8080/Hotel-2021/Allroom/101521
+#EXTINF:-1,Ex-Yu: Narodni TV
+http://smartmedia.watch:2086/112233/112233/95685
 
-#EXTINF:-1,Ex-Yu | Hr: Fox Crime  HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/29200
+#EXTINF:-1,Ex-Yu: HBO
+http://smartmedia.watch:2086/112233/112233/95686
 
-#EXTINF:-1,Ex-Yu | Hr: HBO Adria HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/29201
+#EXTINF:-1,Ex-Yu: HBO 2
+http://smartmedia.watch:2086/112233/112233/95687
 
-#EXTINF:-1,Ex-Yu | Hr: 24 Kitchen HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55685
+#EXTINF:-1,Ex-Yu: HBO 3
+http://smartmedia.watch:2086/112233/112233/95688
 
-#EXTINF:-1,Ex-Yu | Hr: Nat Geo HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55686
+#EXTINF:-1,Ex-Yu: Kino TV
+http://smartmedia.watch:2086/112233/112233/95689
 
-#EXTINF:-1,Ex-Yu | Hr: Investigation Discovery HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55687
+#EXTINF:-1,Ex-Yu: Cinestar TV
+http://smartmedia.watch:2086/112233/112233/95690
 
-#EXTINF:-1,Ex-Yu | Hr: CineStar Fantasy HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55688
+#EXTINF:-1,Ex-Yu: Cinemania
+http://smartmedia.watch:2086/112233/112233/95691
 
-#EXTINF:-1,Ex-Yu | Hr: CMC HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55690
+#EXTINF:-1,Ex-Yu: Cinestar TV 2
+http://smartmedia.watch:2086/112233/112233/95692
 
-#EXTINF:-1,Ex-Yu | Srb: Discovery Science HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55692
+#EXTINF:-1,Ex-Yu: Cinestar Comedy
+http://smartmedia.watch:2086/112233/112233/95693
 
-#EXTINF:-1,Ex-Yu | Hr: Mini TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/55741
+#EXTINF:-1,Ex-Yu: Cinestar Premiere 1
+http://smartmedia.watch:2086/112233/112233/95694
 
-#EXTINF:-1,Ex-Yu | Hr: Nickelodeon HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55742
+#EXTINF:-1,Ex-Yu: Cinestar Premiere 2
+http://smartmedia.watch:2086/112233/112233/95695
 
-#EXTINF:-1,Ex-Yu | Hr: Sport Klub 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55743
+#EXTINF:-1,Ex-Yu: Cinestar Action
+http://smartmedia.watch:2086/112233/112233/95696
 
-#EXTINF:-1,Ex-Yu | Hr: Viasat History HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55744
+#EXTINF:-1,Ex-Yu: Cinestar Fantasy
+http://smartmedia.watch:2086/112233/112233/95697
 
-#EXTINF:-1,Ex-Yu | Hr: Viasat Nature HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55745
+#EXTINF:-1,Ex-Yu: Film Klub
+http://smartmedia.watch:2086/112233/112233/95698
 
-#EXTINF:-1,Ex-Yu | Hr: Animal Planet HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55746
+#EXTINF:-1,Ex-Yu:  M1 Film
+http://smartmedia.watch:2086/112233/112233/95699
 
-#EXTINF:-1,Ex-Yu | Hr: AXN Adria HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55747
+#EXTINF:-1,FILM: M1 Film
+http://smartmedia.watch:2086/112233/112233/95700
 
-#EXTINF:-1,Ex-Yu | Hr: CineMax 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55748
+#EXTINF:-1,M1 Film Gold
+http://smartmedia.watch:2086/112233/112233/95701
 
-#EXTINF:-1,Ex-Yu | Hr: Diva HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55750
+#EXTINF:-1,M1 Family
+http://smartmedia.watch:2086/112233/112233/95702
 
-#EXTINF:-1,Ex-Yu | Hr: Doma TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/55751
+#EXTINF:-1,Ex-Yu: TV 1000
+http://smartmedia.watch:2086/112233/112233/95703
 
-#EXTINF:-1,Ex-Yu | Hr: Fox Movies HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55752
+#EXTINF:-1,Ex-Yu: AXN
+http://smartmedia.watch:2086/112233/112233/95704
 
-#EXTINF:-1,Ex-Yu | Hr: Arena Sport 5 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/121992
+#EXTINF:-1,Ex-Yu: AXN Spin
+http://smartmedia.watch:2086/112233/112233/95705
 
-#EXTINF:-1,Ex-Yu | Hr: Cinemax 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/121988
+#EXTINF:-1,Ex-Yu: Klasik TV
+http://smartmedia.watch:2086/112233/112233/95706
 
-#EXTINF:-1,Ex-Yu | Hr: CineStar Action
-http://new-pro.tv:8080/Hotel-2021/Allroom/121985
+#EXTINF:-1,Ex-Yu: Cinemax 1
+http://smartmedia.watch:2086/112233/112233/95707
 
-#EXTINF:-1,Ex-Yu | Hr: CineStar Premiere 1
-http://new-pro.tv:8080/Hotel-2021/Allroom/121986
+#EXTINF:-1,Ex-Yu: Filmbox Extra
+http://smartmedia.watch:2086/112233/112233/95709
 
-#EXTINF:-1,Ex-Yu | Hr: CineStar Premiere 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/121987
+#EXTINF:-1,Ex-Yu: Filmbox Plus
+http://smartmedia.watch:2086/112233/112233/95710
 
-#EXTINF:-1,Ex-Yu | Hr: HBO 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/121982
+#EXTINF:-1,Ex-Yu: : Cineplex
+http://smartmedia.watch:2086/112233/112233/95711
 
-#EXTINF:-1,Ex-Yu | Hr: HBO 3
-http://new-pro.tv:8080/Hotel-2021/Allroom/121983
+#EXTINF:-1,MAXCRO Select Kino HD
+http://smartmedia.watch:2086/112233/112233/95713
 
-#EXTINF:-1,Ex-Yu | Hr: History Channel
-http://new-pro.tv:8080/Hotel-2021/Allroom/121981
+#EXTINF:-1,Ex-Yu: MAXCRO Select 1
+http://smartmedia.watch:2086/112233/112233/95715
 
-#EXTINF:-1,Ex-Yu | Hr: Kino TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/121984
+#EXTINF:-1,Ex-Yu: MAXCRO Select 2
+http://smartmedia.watch:2086/112233/112233/95716
 
-#EXTINF:-1,Ex-Yu | Hr: Laudato TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/121974
+#EXTINF:-1,Ex-Yu: MAXCRO Select 3
+http://smartmedia.watch:2086/112233/112233/95717
 
-#EXTINF:-1,Ex-Yu | Hr: Pikaboo Pikaboo
-http://new-pro.tv:8080/Hotel-2021/Allroom/121977
+#EXTINF:-1,Ex-Yu: MAXCRO Select 5
+http://smartmedia.watch:2086/112233/112233/95719
 
-#EXTINF:-1,Ex-Yu | Hr: RTL Televizija
-http://new-pro.tv:8080/Hotel-2021/Allroom/121973
+#EXTINF:-1,Ex-Yu: MAXCRO Select 7
+http://smartmedia.watch:2086/112233/112233/95721
 
-#EXTINF:-1,Ex-Yu | Hr: STV Slavonija
-http://new-pro.tv:8080/Hotel-2021/Allroom/121976
+#EXTINF:-1,Ex-Yu: MAXCRO Select 8
+http://smartmedia.watch:2086/112233/112233/95722
 
-#EXTINF:-1,Ex-Yu | Hr: HNTV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55753
+#EXTINF:-1,Ex-Yu: National Geographic
+http://smartmedia.watch:2086/112233/112233/95723
 
-#EXTINF:-1,Ex-Yu | Hr: Jugoton TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/55754
+#EXTINF:-1,Ex-Yu: National Geographic Wild
+http://smartmedia.watch:2086/112233/112233/95724
 
-#EXTINF:-1,Ex-Yu | Hr: Narodna TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/55759
+#EXTINF:-1,Ex-Yu: History Channel
+http://smartmedia.watch:2086/112233/112233/95725
 
-#EXTINF:-1,Ex-Yu | Hr: Osjecka TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/55761
+#EXTINF:-1,Ex-Yu: Crime & Investigation
+http://smartmedia.watch:2086/112233/112233/95727
 
-#EXTINF:-1,Ex-Yu | Hr: RTL HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55762
+#EXTINF:-1,Ex-Yu: Lov & Ribolov
+http://smartmedia.watch:2086/112233/112233/95728
 
-#EXTINF:-1,Ex-Yu | Hr: TV 1000 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55766
+#EXTINF:-1,Ex-Yu: CBS Reality
+http://smartmedia.watch:2086/112233/112233/95729
 
-#EXTINF:-1,Ex-Yu | Hr: Viasat Explorer HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55768
+#EXTINF:-1,Ex-Yu: DokuTV
+http://smartmedia.watch:2086/112233/112233/95730
 
-#EXTINF:-1,Ex-Yu | Hr: Z1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/55770
+#EXTINF:-1,Ex-Yu: DocuBox
+http://smartmedia.watch:2086/112233/112233/95731
 
-#EXTINF:-1,Ex-Yu | Hr: Nat Geo Wild HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/29203
+#EXTINF:-1,Ex-Yu: Discovery Channel
+http://smartmedia.watch:2086/112233/112233/95732
 
-#EXTINF:-1,Ex-Yu | Hr: CineStar Action TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/21257
+#EXTINF:-1,Ex-Yu: Discovery Science
+http://smartmedia.watch:2086/112233/112233/95733
 
-#EXTINF:-1,Ex-Yu | Srb: CineStar TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/21256
+#EXTINF:-1,Ex-Yu: Animal Planet
+http://smartmedia.watch:2086/112233/112233/95734
 
-#EXTINF:-1,Ex-Yu | Hr: N1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/29202
+#EXTINF:-1,Ex-Yu: History 2
+http://smartmedia.watch:2086/112233/112233/95735
+
+#EXTINF:-1,Ex-Yu: 24 Kitchen
+http://smartmedia.watch:2086/112233/112233/95736
+
+#EXTINF:-1,Ex-Yu: Viasat Explore
+http://smartmedia.watch:2086/112233/112233/95737
+
+#EXTINF:-1,Ex-Yu: Viasat History
+http://smartmedia.watch:2086/112233/112233/95738
+
+#EXTINF:-1,Ex-Yu: Viasat Nature
+http://smartmedia.watch:2086/112233/112233/95739
+
+#EXTINF:-1,Ex-Yu: Da Vinci Learning
+http://smartmedia.watch:2086/112233/112233/95741
+
+#EXTINF:-1,VIP Arena Sport 6 FHD
+http://smartmedia.watch:2086/112233/112233/120127
+
+#EXTINF:-1,Sport Klub HD HR
+http://smartmedia.watch:2086/112233/112233/120142
+
+#EXTINF:-1,Sport Klub 1 HR
+http://smartmedia.watch:2086/112233/112233/120143
+
+#EXTINF:-1,Sport Klub 2 HR
+http://smartmedia.watch:2086/112233/112233/120145
+
+#EXTINF:-1,Sport Klub 2 HR HD
+http://smartmedia.watch:2086/112233/112233/120146
+
+#EXTINF:-1,Sport Klub 3 HR
+http://smartmedia.watch:2086/112233/112233/120147
+
+#EXTINF:-1,Sport Klub 3 HR HD
+http://smartmedia.watch:2086/112233/112233/120149
+
+#EXTINF:-1,Sport Klub 4 HR
+http://smartmedia.watch:2086/112233/112233/120150
+
+#EXTINF:-1,Sport Klub 4 HR HD
+http://smartmedia.watch:2086/112233/112233/120151
+
+#EXTINF:-1,Sport Klub 5 HR
+http://smartmedia.watch:2086/112233/112233/120152
+
+#EXTINF:-1,Sport Klub 6 HR
+http://smartmedia.watch:2086/112233/112233/120153
+
+#EXTINF:-1,Sport Klub HD SR
+http://smartmedia.watch:2086/112233/112233/120154
+
+#EXTINF:-1,Sport Klub 1 SR
+http://smartmedia.watch:2086/112233/112233/120155
+
+#EXTINF:-1,Sport Klub 1 SR HD
+http://smartmedia.watch:2086/112233/112233/120156
+
+#EXTINF:-1,Sport Klub 2 SR
+http://smartmedia.watch:2086/112233/112233/120157
+
+#EXTINF:-1,Sport Klub 2 SR HD
+http://smartmedia.watch:2086/112233/112233/120158
+
+#EXTINF:-1,Sport Klub 3 SR
+http://smartmedia.watch:2086/112233/112233/120159
+
+#EXTINF:-1,Sport Klub 3 SR HD
+http://smartmedia.watch:2086/112233/112233/120160
+
+#EXTINF:-1,Sport Klub 4 SR
+http://smartmedia.watch:2086/112233/112233/120161
+
+#EXTINF:-1,Sport Klub 4 SR HD
+http://smartmedia.watch:2086/112233/112233/120162
+
+#EXTINF:-1,Sport Klub 5 SR
+http://smartmedia.watch:2086/112233/112233/120163
+
+#EXTINF:-1,Sport Klub 6 SR
+http://smartmedia.watch:2086/112233/112233/120164
+
+#EXTINF:-1,Sport Klub 7 SR
+http://smartmedia.watch:2086/112233/112233/120166
+
+#EXTINF:-1,Sport Klub 8 SR
+http://smartmedia.watch:2086/112233/112233/120167
+
+#EXTINF:-1,Sport Klub 9 SR
+http://smartmedia.watch:2086/112233/112233/120168
+
+#EXTINF:-1,Sport Klub 10 SR
+http://smartmedia.watch:2086/112233/112233/120169
