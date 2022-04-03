@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Nova S
+http://stariptv.org:8080/wael2021/123456/101855
+#EXTINF:-1,Nova S HD
+http://stariptv.org:8080/wael2021/123456/101856
+#EXTINF:-1,N1 RS HD
+http://stariptv.org:8080/wael2021/123456/101844
 #EXTINF:-1,N1 SRB
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/59
 #EXTINF:-1,Nova S
