@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,N1 SRB
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/59
+#EXTINF:-1,Nova S
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/61
+#EXTINF:-1,Nova S (backup)
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21813
 #EXTINF:-1,EX-YU: ARENA SPORT 4 HD (SR)
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIETxkvMAZ41psIRTPMtdL4
 #EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
