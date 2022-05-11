@@ -1,235 +1,38 @@
-#EXTM3U
-#EXTINF:-1,Nova S
-http://stariptv.org:8080/wael2021/123456/101855
-#EXTINF:-1,Nova S HD
-http://stariptv.org:8080/wael2021/123456/101856
-#EXTINF:-1,N1 RS HD
-http://stariptv.org:8080/wael2021/123456/101844
-#EXTINF:-1,N1 SRB
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/59
-#EXTINF:-1,Nova S
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/61
-#EXTINF:-1,Nova S (backup)
-http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/21813
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (SR)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIETxkvMAZ41psIRTPMtdL4
-#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN4eQClNa4QDynZwQYeFKOo
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (SR)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBPAnKwSQSbOCaRrGl4rfF4
-#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIDFnbu87J12O8umgv2PqKA
-#EXTINF:-1,EX-YU: RTCG SAT
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIzZAROyOIxuvtT20lHGl7o
-#EXTINF:-1,EX-YU: RTCG 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHLQwn_gdecI4lXWTBSOIVE
-#EXTINF:-1,EX-YU: RTCG 1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMcf7vvxpAUksG3fVDw-rjM
-#EXTINF:-1,EX-YU: Prva TV Montenegro
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCUtpN-cAMwupUvIK-IrYrs
-#EXTINF:-1,EX-YU: B92
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLrGGPcj5eo9DYtxJofu_Fk
-#EXTINF:-1,EX-YU: TV Istok
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMeY9exr9tJ063PBlDOpB2w
-#EXTINF:-1,EX-YU: USK BH
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPPotmMfOcnlAhu1jntiSlw
-#EXTINF:-1,EX-YU: Sandzak TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPzwwnRY0OglQfX4B2zZTRo
-#EXTINF:-1,EX-YU: N1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGbT0SLx45xIdiK6ExBbq08
-#EXTINF:-1,EX-YU: Alfa
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHuWbHPEBnxkJnEwVE3tEUo
-#EXTINF:-1,EX-YU: Happy Parovi TV 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOSGxGwR8fkPB16DuqsWZ04
-#EXTINF:-1,EX-YU: Happy Parovi
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLvPTWPK0WLfFY3WLadkeXc
-#EXTINF:-1,EX-YU: Viasat nature
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJWt1XLBsQAC3v7IzkZ4SZI
-#EXTINF:-1,EX-YU: Viasat History
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNb9jnUM9fekGnuT-l2v82M
-#EXTINF:-1,EX-YU: RTRS HD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMF6zh1foVKmOThcYmIZUYc
-#EXTINF:-1,EX-YU: Otv Valentino
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEpWcCkbXlnecGRYo1wHEys
-#EXTINF:-1,EX-YU: AXN
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJiHTsjW_KCTn3GeM7bIBHQ
-#EXTINF:-1,EX-YU: RTL Living
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDtggoDFEgLJt_KhrXQzu3c
-#EXTINF:-1,EX-YU: Sitel Tv Mk
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDdTS9Dary7p_huLEmL6vAs
-#EXTINF:-1,EX-YU: Sitel 3 Mk
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNaqBkhS9ntlhlaJB7cTTYQ
-#EXTINF:-1,EX-YU: Grand TV 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHTS--UCGMfS3uHsOKJsfUY
-#EXTINF:-1,EX-YU: Nat Geo Wild
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFUtfltLjdEQWWsgecDogGw
-#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFG6cK7OZuLgAR6LQR6--UFg
-#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEr4UiHPPzDkm0sz3ttxymM
-#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNfjBFDVvedyDGqVR3B0m4A
-#EXTINF:-1,EX-YU: Sport Klub 3
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJQq_aHD4nBHvdc6OEDAZrc
-#EXTINF:-1,EX-YU: Sport Klub 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLeszxaTJ-Lc4gcBdij3mOk
-#EXTINF:-1,EX-YU: Sport Klub 1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMyJqXuVj4iT-IJ5HCxv6rM
-#EXTINF:-1,EX-YU: RTV Zenica
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMt0oeSM7dyj80jJ1Xc00-4
-#EXTINF:-1,EX-YU: RTS HD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPSQffyP4XVESvLaWh2P8uk
-#EXTINF:-1,EX-YU: RTS 3
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ138l2e2J5jYccw_bavJDY
-#EXTINF:-1,EX-YU: Prva Plus
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJd2lcgfruO6SR7X3XjlAWI
-#EXTINF:-1,EX-YU: Prva
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPTzQI5eTvn8Mi6yPdOSYzs
-#EXTINF:-1,EX-YU: Pink Zabava
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNml0Z2bEQsHF5o96bDMWk8
-#EXTINF:-1,EX-YU: Pink World
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEC_T-4gKqtxQ_bj4DoQIAg
-#EXTINF:-1,EX-YU: Pink Western
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLbO8VDXCxsZ1mAwqWhu6ac
-#EXTINF:-1,EX-YU: Pink Thriller
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFL5trP6mQlJVNoNsfZosEMA
-#EXTINF:-1,EX-YU: Pink Super Kids
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDYeZ8tr-F6H7iuHAm66Q0A
-#EXTINF:-1,EX-YU: Pink Soap
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFI4JZVgDj6AOPyMN8JZka4o
-#EXTINF:-1,EX-YU: Pink Show
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJc2F3aUwSCO5tGo5BM_N8U
-#EXTINF:-1,EX-YU: Pink Serije
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMBO84zp4_a-txIPN4xcZd4
-#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFALJuu8k_fq_MG8RC513mss
-#EXTINF:-1,EX-YU: Pink Romance
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFCgIpicSOH9ckEIjNG53g0
-#EXTINF:-1,EX-YU: Pink Reality
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFApctoGotBGO-o02_-9r0zY
-#EXTINF:-1,EX-YU: Pink Premium
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGKvQMdrl10tWj28KxnNpTY
-#EXTINF:-1,EX-YU: Pink Plus
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN1LBk1LxBurwrb1pHZNkj8
-#EXTINF:-1,EX-YU: Pink Pedia
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEhXqZi6ij6rGCMs_qEgJ4Q
-#EXTINF:-1,EX-YU: Pink Movies
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOhvjlf_wSBSSqNrK88Lvsc
-#EXTINF:-1,EX-YU: Pink M
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFA3d1rrFKQkgC_-r1pM0i2I
-#EXTINF:-1,EX-YU: Pink Kuvar
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFINYqZG-KLhckhViWeWuDWg
-#EXTINF:-1,EX-YU: Pink Koncert
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDEpHDAbQ1SwEyK0jJv2h0c
-#EXTINF:-1,EX-YU: Pink Kids
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAWTI9e0zBRP9cx99cGOaRY
-#EXTINF:-1,EX-YU: Pink Horror
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHXYcYpjMFS6v4RlfrdPtf4
-#EXTINF:-1,EX-YU: Pink Hits 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLJHTTqk8DtWaccaNgjz0Cw
-#EXTINF:-1,EX-YU: Pink Folk 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJfP9qbhHrRfZsVz7LFaABw
-#EXTINF:-1,EX-YU: Pink Folk
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLgE3CWs7hk6fIxH0sy8PmI
-#EXTINF:-1,EX-YU: Pink Film
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFItiGuvmF44H7fZdcGfC1AU
-#EXTINF:-1,EX-YU: Pink Extra
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLFAtjFgzZqXll7eQTLHzxE
-#EXTINF:-1,EX-YU: Pink Comedy
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF7kXas4ooBr2lNzGuPhvd8
-#EXTINF:-1,EX-YU: Pink BH
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFO9DEiu8_A9UYpP5Ylb0NwM
-#EXTINF:-1,EX-YU: PINK 3
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEimtP9_83PzHUC7PK5C2uM
-#EXTINF:-1,EX-YU: Pink 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEkooJeYNESOfRVpdvsiUPQ
-#EXTINF:-1,EX-YU: Pink 1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLIeM7ExlzOEqAlOqFfy6-U
-#EXTINF:-1,EX-YU: Pink & Roll
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFrpFLPpxSF4ojlGrvO9E0M
-#EXTINF:-1,EX-YU: OBN
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAeAHWEwNB9err5tf1STGJ8
-#EXTINF:-1,EX-YU: NOVA TV HR
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHipyRaFsptuzyQ_z4O5Mno
-#EXTINF:-1,EX-YU: NOVA RS pub
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOjXI4js1kyewT4-Wbc-lcc
-#EXTINF:-1,EX-YU: Nickelodeon
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBG9eW76obXA2sj8KYWh5P8
-#EXTINF:-1,EX-YU: National Geographic
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM2jEZ9q0MY7hB0gY7SZtT8
-#EXTINF:-1,EX-YU: Sportska TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN5vacxSbz2hGf_HVKWLGjM
-#EXTINF:-1,EX-YU: DM Sat
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHKpuLWXrY7_hI5IEC0672I
-#EXTINF:-1,EX-YU: MTV Igman
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKlewxnLZXDIrtq9Z_U5z04
-#EXTINF:-1,EX-YU: Mini TV HR
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCLve5CocItz3VBBT2g-CVk
-#EXTINF:-1,EX-YU: CMC
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLKO22gJkHsP0muI-VYT4rA
-#EXTINF:-1,EX-YU: MRT 1 (local)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOvGfHHvfD-K5DoRaI0DNng
-#EXTINF:-1,EX-YU: MRTV 3 MK
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIMWkdcr0RzWirdRqC8RMQg
-#EXTINF:-1,EX-YU: MRT 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFE0YiobbLNG2VIaQZSVynjU
-#EXTINF:-1,EX-YU: MTV Adria
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIMq95ArHTTU8BU0zpNBhhM
-#EXTINF:-1,EX-YU: Cinestar Action
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFI5FdBNikfJkT2l5tAhaseA
-#EXTINF:-1,EX-YU: KLASIK TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOdyINg5SEdVtszb-d8yUY8
-#EXTINF:-1,EX-YU: LOV I RIBOLOV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFa-OHHl7cjLKWPZ49AYeZE
-#EXTINF:-1,EX-YU: BN Music
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCqdTbJe0R8wxxq0LGVJd74
-#EXTINF:-1,EX-YU: HRT 1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJH91CfsVCD19p21eF1c-vU
-#EXTINF:-1,EX-YU: KCN 3
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOf-AKjFa7rqjLSHbWvhpIE
-#EXTINF:-1,EX-YU: KCN 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFD5fUrZJzp8yaXl81Pdw3Ig
-#EXTINF:-1,EX-YU: KCN 1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAHqJQdYFjaaysfS8f5BzhE
-#EXTINF:-1,EX-YU: BHT 1 HD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOZ6ieKtWHtxyDWuFmZ6CgA
-#EXTINF:-1,EX-YU: Fox Movies
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF8NsLZiznzOjF3-l3U7JfA
-#EXTINF:-1,EX-YU: HAYAT PLUS
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFG4-bBXwxMjZfJTbCLziTQk
-#EXTINF:-1,EX-YU: HAYAT FOLK
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJfcAyo0AcO0pGX0eOqnq8M
-#EXTINF:-1,EX-YU: HAYAT
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKF5mhZpvNgR4Re57VLf8DI
-#EXTINF:-1,EX-YU: GRAND TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKX2s2nW0rKXwkzJMVyxHl0
-#EXTINF:-1,EX-YU: Al Jazeera Balkan
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFH_TU98NAc92TmXk6hhiFbc
-#EXTINF:-1,EX-YU: Federalna TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFHp2B9SYLhLftHSqaJB1MmU
-#EXTINF:-1,EX-YU: Fox Life
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM_6SL0i7ZmGgeJbSL_gejU
-#EXTINF:-1,EX-YU: Fox Crime
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOoXAfZ9XrNioAiSqG7JVk8
-#EXTINF:-1,EX-YU: Fightbox
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFViS4gAsJhNc-tswehhWrs
-#EXTINF:-1,EX-YU: FilmBox Extra
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJFwy0ZTeEZf5Co1Xmn6va0
-#EXTINF:-1,EX-YU: Discovery
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFM62WqU1JSPdtLwn9Cg07FU
-#EXTINF:-1,EX-YU: FACE TV
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPotITU7sh6Gsrt3aD_40d8
-#EXTINF:-1,EX-YU: FOX
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEFyIzXn_P9EcSQ7nhU9RBs
-#EXTINF:-1,EX-YU: BN SAT
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKm5e3tvA5hQHmSWbhLBX_0
-#EXTINF:-1,EX-YU: Cinestar Premiere 1
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN1z-_8U1XzFH_FH7hqtNm4
-#EXTINF:-1,EX-YU: Cinestar Premier 2
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBufA21Atl9Fo-7QGp242Zc
-#EXTINF:-1,EX-YU: PINK 3(1)
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNRAzYIcyKka598jD_3Y4yE
-#EXTINF:-1,EX-YU: ANIMAL PLANET
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCpSTdlWtH0_HlTu1jNNQQs
-#EXTINF:-1,EX-YU: BHT
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFAXHPPVYpgUdd4DhtX6JrMM
+#EXTINF:-1,EX-YOU: PINK (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109423
+#EXTINF:-1,EX-YU: RTS 1  L3 (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109363
+#EXTINF:-1,EX-YU: HAPPY L2
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109383
+#EXTINF:-1,EX-YU: HAPPY (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109382
+#EXTINF:-1,EX-YU: NOVA S HD L2 (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109385
+#EXTINF:-1,EX-YU: NOVA S HD (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109384
+#EXTINF:-1,EX-YU: PRVA  L3
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109375
+#EXTINF:-1,EX-YU: PRVA L2
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109374
+#EXTINF:-1,EX-YU: PRVA (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109373
+#EXTINF:-1,EX-YU: KURIR TV (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109409
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 1 L2
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109399
+#EXTINF:-1,EX-YU: ZADRUGA LIVE 1
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109398
+#EXTINF:-1,EX-YU: ZADRUGA LIVE (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109397
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 2 L2
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109401
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 2
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109400
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 3 L2
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109403
+#EXTINF:-1,EX-YOU: ZADRUGA LIVE 3 (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109402
+#EXTINF:-1,EX-YU: ZADRUGA LIVE 4 L2
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109405
+#EXTINF:-1,EX-YU: ZADRUGA LIVE 4 (SRB)
+http://revteam1.offshorerev.cc:80/_0N6gg5/CgqteLJJLY/109404
