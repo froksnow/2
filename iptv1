@@ -1,1645 +1,791 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Music HD ::." tvg-logo="" group-title="Kanale Shqip",.:: Lugina Music HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/10205
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina KINO ::." tvg-logo="" group-title="Kanale Shqip",.:: Lugina KINO ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/10202
-#EXTINF:-1 tvg-id="" tvg-name="Alsat M HD" tvg-logo="http://luginaiptv.com/logo/alsat_m.png" group-title="Kanale Shqip",Alsat M HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5524
-#EXTINF:-1 tvg-id="" tvg-name="Alsat M" tvg-logo="http://luginaiptv.com/logo/alsat_m.png" group-title="Kanale Shqip",Alsat M
-http://premium.luginaiptv.com:8000/Armendi/123456/5525
-#EXTINF:-1 tvg-id="" tvg-name="TV Shenja HD" tvg-logo="http://luginaiptv.com/logo/shenja.png" group-title="Kanale Shqip",TV Shenja HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7737
-#EXTINF:-1 tvg-id="" tvg-name="TV Shenja" tvg-logo="http://luginaiptv.com/logo/shenja.png" group-title="Kanale Shqip",TV Shenja
-http://premium.luginaiptv.com:8000/Armendi/123456/5526
-#EXTINF:-1 tvg-id="" tvg-name="MRT 2 HD" tvg-logo="http://luginaiptv.com/logo/mrt_2_sat.jpg" group-title="Kanale Shqip",MRT 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5527
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1 HD" tvg-logo="https://luginaiptv.com/logo/dtv-channel-rtk1.jpeg" group-title="Kanale Shqip",RTK 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5529
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="https://luginaiptv.com/logo/dtv-channel-rtk1.jpeg" group-title="Kanale Shqip",RTK 1
-http://premium.luginaiptv.com:8000/Armendi/123456/5530
-#EXTINF:-1 tvg-id="" tvg-name="RTK 2 HD" tvg-logo="http://luginaiptv.com/logo/dtv-channel-rtk2.png" group-title="Kanale Shqip",RTK 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5646
-#EXTINF:-1 tvg-id="" tvg-name="RTK 3 HD" tvg-logo="http://luginaiptv.com/logo/dtv-channel-rtk3.png" group-title="Kanale Shqip",RTK 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5647
-#EXTINF:-1 tvg-id="" tvg-name="RTK 4 HD" tvg-logo="http://luginaiptv.com/logo/dtv-channel-rtk4.png" group-title="Kanale Shqip",RTK 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5648
-#EXTINF:-1 tvg-id="" tvg-name="KTV  HD" tvg-logo="http://luginaiptv.com/logo/koha_vision.png" group-title="Kanale Shqip",KTV  HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5534
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 HD" tvg-logo="http://luginaiptv.com/logo/rtv21.png" group-title="Kanale Shqip",RTV 21 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5536
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 NewsBiz" tvg-logo="http://luginaiptv.com/logo/rtv21newsbiz.png" group-title="Kanale Shqip",RTV 21 NewsBiz
-http://premium.luginaiptv.com:8000/Armendi/123456/8881
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 MK HD" tvg-logo="http://luginaiptv.com/logo/rtv21.png" group-title="Kanale Shqip",RTV 21 MK HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5540
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Junior" tvg-logo="http://luginaiptv.com/logo/21junior.png" group-title="Kanale Shqip",RTV 21 Junior
-http://premium.luginaiptv.com:8000/Armendi/123456/5642
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix" tvg-logo="http://luginaiptv.com/logo/21mix.png" group-title="Kanale Shqip",RTV 21 Mix
-http://premium.luginaiptv.com:8000/Armendi/123456/6152
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus HD" tvg-logo="http://luginaiptv.com/logo/rtv21plusHD.png" group-title="Kanale Shqip",RTV 21 Plus HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5538
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore" tvg-logo="http://luginaiptv.com/logo/21popullore_438962.png" group-title="Kanale Shqip",RTV 21 Popullore
-http://premium.luginaiptv.com:8000/Armendi/123456/5539
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="http://luginaiptv.com/logo/top_channel.png" group-title="Kanale Shqip",Top Channel HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5543
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="http://luginaiptv.com/logo/top_channel.png" group-title="Kanale Shqip",Top Channel
-http://premium.luginaiptv.com:8000/Armendi/123456/5544
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="http://luginaiptv.com/logo/klan_kosova.png" group-title="Kanale Shqip",Klan Kosova HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5542
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova" tvg-logo="http://luginaiptv.com/logo/klan_kosova.png" group-title="Kanale Shqip",Klan Kosova
-http://premium.luginaiptv.com:8000/Armendi/123456/6787
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="http://luginaiptv.com/logo/vizion_plus.png" group-title="Kanale Shqip",Vizion Plus HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5547
-#EXTINF:-1 tvg-id="" tvg-name="Klan HD" tvg-logo="http://luginaiptv.com/logo/klan_al_tv_hd.png" group-title="Kanale Shqip",Klan HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5545
-#EXTINF:-1 tvg-id="" tvg-name="Klan" tvg-logo="http://luginaiptv.com/logo/klan_al_tv.png" group-title="Kanale Shqip",Klan
-http://premium.luginaiptv.com:8000/Armendi/123456/5546
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="http://luginaiptv.com/logo/klanplus.png" group-title="Kanale Shqip",Klan Plus HD
-http://premium.luginaiptv.com:8000/Armendi/123456/9211
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="http://luginaiptv.com/logo/klanplus.png" group-title="Kanale Shqip",Klan Plus
-http://premium.luginaiptv.com:8000/Armendi/123456/5624
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 1" tvg-logo="https://luginaiptv.com/logo/rtsh1.png" group-title="Kanale Shqip",RTSH 1
-http://premium.luginaiptv.com:8000/Armendi/123456/5541
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="https://luginaiptv.com/logo/rtshfilm.png" group-title="Kanale Shqip",RTSH Film
-http://premium.luginaiptv.com:8000/Armendi/123456/8616
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Muzik" tvg-logo="https://luginaiptv.com/logo/rtshmuzike.png" group-title="Kanale Shqip",RTSH Muzik
-http://premium.luginaiptv.com:8000/Armendi/123456/8880
-#EXTINF:-1 tvg-id="" tvg-name="Arta News" tvg-logo="http://luginaiptv.com/logo/artanews.png" group-title="Kanale Shqip",Arta News
-http://premium.luginaiptv.com:8000/Armendi/123456/6172
-#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="http://luginaiptv.com/logo/top_news-150x150.jpg" group-title="Kanale Shqip",Top News
-http://premium.luginaiptv.com:8000/Armendi/123456/5601
-#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="http://luginaiptv.com/logo/oranews.png" group-title="Kanale Shqip",Ora News
-http://premium.luginaiptv.com:8000/Armendi/123456/5600
-#EXTINF:-1 tvg-id="" tvg-name="Report  TV" tvg-logo="http://luginaiptv.com/logo/unnamed.png" group-title="Kanale Shqip",Report  TV
-http://premium.luginaiptv.com:8000/Armendi/123456/5604
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://luginaiptv.com/logo/abc%20news.PNG" group-title="Kanale Shqip",ABC News
-http://premium.luginaiptv.com:8000/Armendi/123456/5603
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 News" tvg-logo="http://luginaiptv.com/logo/albania_7_news_95x74.gif" group-title="Kanale Shqip",Kanali 7 News
-http://premium.luginaiptv.com:8000/Armendi/123456/5605
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="http://luginaiptv.com/logo/news24.jpg" group-title="Kanale Shqip",News 24
-http://premium.luginaiptv.com:8000/Armendi/123456/5602
-#EXTINF:-1 tvg-id="" tvg-name="MRT 1 HD" tvg-logo="https://luginaiptv.com/mrt1.png" group-title="Kanale Ballkan",MRT 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13118
-#EXTINF:-1 tvg-id="" tvg-name="Euro News Albania" tvg-logo="http://luginaiptv.com/logo/euronews.png" group-title="Kanale Shqip",Euro News Albania
-http://premium.luginaiptv.com:8000/Armendi/123456/13153
-#EXTINF:-1 tvg-id="" tvg-name="Alb’swiss TV HD" tvg-logo="https://luginaiptv.com/logo/AlbSwiss-logo-2021.png" group-title="Kanale Shqip",Alb’swiss TV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13494
-#EXTINF:-1 tvg-id="" tvg-name="Kino Thriller HD" tvg-logo="http://luginaiptv.com/logo/luginaLOGO.png" group-title="Kanale Shqip",Kino Thriller HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6297
-#EXTINF:-1 tvg-id="" tvg-name="SK Aksion" tvg-logo="https://luginaiptv.com/logo/skyaction.jpg" group-title="Kanale Shqip",SK Aksion
-http://premium.luginaiptv.com:8000/Armendi/123456/6098
-#EXTINF:-1 tvg-id="" tvg-name="SK Drama" tvg-logo="https://luginaiptv.com/logo/SKY-CINEMA-DRAMA-June-2020.png" group-title="Kanale Shqip",SK Drama
-http://premium.luginaiptv.com:8000/Armendi/123456/6103
-#EXTINF:-1 tvg-id="" tvg-name="SK History" tvg-logo="https://luginaiptv.com/logo/skyhistory.jpg" group-title="Kanale Shqip",SK History
-http://premium.luginaiptv.com:8000/Armendi/123456/6102
-#EXTINF:-1 tvg-id="" tvg-name="SK Max" tvg-logo="https://luginaiptv.com/logo/Sky-MAx.png" group-title="Kanale Shqip",SK Max
-http://premium.luginaiptv.com:8000/Armendi/123456/6101
-#EXTINF:-1 tvg-id="" tvg-name="T HD" tvg-logo="https://luginaiptv.com/logo/thd.png" group-title="Kanale Shqip",T HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5559
-#EXTINF:-1 tvg-id="" tvg-name="DIGI Gold" tvg-logo="https://luginaiptv.com/logo/digigold.png" group-title="Kanale Shqip",DIGI Gold
-http://premium.luginaiptv.com:8000/Armendi/123456/5560
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 1" tvg-logo="https://luginaiptv.com/logo/gold1.png" group-title="Kanale Shqip",Digi Gold 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6529
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 2" tvg-logo="https://luginaiptv.com/logo/DigiGold2.png" group-title="Kanale Shqip",Digi Gold 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6530
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 3" tvg-logo="https://luginaiptv.com/logo/DigiGold3.png" group-title="Kanale Shqip",Digi Gold 3
-http://premium.luginaiptv.com:8000/Armendi/123456/6531
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 4" tvg-logo="https://luginaiptv.com/logo/DigiGold4.png" group-title="Kanale Shqip",Digi Gold 4
-http://premium.luginaiptv.com:8000/Armendi/123456/6532
-#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="https://luginaiptv.com/logo/filmaksion.png" group-title="Kanale Shqip",Film Aksion
-http://premium.luginaiptv.com:8000/Armendi/123456/5564
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="https://luginaiptv.com/logo/filmautor.jpg" group-title="Kanale Shqip",Film Autor
-http://premium.luginaiptv.com:8000/Armendi/123456/5565
-#EXTINF:-1 tvg-id="" tvg-name="Film Drame" tvg-logo="https://luginaiptv.com/logo/filmdrame.png" group-title="Kanale Shqip",Film Drame
-http://premium.luginaiptv.com:8000/Armendi/123456/5566
-#EXTINF:-1 tvg-id="" tvg-name="Film Dy HD" tvg-logo="https://luginaiptv.com/logo/Film%20Dy%20HD.png" group-title="Kanale Shqip",Film Dy HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5568
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="https://luginaiptv.com/logo/digit_alb_film_hits.png" group-title="Kanale Shqip",Film Hits
-http://premium.luginaiptv.com:8000/Armendi/123456/5569
-#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="https://luginaiptv.com/logo/Film_Komedi_AL_logo.png" group-title="Kanale Shqip",Film Komedi
-http://premium.luginaiptv.com:8000/Armendi/123456/5570
-#EXTINF:-1 tvg-id="" tvg-name="Film Nje HD" tvg-logo="https://luginaiptv.com/logo/Film%20Nje%20HD.png" group-title="Kanale Shqip",Film Nje HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5567
-#EXTINF:-1 tvg-id="" tvg-name="Film Stinet" tvg-logo="https://luginaiptv.com/logo/digit_alb_serial_stinet.png" group-title="Kanale Shqip",Film Stinet
-http://premium.luginaiptv.com:8000/Armendi/123456/5590
-#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="http://luginaiptv.com/logo/digit_alb_film_thriller.png" group-title="Kanale Shqip",Film Thriller
-http://premium.luginaiptv.com:8000/Armendi/123456/5571
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Histori" tvg-logo="http://luginaiptv.com/logo/Explorer-Histori_o.jpg" group-title="Kanale Shqip",Explorer Histori
-http://premium.luginaiptv.com:8000/Armendi/123456/5578
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Natyra" tvg-logo="http://luginaiptv.com/logo/Explorer-Natyra_o.jpg" group-title="Kanale Shqip",Explorer Natyra
-http://premium.luginaiptv.com:8000/Armendi/123456/5577
-#EXTINF:-1 tvg-id="" tvg-name="Explorer Shkenca" tvg-logo="http://luginaiptv.com/logo/Explorer-Shkence_o.jpg" group-title="Kanale Shqip",Explorer Shkenca
-http://premium.luginaiptv.com:8000/Armendi/123456/5576
-#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="http://luginaiptv.com/logo/tringplanet.png" group-title="Kanale Shqip",Tring Planet
-http://premium.luginaiptv.com:8000/Armendi/123456/5582
-#EXTINF:-1 tvg-id="" tvg-name="Tring 3 Plus HD" tvg-logo="http://luginaiptv.com/logo/tring3plus.jpg" group-title="Kanale Shqip",Tring 3 Plus HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8396
-#EXTINF:-1 tvg-id="" tvg-name="Tring 3 Plus" tvg-logo="http://luginaiptv.com/logo/tring3plus.jpg" group-title="Kanale Shqip",Tring 3 Plus
-http://premium.luginaiptv.com:8000/Armendi/123456/5589
-#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="http://luginaiptv.com/logo/tring-comedy.png" group-title="Kanale Shqip",Tring Comedy
-http://premium.luginaiptv.com:8000/Armendi/123456/5587
-#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="http://luginaiptv.com/logo/tringfantasy.png" group-title="Kanale Shqip",Tring Fantasy
-http://premium.luginaiptv.com:8000/Armendi/123456/5586
-#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="http://luginaiptv.com/logo/tringhistory.png" group-title="Kanale Shqip",Tring History
-http://premium.luginaiptv.com:8000/Armendi/123456/5583
-#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="http://luginaiptv.com/logo/tringlife.png" group-title="Kanale Shqip",Tring Life
-http://premium.luginaiptv.com:8000/Armendi/123456/5580
-#EXTINF:-1 tvg-id="" tvg-name="Tring Living" tvg-logo="http://luginaiptv.com/logo/tringliving.png" group-title="Kanale Shqip",Tring Living
-http://premium.luginaiptv.com:8000/Armendi/123456/6175
-#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="http://luginaiptv.com/logo/tringshqip.jpg" group-title="Kanale Shqip",Tring Shqip
-http://premium.luginaiptv.com:8000/Armendi/123456/5581
-#EXTINF:-1 tvg-id="" tvg-name="Tring Smile" tvg-logo="http://luginaiptv.com/logo/tringsmile.jpg" group-title="Kanale Shqip",Tring Smile
-http://premium.luginaiptv.com:8000/Armendi/123456/5622
-#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="http://luginaiptv.com/logo/tringsuper.png" group-title="Kanale Shqip",Tring Super
-http://premium.luginaiptv.com:8000/Armendi/123456/5588
-#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="http://luginaiptv.com/logo/tringtring.png" group-title="Kanale Shqip",Tring Tring
-http://premium.luginaiptv.com:8000/Armendi/123456/5585
-#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="http://luginaiptv.com/logo/tringworld.png" group-title="Kanale Shqip",Tring World
-http://premium.luginaiptv.com:8000/Armendi/123456/5579
-#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="http://luginaiptv.com/logo/tring_jolly_hd.png" group-title="Kanale Shqip",Jolly HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5575
-#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="http://luginaiptv.com/logo/tring_jolly_hd.png" group-title="Kanale Shqip",Jolly HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7704
-#EXTINF:-1 tvg-id="" tvg-name="First Channel HD" tvg-logo="https://luginaiptv.com/logo/firstchannel.jpg" group-title="Kanale Shqip",First Channel HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5606
-#EXTINF:-1 tvg-id="" tvg-name="ALB UK HD" tvg-logo="https://luginaiptv.com/logo/albuk.png" group-title="Kanale Shqip",ALB UK HD
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALB Music HD" tvg-logo="http://luginaiptv.com/logo/albmusic.png" group-title="Kanale Shqip",ALB Music HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5594
-#EXTINF:-1 tvg-id="" tvg-name="RTV Dukagjini" tvg-logo="https://luginaiptv.com/logo/Tv_dukagjini%2520HD.png" group-title="Kanale Shqip",RTV Dukagjini
-http://premium.luginaiptv.com:8000/Armendi/123456/5620
-#EXTINF:-1 tvg-id="" tvg-name="TV Sharri HD" tvg-logo="http://luginaiptv.com/logo/TV-Sharri-Shqip_o.jpg" group-title="Kanale Shqip",TV Sharri HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5619
-#EXTINF:-1 tvg-id="" tvg-name="TV Syri Vision" tvg-logo="http://luginaiptv.com/logo/SyriVisionlogo_731-150x120.png" group-title="Kanale Shqip",TV Syri Vision
-https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/y10z1k1080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drita TV" tvg-logo="https://luginaiptv.com/logo/LOGO-DRITA-TEST.png" group-title="Kanale Shqip",Drita TV
-https://monamour.agency/dritaweb008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Besa" tvg-logo="http://luginaiptv.com/logo/besa-tv_48865.jpg" group-title="Kanale Islame",RTV Besa
-http://premium.luginaiptv.com:8000/Armendi/123456/5653
-#EXTINF:-1 tvg-id="" tvg-name="TV Era" tvg-logo="http://luginaiptv.com/logo/eratv_logo.png" group-title="Kanale Shqip",TV Era
-http://premium.luginaiptv.com:8000/Armendi/123456/5610
-#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica" tvg-logo="https://luginaiptv.com/logo/channels4_profile%20(2).jpg" group-title="Kanale Shqip",TV Mitrovica
-http://premium.luginaiptv.com:8000/Armendi/123456/6417
-#EXTINF:-1 tvg-id="" tvg-name="TV Koha Tetove" tvg-logo="http://luginaiptv.com/logo/header.png" group-title="Kanale Shqip",TV Koha Tetove
-http://premium.luginaiptv.com:8000/Armendi/123456/5611
-#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV HD" tvg-logo="http://luginaiptv.com/logo/zjarr.png" group-title="Kanale Shqip",Zjarr TV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5640
-#EXTINF:-1 tvg-id="" tvg-name="AMOL TV" tvg-logo="https://luginaiptv.com/logo/Download%20(4).jpg" group-title="Kanale Shqip",AMOL TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6409
-#EXTINF:-1 tvg-id="" tvg-name="TV Tetova HD" tvg-logo="http://luginaiptv.com/logo/back.png" group-title="Kanale Shqip",TV Tetova HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5613
-#EXTINF:-1 tvg-id="" tvg-name="Supersonic" tvg-logo="http://luginaiptv.com/logo/supersonic_tv_al%20(2).png" group-title="Kanale Shqip",Supersonic
-http://premium.luginaiptv.com:8000/Armendi/123456/6790
-#EXTINF:-1 tvg-id="" tvg-name="My Music" tvg-logo="http://luginaiptv.com/logo/My-Music-logo.jpg" group-title="Kanale Shqip",My Music
-http://premium.luginaiptv.com:8000/Armendi/123456/5630
-#EXTINF:-1 tvg-id="" tvg-name="BBF Music" tvg-logo="http://luginaiptv.com/logo/bbf-400x400_c.png" group-title="Kanale Shqip",BBF Music
-http://premium.luginaiptv.com:8000/Armendi/123456/5625
-#EXTINF:-1 tvg-id="" tvg-name="BN Music" tvg-logo="" group-title="Kanale Ballkan",BN Music
-http://premium.luginaiptv.com:8000/Armendi/123456/6243
-#EXTINF:-1 tvg-id="" tvg-name="Folk +" tvg-logo="http://luginaiptv.com/logo/Folk%2B.png" group-title="Kanale Shqip",Folk +
-http://premium.luginaiptv.com:8000/Armendi/123456/6177
-#EXTINF:-1 tvg-id="" tvg-name="Tirana TV" tvg-logo="http://luginaiptv.com/logo/Tirana_TV.jpg" group-title="Kanale Shqip",Tirana TV
-http://premium.luginaiptv.com:8000/Armendi/123456/5632
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="http://luginaiptv.com/logo/logo.png" group-title="Kanale Shqip",Dasma TV
-http://premium.luginaiptv.com:8000/Armendi/123456/5633
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://luginaiptv.com/logo/babytv.jpg" group-title="Kanale Shqip",Baby TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6099
-#EXTINF:-1 tvg-id="" tvg-name="BangBang" tvg-logo="http://luginaiptv.com/logo/bangbang.png" group-title="Kanale Shqip",BangBang
-http://premium.luginaiptv.com:8000/Armendi/123456/5643
-#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="http://luginaiptv.com/logo/cufo.png" group-title="Kanale Shqip",Cufo
-http://premium.luginaiptv.com:8000/Armendi/123456/5641
-#EXTINF:-1 tvg-id="" tvg-name="Junior" tvg-logo="http://luginaiptv.com/logo/digit_alb_junior_tv.png" group-title="Kanale Shqip",Junior
-http://premium.luginaiptv.com:8000/Armendi/123456/5572
-#EXTINF:-1 tvg-id="" tvg-name="Muse" tvg-logo="https://luginaiptv.com/logo/muse.jpg" group-title="Kanale Shqip",Muse
-http://premium.luginaiptv.com:8000/Armendi/123456/6097
-#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="http://luginaiptv.com/logo/tip_tv_al.png" group-title="Kanale Shqip",Tip TV
-http://premium.luginaiptv.com:8000/Armendi/123456/5623
-#EXTINF:-1 tvg-id="" tvg-name="IL TV" tvg-logo="http://luginaiptv.com/iltv.png" group-title="Kanale Frengjisht",IL TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7128
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime AL" tvg-logo="http://luginaiptv.com/logo/foxcrime.png" group-title="Kanale Shqip",Fox Crime AL
-http://premium.luginaiptv.com:8000/Armendi/123456/8738
-#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="http://luginaiptv.com/logo/tvdielli.jpg" group-title="Kanale Shqip",TV Dielli
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Vali" tvg-logo="http://luginaiptv.com/logo/tvvali.jpg" group-title="Kanale Shqip",TV Vali
-http://premium.luginaiptv.com:8000/Armendi/123456/7215
-#EXTINF:-1 tvg-id="" tvg-name="Family HD" tvg-logo="http://luginaiptv.com/logo/FAMILY.png" group-title="Kanale Shqip",Family HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8841
-#EXTINF:-1 tvg-id="" tvg-name="A TV HD" tvg-logo="https://luginaiptv.com/logo/atv2022.png" group-title="Kanale Shqip",A TV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13885
-#EXTINF:-1 tvg-id="" tvg-name="TV Uskana HD" tvg-logo="http://luginaiptv.com/logo/tvuskana.png" group-title="Kanale Shqip",TV Uskana HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7361
-#EXTINF:-1 tvg-id="" tvg-name="Mekka" tvg-logo="http://luginaiptv.com/logo/mekkah.png" group-title="Kanale Islame",Mekka
-http://premium.luginaiptv.com:8000/Armendi/123456/5665
-#EXTINF:-1 tvg-id="" tvg-name="Mekka Live HD" tvg-logo="" group-title="Kanale Islame",Mekka Live HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7219
-#EXTINF:-1 tvg-id="" tvg-name="KURAN 24/7" tvg-logo="" group-title="Kanale Islame",KURAN 24/7
-http://premium.luginaiptv.com:8000/Armendi/123456/13756
-#EXTINF:-1 tvg-id="" tvg-name="WebStar Islam 2 HD" tvg-logo="" group-title="Kanale Islame",WebStar Islam 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13761
-#EXTINF:-1 tvg-id="" tvg-name="Medina Live" tvg-logo="http://luginaiptv.com/logo/Medina.jpg" group-title="Kanale Islame",Medina Live
-http://premium.luginaiptv.com:8000/Armendi/123456/5666
-#EXTINF:-1 tvg-id="" tvg-name="RTV Pendimi" tvg-logo="http://luginaiptv.com/logo/rtvpendimi.jpg" group-title="Kanale Islame",RTV Pendimi
-http://premium.luginaiptv.com:8000/Armendi/123456/9180
-#EXTINF:-1 tvg-id="" tvg-name="B ilahi HD" tvg-logo="" group-title="Kanale Islame",B ilahi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7629
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="https://luginaiptv.com/logo/Peace_TV_official_logo.png" group-title="Kanale Islame",Peace TV
-http://premium.luginaiptv.com:8000/Armendi/123456/5668
-#EXTINF:-1 tvg-id="" tvg-name="Resalat Al Islam" tvg-logo="" group-title="Kanale Islame",Resalat Al Islam
-http://premium.luginaiptv.com:8000/Armendi/123456/8873
-#EXTINF:-1 tvg-id="" tvg-name="Kurani famëlartë" tvg-logo="" group-title="Kanale Islame",Kurani famëlartë
-http://premium.luginaiptv.com:8000/Armendi/123456/12854
-#EXTINF:-1 tvg-id="" tvg-name="RTV Islam" tvg-logo="" group-title="Kanale Islame",RTV Islam
-http://premium.luginaiptv.com:8000/Armendi/123456/5667
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport1.png" group-title="Kanale Sport",Super Sport 1
-http://premium.luginaiptv.com:8000/Armendi/123456/5675
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport2.png" group-title="Kanale Sport",Super Sport 2
-http://premium.luginaiptv.com:8000/Armendi/123456/5676
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport3.png" group-title="Kanale Sport",Super Sport 3
-http://premium.luginaiptv.com:8000/Armendi/123456/5677
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport4.png" group-title="Kanale Sport",Super Sport 4
-http://premium.luginaiptv.com:8000/Armendi/123456/5678
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport5.png" group-title="Kanale Sport",Super Sport 5
-http://premium.luginaiptv.com:8000/Armendi/123456/6780
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport6.png" group-title="Kanale Sport",Super Sport 6
-http://premium.luginaiptv.com:8000/Armendi/123456/6786
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport1_hd.png" group-title="Kanale Sport",Super Sport 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6781
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2 HD" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport2_hd.png" group-title="Kanale Sport",Super Sport 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6782
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport3_hd.png" group-title="Kanale Sport",Super Sport 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6783
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport4_hd.png" group-title="Kanale Sport",Super Sport 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6784
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5 HD" tvg-logo="http://luginaiptv.com/logo/digit_alb_supersport5_hd.png" group-title="Kanale Sport",Super Sport 5 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6785
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News HD" tvg-logo="http://luginaiptv.com/logo/tring_sport_news.png" group-title="Kanale Sport",Tring Sport News HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5682
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="http://luginaiptv.com/logo/tringsport1.png" group-title="Kanale Sport",Tring Sport 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5683
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="http://luginaiptv.com/logo/tringsport2.png" group-title="Kanale Sport",Tring Sport 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5684
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="http://luginaiptv.com/logo/tringsport3.png" group-title="Kanale Sport",Tring Sport 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5685
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="http://luginaiptv.com/logo/tringsport4.png" group-title="Kanale Sport",Tring Sport 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5686
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="https://luginaiptv.com/logo/rtshsport.png" group-title="Kanale Sport",RTSH Sport
-http://premium.luginaiptv.com:8000/Armendi/123456/5690
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1" tvg-logo="http://luginaiptv.com/logo/kujtesasport1.png" group-title="Kanale Sport",Kujtesa Sport 1
-http://premium.luginaiptv.com:8000/Armendi/123456/5687
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2" tvg-logo="http://luginaiptv.com/logo/kujtesasport2.png" group-title="Kanale Sport",Kujtesa Sport 2
-http://premium.luginaiptv.com:8000/Armendi/123456/5688
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3" tvg-logo="http://luginaiptv.com/logo/kujtesasport3.png" group-title="Kanale Sport",Kujtesa Sport 3
-http://premium.luginaiptv.com:8000/Armendi/123456/6419
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4" tvg-logo="http://luginaiptv.com/logo/kujtesasport4.png" group-title="Kanale Sport",Kujtesa Sport 4
-http://premium.luginaiptv.com:8000/Armendi/123456/6420
-#EXTINF:-1 tvg-id="" tvg-name="SK Sport N.ews HD" tvg-logo="http://luginaiptv.com/logo/sky_de_sport_news_hd.png" group-title="Kanale Sport",SK Sport N.ews HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5696
-#EXTINF:-1 tvg-id="" tvg-name="SK Sport 1 DE" tvg-logo="https://luginaiptv.com/logo/sky_uk_sports1_hd.png" group-title="Kanale Sport",SK Sport 1 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/7753
-#EXTINF:-1 tvg-id="" tvg-name="SK Sport 2 DE" tvg-logo="https://luginaiptv.com/logo/sky_uk_sports2.png" group-title="Kanale Sport",SK Sport 2 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/7754
-#EXTINF:-1 tvg-id="" tvg-name="SK Sport 1 HD DE" tvg-logo="https://luginaiptv.com/logo/sky_uk_sports1_hd.png" group-title="Kanale Sport",SK Sport 1 HD DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5694
-#EXTINF:-1 tvg-id="" tvg-name="Sk Sport 2 HD DE" tvg-logo="https://luginaiptv.com/logo/sky_uk_sports2.png" group-title="Kanale Sport",Sk Sport 2 HD DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5695
-#EXTINF:-1 tvg-id="" tvg-name="SK Sport Austria" tvg-logo="http://luginaiptv.com/logo/sky_de_sport_austria.png" group-title="Kanale Sport",SK Sport Austria
-http://premium.luginaiptv.com:8000/Armendi/123456/8272
-#EXTINF:-1 tvg-id="" tvg-name="SK Bun 1 DE" tvg-logo="https://luginaiptv.com/logo/301657_Sky_Sport_Bundesliga_1_HD.png" group-title="Kanale Sport",SK Bun 1 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5697
-#EXTINF:-1 tvg-id="" tvg-name="SK Bun 2 DE" tvg-logo="https://luginaiptv.com/logo/301658_Sky_Sport_Bundesliga_2_HD.png" group-title="Kanale Sport",SK Bun 2 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5698
-#EXTINF:-1 tvg-id="" tvg-name="SK Bun 3 DE" tvg-logo="https://luginaiptv.com/logo/301659_Sky_Sport_Bundesliga_3_HD.png" group-title="Kanale Sport",SK Bun 3 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5699
-#EXTINF:-1 tvg-id="" tvg-name="SK Bun 4 DE" tvg-logo="https://luginaiptv.com/logo/301660_Sky_Sport_Bundesliga_4_HD.png" group-title="Kanale Sport",SK Bun 4 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5700
-#EXTINF:-1 tvg-id="" tvg-name="SK Bun 5 DE" tvg-logo="https://luginaiptv.com/logo/301661_Sky_Sport_Bundesliga_5_HD.png" group-title="Kanale Sport",SK Bun 5 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5701
-#EXTINF:-1 tvg-id="" tvg-name="SK Bun 6 DE" tvg-logo="https://luginaiptv.com/logo/301662_Sky_Sport_Bundesliga_6_HD.png" group-title="Kanale Sport",SK Bun 6 DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5702
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="http://luginaiptv.com/logo/bt_sport_1_hd.png" group-title="Kanale Sport",BT Sport 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5713
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="http://luginaiptv.com/logo/bt_sport_2_hd.png" group-title="Kanale Sport",BT Sport 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5715
-#EXTINF:-1 tvg-id="" tvg-name="SK Sport F1 HD" tvg-logo="http://luginaiptv.com/logo/sky.sport.f1.png" group-title="Kanale Sport",SK Sport F1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6073
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SRB" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_1.png" group-title="Kanale Sport",Arena Sport 1 SRB
-http://premium.luginaiptv.com:8000/Armendi/123456/5726
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SRB" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_2.png" group-title="Kanale Sport",Arena Sport 2 SRB
-http://premium.luginaiptv.com:8000/Armendi/123456/5727
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 SRB" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_3.png" group-title="Kanale Sport",Arena Sport 3 SRB
-http://premium.luginaiptv.com:8000/Armendi/123456/5728
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 SRB" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_4.png" group-title="Kanale Sport",Arena Sport 4 SRB
-http://premium.luginaiptv.com:8000/Armendi/123456/5729
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 SRB" tvg-logo="https://luginaiptv.com/logo/arena_sport_rs_5.png" group-title="Kanale Sport",Arena Sport 5 SRB
-http://premium.luginaiptv.com:8000/Armendi/123456/5730
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HR" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_1.png" group-title="Kanale Sport",Arena Sport 1 HR
-http://premium.luginaiptv.com:8000/Armendi/123456/5721
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HR" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_2.png" group-title="Kanale Sport",Arena Sport 2 HR
-http://premium.luginaiptv.com:8000/Armendi/123456/5722
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HR" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_3.png" group-title="Kanale Sport",Arena Sport 3 HR
-http://premium.luginaiptv.com:8000/Armendi/123456/5723
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HR" tvg-logo="https://luginaiptv.com/logo/arena_sport_hr_4.png" group-title="Kanale Sport",Arena Sport 4 HR
-http://premium.luginaiptv.com:8000/Armendi/123456/5724
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HR" tvg-logo="https://luginaiptv.com/logo/arena_sport_rs_5.png" group-title="Kanale Sport",Arena Sport 5 HR
-http://premium.luginaiptv.com:8000/Armendi/123456/5725
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1" tvg-logo="https://luginaiptv.com/logo/sport_klub_me_1.png" group-title="Kanale Sport",Sport Klub 1
-http://premium.luginaiptv.com:8000/Armendi/123456/5731
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2" tvg-logo="https://luginaiptv.com/logo/sport_klub_rs_2.png" group-title="Kanale Sport",Sport Klub 2
-http://premium.luginaiptv.com:8000/Armendi/123456/5732
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3" tvg-logo="https://luginaiptv.com/logo/sport_klub_rs_3.png" group-title="Kanale Sport",Sport Klub 3
-http://premium.luginaiptv.com:8000/Armendi/123456/5733
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4" tvg-logo="http://luginaiptv.com/logo/sport-klub-4-700x466.png" group-title="Kanale Sport",Sport Klub 4
-http://premium.luginaiptv.com:8000/Armendi/123456/9221
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5" tvg-logo="http://luginaiptv.com/logo/sport-klub-5-700x466.png" group-title="Kanale Sport",Sport Klub 5
-http://premium.luginaiptv.com:8000/Armendi/123456/8834
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6" tvg-logo="http://luginaiptv.com/logo/sport-klub-6-700x466.png" group-title="Kanale Sport",Sport Klub 6
-http://premium.luginaiptv.com:8000/Armendi/123456/8835
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 Portugal" tvg-logo="https://luginaiptv.com/logo/sporttv2.png" group-title="Kanale Sport",Sport TV 1 Portugal
-http://premium.luginaiptv.com:8000/Armendi/123456/7367
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 Portugal" tvg-logo="https://luginaiptv.com/logo/sporttv22.png" group-title="Kanale Sport",Sport TV 2 Portugal
-http://premium.luginaiptv.com:8000/Armendi/123456/7368
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 Portugal" tvg-logo="https://luginaiptv.com/logo/sporttv3.png" group-title="Kanale Sport",Sport TV 3 Portugal
-http://premium.luginaiptv.com:8000/Armendi/123456/7371
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1" tvg-logo="https://luginaiptv.com/logo/beinturkey.jpg" group-title="Kanale Sport",TR: Bein Sport 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6674
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2" tvg-logo="https://luginaiptv.com/logo/beinturkey.jpg" group-title="Kanale Sport",TR: Bein Sport 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6675
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3" tvg-logo="https://luginaiptv.com/logo/beinturkey.jpg" group-title="Kanale Sport",TR: Bein Sport 3
-http://premium.luginaiptv.com:8000/Armendi/123456/6676
-#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport HD" tvg-logo="http://luginaiptv.com/logo/automotorsport.png" group-title="Kanale Sport",Auto Motor Sport HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8791
-#EXTINF:-1 tvg-id="" tvg-name="TRT Spor HD" tvg-logo="http://luginaiptv.com/logo/TRT_Spor.png" group-title="Kanale Sport",TRT Spor HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8804
-#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 1" tvg-logo="https://luginaiptv.com/logo/avatars-000335394613-kvru7x-t500x500.jpg" group-title="Kanale Sport",Tivibu Spor 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6677
-#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 2" tvg-logo="https://luginaiptv.com/logo/avatars-000335394613-kvru7x-t500x500.jpg" group-title="Kanale Sport",Tivibu Spor 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6678
-#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 3" tvg-logo="https://luginaiptv.com/logo/avatars-000335394613-kvru7x-t500x500.jpg" group-title="Kanale Sport",Tivibu Spor 3
-http://premium.luginaiptv.com:8000/Armendi/123456/6679
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 1" tvg-logo="https://luginaiptv.com/logo/foxsport.jpg" group-title="Kanale Sport",Fox Sport 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6680
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2" tvg-logo="https://luginaiptv.com/logo/foxsport.jpg" group-title="Kanale Sport",Fox Sport 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6681
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="https://luginaiptv.com/logo/foxsport.jpg" group-title="Kanale Sport",Fox Sport 3
-http://premium.luginaiptv.com:8000/Armendi/123456/6682
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD1.png" group-title="Kanale Sport",BEINSPORT 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5742
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 HD" tvg-logo="https://luginaiptv.com/logo/bein_sports_2.png" group-title="Kanale Sport",BEINSPORT 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5743
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 3 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD3.png" group-title="Kanale Sport",BEINSPORT 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5744
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 4 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD4.png" group-title="Kanale Sport",BEINSPORT 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5745
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 5 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD5.png" group-title="Kanale Sport",BEINSPORT 5 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5746
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 6 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD6.png" group-title="Kanale Sport",BEINSPORT 6 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5747
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 7 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD7.png" group-title="Kanale Sport",BEINSPORT 7 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5748
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 8 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD8.png" group-title="Kanale Sport",BEINSPORT 8 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5749
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 9 HD" tvg-logo="https://luginaiptv.com/logo/bein-sports-HD9.png" group-title="Kanale Sport",BEINSPORT 9 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6074
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 10 HD" tvg-logo="https://luginaiptv.com/logo/bein_sports_10.png" group-title="Kanale Sport",BEINSPORT 10 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6075
-#EXTINF:-1 tvg-id="" tvg-name="Motorvision HD" tvg-logo="https://luginaiptv.com/logo/Download.jpg" group-title="Kanale Gjermane",Motorvision HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7645
-#EXTINF:-1 tvg-id="" tvg-name="ORF Sport+ HD" tvg-logo="http://luginaiptv.com/logo/ORF%20SPORT%20PLUS-57070335-01.png" group-title="Kanale Sport",ORF Sport+ HD
-http://premium.luginaiptv.com:8000/Armendi/123456/9001
-#EXTINF:-1 tvg-id="" tvg-name="Zee One HD" tvg-logo="https://luginaiptv.com/logo/Zee_One_Logo_2017.svg.png" group-title="Kanale Gjermane",Zee One HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7749
-#EXTINF:-1 tvg-id="" tvg-name="SRF 2 HD" tvg-logo="https://luginaiptv.com/logo/srf_2_ch_hd.png" group-title="Kanale Gjermane",SRF 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5940
-#EXTINF:-1 tvg-id="" tvg-name="SRF Info" tvg-logo="http://luginaiptv.com/logo/SRFInfo.png" group-title="Kanale Gjermane",SRF Info
-http://premium.luginaiptv.com:8000/Armendi/123456/8624
-#EXTINF:-1 tvg-id="" tvg-name="Swiss 1 HD" tvg-logo="http://luginaiptv.com/logo/Swiss1.png" group-title="Kanale Gjermane",Swiss 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8623
-#EXTINF:-1 tvg-id="" tvg-name="Tele M1" tvg-logo="http://luginaiptv.com/logo/TeleM1.png" group-title="Kanale Gjermane",Tele M1
-http://premium.luginaiptv.com:8000/Armendi/123456/8619
-#EXTINF:-1 tvg-id="" tvg-name="ARD HD" tvg-logo="https://luginaiptv.com/logo/ard.png" group-title="Kanale Gjermane",ARD HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5968
-#EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-logo="https://luginaiptv.com/logo/zdf_de_hd.png" group-title="Kanale Gjermane",ZDF HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5953
-#EXTINF:-1 tvg-id="" tvg-name="ZDF Info" tvg-logo="https://luginaiptv.com/logo/ZDF_info_HD.jpg" group-title="Kanale Gjermane",ZDF Info
-http://premium.luginaiptv.com:8000/Armendi/123456/6371
-#EXTINF:-1 tvg-id="" tvg-name="ZDF INFO HD" tvg-logo="https://luginaiptv.com/logo/ZDFinfo.png" group-title="Kanale Gjermane",ZDF INFO HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5956
-#EXTINF:-1 tvg-id="" tvg-name="ZDF Neo" tvg-logo="https://luginaiptv.com/logo/ZDFneo-HD.png" group-title="Kanale Gjermane",ZDF Neo
-http://premium.luginaiptv.com:8000/Armendi/123456/6357
-#EXTINF:-1 tvg-id="" tvg-name="SAT 1 HD" tvg-logo="https://luginaiptv.com/logo/Sat.1.png" group-title="Kanale Gjermane",SAT 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5948
-#EXTINF:-1 tvg-id="" tvg-name="SAT 1 Emotions HD" tvg-logo="http://luginaiptv.com/logo/Sat1EMOTIONS.png" group-title="Kanale Gjermane",SAT 1 Emotions HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8628
-#EXTINF:-1 tvg-id="" tvg-name="SAT 1 Gold HD" tvg-logo="http://luginaiptv.com/logo/Sat1GOLD.png" group-title="Kanale Gjermane",SAT 1 Gold HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8629
-#EXTINF:-1 tvg-id="" tvg-name="PRO 7 HD" tvg-logo="https://luginaiptv.com/logo/Pro7-HD.png" group-title="Kanale Gjermane",PRO 7 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5946
-#EXTINF:-1 tvg-id="" tvg-name="Pro 7 Fun HD" tvg-logo="http://luginaiptv.com/logo/Pro7Fun.png" group-title="Kanale Gjermane",Pro 7 Fun HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8627
-#EXTINF:-1 tvg-id="" tvg-name="Pro 7 Maxx HD" tvg-logo="https://luginaiptv.com/logo/Pro7-Maxx.png" group-title="Kanale Gjermane",Pro 7 Maxx HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6353
-#EXTINF:-1 tvg-id="" tvg-name="VOX HD" tvg-logo="https://luginaiptv.com/logo/VOX-HD.png" group-title="Kanale Gjermane",VOX HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5958
-#EXTINF:-1 tvg-id="" tvg-name="KABEL EINS HD" tvg-logo="https://luginaiptv.com/logo/kabel-eins.png" group-title="Kanale Gjermane",KABEL EINS HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5967
-#EXTINF:-1 tvg-id="" tvg-name="Kabel Eins Classic HD" tvg-logo="http://luginaiptv.com/logo/KabelEinsClassic.png" group-title="Kanale Gjermane",Kabel Eins Classic HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8632
-#EXTINF:-1 tvg-id="" tvg-name="Kabel Eins Doku HD" tvg-logo="http://luginaiptv.com/logo/KabelEinsDoku.png" group-title="Kanale Gjermane",Kabel Eins Doku HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8633
-#EXTINF:-1 tvg-id="" tvg-name="RTL HD" tvg-logo="https://luginaiptv.com/logo/RTL.png" group-title="Kanale Gjermane",RTL HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5941
-#EXTINF:-1 tvg-id="" tvg-name="RTL Plus" tvg-logo="http://luginaiptv.com/logo/RTLPlus.png" group-title="Kanale Gjermane",RTL Plus
-http://premium.luginaiptv.com:8000/Armendi/123456/8625
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HD" tvg-logo="http://luginaiptv.com/logo/rtl2_de_hd.png" group-title="Kanale Gjermane",RTL 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5945
-#EXTINF:-1 tvg-id="" tvg-name="RTL LIVING" tvg-logo="https://luginaiptv.com/logo/RTL-Living-HD.png" group-title="Kanale Gjermane",RTL LIVING
-http://premium.luginaiptv.com:8000/Armendi/123456/5944
-#EXTINF:-1 tvg-id="" tvg-name="RTL NITRO HD" tvg-logo="https://luginaiptv.com/logo/rtl-nitro.jpg" group-title="Kanale Gjermane",RTL NITRO HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5943
-#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION" tvg-logo="https://luginaiptv.com/logo/RTL-Passion.png" group-title="Kanale Gjermane",RTL PASSION
-http://premium.luginaiptv.com:8000/Armendi/123456/5942
-#EXTINF:-1 tvg-id="" tvg-name="RTL Crime" tvg-logo="https://luginaiptv.com/logo/rtl_crime_de.png" group-title="Kanale Gjermane",RTL Crime
-http://premium.luginaiptv.com:8000/Armendi/123456/7374
-#EXTINF:-1 tvg-id="" tvg-name="SUPER RTL HD" tvg-logo="https://luginaiptv.com/logo/Super-RTL-HD.png" group-title="Kanale Gjermane",SUPER RTL HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5960
-#EXTINF:-1 tvg-id="" tvg-name="HR Fernsehen HD" tvg-logo="https://luginaiptv.com/logo/Hr-fernsehen_HD.svg.png" group-title="Kanale Gjermane",HR Fernsehen HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8600
-#EXTINF:-1 tvg-id="" tvg-name="Sixx" tvg-logo="http://luginaiptv.com/logo/SIXX.png" group-title="Kanale Gjermane",Sixx
-http://premium.luginaiptv.com:8000/Armendi/123456/6183
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://luginaiptv.com/logo/TLC%20HD.png" group-title="Kanale Gjermane",TLC
-http://premium.luginaiptv.com:8000/Armendi/123456/8630
-#EXTINF:-1 tvg-id="" tvg-name="WDR HD" tvg-logo="https://luginaiptv.com/logo/WDR-HD.png" group-title="Kanale Gjermane",WDR HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5957
-#EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo="https://luginaiptv.com/logo/arte.png" group-title="Kanale Gjermane",ARTE HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5970
-#EXTINF:-1 tvg-id="" tvg-name="ORF 1 HD" tvg-logo="https://luginaiptv.com/logo/orf_eins_hd.png" group-title="Kanale Gjermane",ORF 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5950
-#EXTINF:-1 tvg-id="" tvg-name="ORF 2 HD" tvg-logo="https://luginaiptv.com/logo/orf_2_at_hd.png" group-title="Kanale Gjermane",ORF 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5951
-#EXTINF:-1 tvg-id="" tvg-name="ORF 3 HD" tvg-logo="http://luginaiptv.com/logo/ORF_III_HD_Logo_Monochrom.svg.png" group-title="Kanale Gjermane",ORF 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8984
-#EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="http://luginaiptv.com/logo/N24-HD.png" group-title="Kanale Gjermane",N24
-http://premium.luginaiptv.com:8000/Armendi/123456/6179
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://luginaiptv.com/logo/dmax_de_hd.png" group-title="Kanale Gjermane",DMAX
-http://premium.luginaiptv.com:8000/Armendi/123456/5952
-#EXTINF:-1 tvg-id="" tvg-name="KIKA HD" tvg-logo="https://luginaiptv.com/logo/KiKA-HD.png" group-title="Kanale Gjermane",KIKA HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5963
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://luginaiptv.com/logo/disney_channel_global_hd.png" group-title="Kanale Gjermane",DISNEY CHANNEL
-http://premium.luginaiptv.com:8000/Armendi/123456/5962
-#EXTINF:-1 tvg-id="" tvg-name="Disney Cinemagic HD" tvg-logo="http://luginaiptv.com/logo/Disney-Cinemagic.png" group-title="Kanale Gjermane",Disney Cinemagic HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8787
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="http://luginaiptv.com/logo/Disney_Junior_Logo.png" group-title="Kanale Gjermane",Disney Junior HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8788
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://luginaiptv.com/logo/disney_xd_1.png" group-title="Kanale Gjermane",Disney XD
-http://premium.luginaiptv.com:8000/Armendi/123456/8786
-#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus" tvg-logo="http://luginaiptv.com/logo/ToggoPlus.png" group-title="Kanale Gjermane",Toggo Plus
-http://premium.luginaiptv.com:8000/Armendi/123456/8785
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIE" tvg-logo="https://luginaiptv.com/logo/TNT-Serie.png" group-title="Kanale Gjermane",TNT SERIE
-http://premium.luginaiptv.com:8000/Armendi/123456/5973
-#EXTINF:-1 tvg-id="" tvg-name="TNT Film" tvg-logo="http://luginaiptv.com/logo/tnt_film.png" group-title="Kanale Gjermane",TNT Film
-http://premium.luginaiptv.com:8000/Armendi/123456/6180
-#EXTINF:-1 tvg-id="" tvg-name="13th STREET HD DE" tvg-logo="https://luginaiptv.com/logo/13th_street_de.png" group-title="Kanale Gjermane",13th STREET HD DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5974
-#EXTINF:-1 tvg-id="" tvg-name="SK ACTION" tvg-logo="http://luginaiptv.com/logo/sky_de_action_hd.png" group-title="Kanale Gjermane",SK ACTION
-http://premium.luginaiptv.com:8000/Armendi/123456/5982
-#EXTINF:-1 tvg-id="" tvg-name="SK ATLANTIC" tvg-logo="" group-title="Kanale Gjermane",SK ATLANTIC
-http://premium.luginaiptv.com:8000/Armendi/123456/5981
-#EXTINF:-1 tvg-id="" tvg-name="SK CINEMA  24" tvg-logo="" group-title="Kanale Gjermane",SK CINEMA  24
-http://premium.luginaiptv.com:8000/Armendi/123456/5979
-#EXTINF:-1 tvg-id="" tvg-name="SK COMEDY DE" tvg-logo="" group-title="Kanale Gjermane",SK COMEDY DE
-http://premium.luginaiptv.com:8000/Armendi/123456/5978
-#EXTINF:-1 tvg-id="" tvg-name="SK EMOTION" tvg-logo="http://luginaiptv.com/logo/sky_de_emotion.png" group-title="Kanale Gjermane",SK EMOTION
-http://premium.luginaiptv.com:8000/Armendi/123456/5984
-#EXTINF:-1 tvg-id="" tvg-name="SK Krimi" tvg-logo="http://luginaiptv.com/logo/sky_de_krimi.png" group-title="Kanale Gjermane",SK Krimi
-http://premium.luginaiptv.com:8000/Armendi/123456/6181
-#EXTINF:-1 tvg-id="" tvg-name="SK CINEMA +1 HD" tvg-logo="http://luginaiptv.com/logo/SkyCinema%2B1.png" group-title="Kanale Gjermane",SK CINEMA +1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8645
-#EXTINF:-1 tvg-id="" tvg-name="SK CINEMA FAMILY HD" tvg-logo="http://luginaiptv.com/logo/SkyCinemaFamily.png" group-title="Kanale Gjermane",SK CINEMA FAMILY HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8646
-#EXTINF:-1 tvg-id="" tvg-name="SK CINEMA HITS HD" tvg-logo="http://luginaiptv.com/logo/SkyCinemaHits.png" group-title="Kanale Gjermane",SK CINEMA HITS HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8647
-#EXTINF:-1 tvg-id="" tvg-name="SK Sy Fy HD" tvg-logo="http://luginaiptv.com/logo/SyFyHD.png" group-title="Kanale Gjermane",SK Sy Fy HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8642
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD DE" tvg-logo="http://luginaiptv.com/logo/Discovery-Channel.png" group-title="Kanale Gjermane",Discovery Channel HD DE
-http://premium.luginaiptv.com:8000/Armendi/123456/8639
-#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="http://luginaiptv.com/logo/History_HD_2015_logo.png" group-title="Kanale Gjermane",History Channel HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8641
-#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD" tvg-logo="http://luginaiptv.com/logo/SpiegelGeschichteHD.png" group-title="Kanale Gjermane",Spiegel Geschichte HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8637
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD DE" tvg-logo="http://luginaiptv.com/logo/Nat-Geo.png" group-title="Kanale Gjermane",Nat Geo HD DE
-http://premium.luginaiptv.com:8000/Armendi/123456/8640
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD DE" tvg-logo="http://luginaiptv.com/logo/Nat-Geo-Wild.png" group-title="Kanale Gjermane",Nat Geo Wild HD DE
-http://premium.luginaiptv.com:8000/Armendi/123456/6107
-#EXTINF:-1 tvg-id="" tvg-name="SK NOSTALGIE" tvg-logo="http://luginaiptv.com/logo/sky_de_nostalgie.png" group-title="Kanale Gjermane",SK NOSTALGIE
-http://premium.luginaiptv.com:8000/Armendi/123456/5983
-#EXTINF:-1 tvg-id="" tvg-name="SK Sel.  1 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK Sel.  1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5985
-#EXTINF:-1 tvg-id="" tvg-name="SK Sel.  2 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK Sel.  2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5986
-#EXTINF:-1 tvg-id="" tvg-name="SK Sel.  3 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK Sel.  3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5987
-#EXTINF:-1 tvg-id="" tvg-name="SK Sel.  4 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK Sel.  4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5988
-#EXTINF:-1 tvg-id="" tvg-name="SK Sel. 5 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK Sel. 5 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5989
-#EXTINF:-1 tvg-id="" tvg-name="SK Sel.  6 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK Sel.  6 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5990
-#EXTINF:-1 tvg-id="" tvg-name="SK Sel.  7 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK Sel.  7 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5991
-#EXTINF:-1 tvg-id="" tvg-name="SK SEL. 8 HD" tvg-logo="http://luginaiptv.com/logo/logo_sky%20select%204.png.jpg" group-title="Kanale Gjermane",SK SEL. 8 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5992
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://luginaiptv.com/logo/axn_global.png" group-title="Kanale Gjermane",AXN HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5969
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://luginaiptv.com/logo/phoenix.png" group-title="Kanale Gjermane",Phoenix
-http://premium.luginaiptv.com:8000/Armendi/123456/6359
-#EXTINF:-1 tvg-id="" tvg-name="Muenchen TV" tvg-logo="https://luginaiptv.com/logo/munchen.png" group-title="Kanale Gjermane",Muenchen TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6378
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang Carton" tvg-logo="https://luginaiptv.com/logo/Logo_Boomerang_2014.png" group-title="Kanale Gjermane",Boomerang Carton
-http://premium.luginaiptv.com:8000/Armendi/123456/7642
-#EXTINF:-1 tvg-id="" tvg-name="Kinowelt TV" tvg-logo="https://luginaiptv.com/logo/Download%20(1).png" group-title="Kanale Gjermane",Kinowelt TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7640
-#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="https://luginaiptv.com/logo/Fox.png" group-title="Kanale Gjermane",Fox HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7632
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://luginaiptv.com/logo/CartoonNetwork.png" group-title="Kanale Gjermane",Cartoon Network
-http://premium.luginaiptv.com:8000/Armendi/123456/7641
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://luginaiptv.com/logo/Mtv.webp" group-title="Kanale Gjermane",MTV
-http://premium.luginaiptv.com:8000/Armendi/123456/7648
-#EXTINF:-1 tvg-id="" tvg-name="Romance TV" tvg-logo="https://luginaiptv.com/logo/Romance_TV_Logo_10.2019.svg.png" group-title="Kanale Gjermane",Romance TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7639
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="https://luginaiptv.com/logo/Sony_Entertainment_Television_logo.png" group-title="Kanale Gjermane",Sony TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7637
-#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="http://luginaiptv.com/TRTWorld.png" group-title="Kanale Turke",TRT World
-http://premium.luginaiptv.com:8000/Armendi/123456/8669
-#EXTINF:-1 tvg-id="" tvg-name="A2 HD" tvg-logo="http://luginaiptv.com/a2.png" group-title="Kanale Turke",A2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8667
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network TR" tvg-logo="http://luginaiptv.com/logo/cartoonnetwork.png" group-title="Kanale Turke",Cartoon Network TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8799
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel TR" tvg-logo="http://luginaiptv.com/logo/Disneychannel.png" group-title="Kanale Turke",Disney Channel TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8800
-#EXTINF:-1 tvg-id="" tvg-name="History Channel TR" tvg-logo="http://luginaiptv.com/logo/History.png" group-title="Kanale Turke",History Channel TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8663
-#EXTINF:-1 tvg-id="" tvg-name="KRAL Pop" tvg-logo="http://luginaiptv.com/logo/kralpop.png" group-title="Kanale Turke",KRAL Pop
-http://premium.luginaiptv.com:8000/Armendi/123456/8802
-#EXTINF:-1 tvg-id="" tvg-name="Minika Cocuk" tvg-logo="http://luginaiptv.com/logo/minikacocuk.png" group-title="Kanale Turke",Minika Cocuk
-http://premium.luginaiptv.com:8000/Armendi/123456/8798
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild TR" tvg-logo="http://luginaiptv.com/logo/NatGeoWild.png" group-title="Kanale Turke",Nat Geo Wild TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8662
-#EXTINF:-1 tvg-id="" tvg-name="Planet Cocuk" tvg-logo="http://luginaiptv.com/logo/planetcocuk.png" group-title="Kanale Turke",Planet Cocuk
-http://premium.luginaiptv.com:8000/Armendi/123456/8801
-#EXTINF:-1 tvg-id="" tvg-name="Power Turk HD" tvg-logo="http://luginaiptv.com/logo/PowerTurkHD.jpg" group-title="Kanale Turke",Power Turk HD
-http://premium.luginaiptv.com:8000/Armendi/123456/9189
-#EXTINF:-1 tvg-id="" tvg-name="Salon 1" tvg-logo="http://luginaiptv.com/Salon1.png" group-title="Kanale Turke",Salon 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8673
-#EXTINF:-1 tvg-id="" tvg-name="Salon 2" tvg-logo="http://luginaiptv.com/Salon2.png" group-title="Kanale Turke",Salon 2
-http://premium.luginaiptv.com:8000/Armendi/123456/8674
-#EXTINF:-1 tvg-id="" tvg-name="TRT Avaz HD" tvg-logo="http://luginaiptv.com/logo/trtavaz.png" group-title="Kanale Turke",TRT Avaz HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8796
-#EXTINF:-1 tvg-id="" tvg-name="Yaban TV" tvg-logo="http://luginaiptv.com/logo/yabantv.png" group-title="Kanale Turke",Yaban TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8928
-#EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="http://luginaiptv.com/logo/EuroStar.png" group-title="Kanale Turke",Euro D
-http://premium.luginaiptv.com:8000/Armendi/123456/8651
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 7 HD" tvg-logo="http://luginaiptv.com/logo/Kanal7.png" group-title="Kanale Turke",Kanal 7 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8652
-#EXTINF:-1 tvg-id="" tvg-name="NR 1 Turk TV HD" tvg-logo="http://luginaiptv.com/logo/nr1turk.png" group-title="Kanale Turke",NR 1 Turk TV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8658
-#EXTINF:-1 tvg-id="" tvg-name="Power HD" tvg-logo="http://luginaiptv.com/logo/PowerHD.png" group-title="Kanale Turke",Power HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8659
-#EXTINF:-1 tvg-id="" tvg-name="Salon 3" tvg-logo="http://luginaiptv.com/Salon3.png" group-title="Kanale Turke",Salon 3
-http://premium.luginaiptv.com:8000/Armendi/123456/8675
-#EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel." tvg-logo="http://luginaiptv.com/logo/TGRT%20Belgesel.png" group-title="Kanale Turke",TRT Belgesel.
-http://premium.luginaiptv.com:8000/Armendi/123456/8656
-#EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" tvg-logo="http://luginaiptv.com/logo/TGRT%20Haber.png" group-title="Kanale Turke",TGRT Haber
-http://premium.luginaiptv.com:8000/Armendi/123456/8657
-#EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="http://luginaiptv.com/logo/TV8.5.png" group-title="Kanale Turke",TV 8.5
-http://premium.luginaiptv.com:8000/Armendi/123456/8654
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="" group-title="Kanale Turke",TRT 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5994
-#EXTINF:-1 tvg-id="" tvg-name="TRT Arapca" tvg-logo="" group-title="Kanale Turke",TRT Arapca
-http://premium.luginaiptv.com:8000/Armendi/123456/6067
-#EXTINF:-1 tvg-id="" tvg-name="TRT Cocuk" tvg-logo="" group-title="Kanale Turke",TRT Cocuk
-http://premium.luginaiptv.com:8000/Armendi/123456/6064
-#EXTINF:-1 tvg-id="" tvg-name="TRT Diyanet" tvg-logo="" group-title="Kanale Turke",TRT Diyanet
-http://premium.luginaiptv.com:8000/Armendi/123456/6071
-#EXTINF:-1 tvg-id="" tvg-name="TRT Haber HD" tvg-logo="" group-title="Kanale Turke",TRT Haber HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5995
-#EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK" tvg-logo="" group-title="Kanale Turke",TRT MUZIK
-http://premium.luginaiptv.com:8000/Armendi/123456/5996
-#EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="" group-title="Kanale Turke",TRT Turk
-http://premium.luginaiptv.com:8000/Armendi/123456/6063
-#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="Kanale Turke",ATV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5997
-#EXTINF:-1 tvg-id="" tvg-name="KRAL TV" tvg-logo="" group-title="Kanale Turke",KRAL TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6004
-#EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="" group-title="Kanale Turke",Show TV
-http://premium.luginaiptv.com:8000/Armendi/123456/5999
-#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo="" group-title="Kanale Turke",TV 8 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6003
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA" tvg-logo="" group-title="Kanale Turke",KANAL 7 AVRUPA
-http://premium.luginaiptv.com:8000/Armendi/123456/6006
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="Kanale Turke",KANAL D
-http://premium.luginaiptv.com:8000/Armendi/123456/6005
-#EXTINF:-1 tvg-id="" tvg-name="HABER TURK" tvg-logo="" group-title="Kanale Turke",HABER TURK
-http://premium.luginaiptv.com:8000/Armendi/123456/6009
-#EXTINF:-1 tvg-id="" tvg-name="HAPPY TV" tvg-logo="" group-title="Kanale Ballkan",HAPPY TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6025
-#EXTINF:-1 tvg-id="" tvg-name="HAYAT FOLK" tvg-logo="" group-title="Kanale Ballkan",HAYAT FOLK
-http://premium.luginaiptv.com:8000/Armendi/123456/6024
-#EXTINF:-1 tvg-id="" tvg-name="HAYAT PLUS" tvg-logo="" group-title="Kanale Ballkan",HAYAT PLUS
-http://premium.luginaiptv.com:8000/Armendi/123456/6023
-#EXTINF:-1 tvg-id="" tvg-name="HAYAT TV" tvg-logo="" group-title="Kanale Ballkan",HAYAT TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6022
-#EXTINF:-1 tvg-id="" tvg-name="FOX TURK" tvg-logo="" group-title="Kanale Turke",FOX TURK
-http://premium.luginaiptv.com:8000/Armendi/123456/5998
-#EXTINF:-1 tvg-id="" tvg-name="Dream Turk" tvg-logo="" group-title="Kanale Turke",Dream Turk
-http://premium.luginaiptv.com:8000/Armendi/123456/6008
-#EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" group-title="Kanale Turke",CNN TURK
-http://premium.luginaiptv.com:8000/Armendi/123456/6002
-#EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="" group-title="Kanale Turke",24 TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7709
-#EXTINF:-1 tvg-id="" tvg-name="Bengu Turk" tvg-logo="" group-title="Kanale Turke",Bengu Turk
-http://premium.luginaiptv.com:8000/Armendi/123456/7708
-#EXTINF:-1 tvg-id="" tvg-name="Beyaz TV" tvg-logo="" group-title="Kanale Turke",Beyaz TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7705
-#EXTINF:-1 tvg-id="" tvg-name="Cem TV" tvg-logo="" group-title="Kanale Turke",Cem TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7710
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="Kanale Turke",Discovery
-http://premium.luginaiptv.com:8000/Armendi/123456/7711
-#EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="" group-title="Kanale Turke",Halk TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7715
-#EXTINF:-1 tvg-id="" tvg-name="Semerkand TV" tvg-logo="" group-title="Kanale Turke",Semerkand TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7742
-#EXTINF:-1 tvg-id="" tvg-name="Teve 2" tvg-logo="" group-title="Kanale Turke",Teve 2
-http://premium.luginaiptv.com:8000/Armendi/123456/7723
-#EXTINF:-1 tvg-id="" tvg-name="Ulke TV" tvg-logo="" group-title="Kanale Turke",Ulke TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7743
-#EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="" group-title="Kanale Turke",360 TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7713
-#EXTINF:-1 tvg-id="" tvg-name="Bella Amie" tvg-logo="http://luginaiptv.com/logo/belleaime.jpg" group-title="Kanale Ballkan",Bella Amie
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MRT 3" tvg-logo="http://luginaiptv.com/logo/MRT_3_new_logo.png" group-title="Kanale Ballkan",MRT 3
-http://premium.luginaiptv.com:8000/Armendi/123456/8938
-#EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="http://luginaiptv.com/logo/nashatv.jpg" group-title="Kanale Ballkan",Nasa TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8940
-#EXTINF:-1 tvg-id="" tvg-name="Palma Plus" tvg-logo="http://luginaiptv.com/logo/palmaplus.png" group-title="Kanale Ballkan",Palma Plus
-http://premium.luginaiptv.com:8000/Armendi/123456/8944
-#EXTINF:-1 tvg-id="" tvg-name="RT Banovina HR" tvg-logo="http://luginaiptv.com/logo/banovina.png" group-title="Kanale Ballkan",RT Banovina HR
-http://premium.luginaiptv.com:8000/Armendi/123456/8933
-#EXTINF:-1 tvg-id="" tvg-name="RTS Satelit" tvg-logo="http://luginaiptv.com/logo/rtssat.png" group-title="Kanale Ballkan",RTS Satelit
-http://premium.luginaiptv.com:8000/Armendi/123456/8946
-#EXTINF:-1 tvg-id="" tvg-name="TV Kladovo" tvg-logo="http://luginaiptv.com/logo/kladovo.jpg" group-title="Kanale Ballkan",TV Kladovo
-http://premium.luginaiptv.com:8000/Armendi/123456/8949
-#EXTINF:-1 tvg-id="" tvg-name="TV7 Crna Gora" tvg-logo="http://luginaiptv.com/logo/fe9aac50b87d4ccfe79ee85df17618ba.png" group-title="Kanale Ballkan",TV7 Crna Gora
-https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w465598481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alternativna TV" tvg-logo="https://luginaiptv.com/logo/Logotip_rebrendirani_ATV.png" group-title="Kanale Ballkan",Alternativna TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8951
-#EXTINF:-1 tvg-id="" tvg-name="Bosna TV1" tvg-logo="http://luginaiptv.com/logo/bosnatv1.jpg" group-title="Kanale Ballkan",Bosna TV1
-http://premium.luginaiptv.com:8000/Armendi/123456/8870
-#EXTINF:-1 tvg-id="" tvg-name="Glas Drine" tvg-logo="http://luginaiptv.com/logo/glasdrine.png" group-title="Kanale Ballkan",Glas Drine
-http://premium.luginaiptv.com:8000/Armendi/123456/8904
-#EXTINF:-1 tvg-id="" tvg-name="GOLICA" tvg-logo="http://luginaiptv.com/logo/logo3.png" group-title="Kanale Ballkan",GOLICA
-http://premium.luginaiptv.com:8000/Armendi/123456/8977
-#EXTINF:-1 tvg-id="" tvg-name="PLANET TV" tvg-logo="http://luginaiptv.com/logo/planet_tv.jpg" group-title="Kanale Ballkan",PLANET TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8971
-#EXTINF:-1 tvg-id="" tvg-name="POP BRIO" tvg-logo="http://luginaiptv.com/logo/logo-popbrio.jpg" group-title="Kanale Ballkan",POP BRIO
-http://premium.luginaiptv.com:8000/Armendi/123456/8970
-#EXTINF:-1 tvg-id="" tvg-name="POP OTO" tvg-logo="http://luginaiptv.com/logo/logo-popoto.jpg" group-title="Kanale Ballkan",POP OTO
-http://premium.luginaiptv.com:8000/Armendi/123456/8968
-#EXTINF:-1 tvg-id="" tvg-name="RTCG 1" tvg-logo="http://luginaiptv.com/logo/RTCG1_logo_2012.png" group-title="Kanale Ballkan",RTCG 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8957
-#EXTINF:-1 tvg-id="" tvg-name="RTCG 2" tvg-logo="http://luginaiptv.com/logo/RTCG2_logo_2012.png" group-title="Kanale Ballkan",RTCG 2
-http://premium.luginaiptv.com:8000/Armendi/123456/9049
-#EXTINF:-1 tvg-id="" tvg-name="RTCG SAT" tvg-logo="http://luginaiptv.com/logo/Download.png" group-title="Kanale Ballkan",RTCG SAT
-http://premium.luginaiptv.com:8000/Armendi/123456/8956
-#EXTINF:-1 tvg-id="" tvg-name="RTL Crime HR" tvg-logo="http://luginaiptv.com/logo/RTL-Crime-HD.png" group-title="Kanale Ballkan",RTL Crime HR
-http://premium.luginaiptv.com:8000/Armendi/123456/8907
-#EXTINF:-1 tvg-id="" tvg-name="RTL Living HR" tvg-logo="http://luginaiptv.com/logo/RTL-Living-HD.png" group-title="Kanale Ballkan",RTL Living HR
-http://premium.luginaiptv.com:8000/Armendi/123456/8905
-#EXTINF:-1 tvg-id="" tvg-name="RTL Passion HR" tvg-logo="http://luginaiptv.com/logo/RTL-Passion.png" group-title="Kanale Ballkan",RTL Passion HR
-http://premium.luginaiptv.com:8000/Armendi/123456/8906
-#EXTINF:-1 tvg-id="" tvg-name="Tiankov Orient Folk" tvg-logo="http://luginaiptv.com/logo/tiankovorient.png" group-title="Kanale Ballkan",Tiankov Orient Folk
-http://premium.luginaiptv.com:8000/Armendi/123456/9052
-#EXTINF:-1 tvg-id="" tvg-name="TV Duga +" tvg-logo="http://luginaiptv.com/logo/tvduga%2B.png" group-title="Kanale Ballkan",TV Duga +
-http://premium.luginaiptv.com:8000/Armendi/123456/8922
-#EXTINF:-1 tvg-id="" tvg-name="TV Sehara HD" tvg-logo="http://luginaiptv.com/logo/unnamed.png" group-title="Kanale Ballkan",TV Sehara HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8833
-#EXTINF:-1 tvg-id="" tvg-name="TV Vijesti" tvg-logo="http://luginaiptv.com/logo/TVvijesti.jpg" group-title="Kanale Ballkan",TV Vijesti
-http://premium.luginaiptv.com:8000/Armendi/123456/8871
-#EXTINF:-1 tvg-id="" tvg-name="RTV USK HD" tvg-logo="https://luginaiptv.com/logo/rtv-usk-logo.png" group-title="Kanale Ballkan",RTV USK HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8902
-#EXTINF:-1 tvg-id="" tvg-name="Vojvodina 1" tvg-logo="https://luginaiptv.com/logo/rtv-1.png" group-title="Kanale Ballkan",Vojvodina 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8950
-#EXTINF:-1 tvg-id="" tvg-name="Yu Planet" tvg-logo="http://luginaiptv.com/logo/novi-logo.png" group-title="Kanale Ballkan",Yu Planet
-http://premium.luginaiptv.com:8000/Armendi/123456/8920
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Balkan" tvg-logo="http://luginaiptv.com/logo/aljazeerabalkans.png" group-title="Kanale Ballkan",Al Jazeera Balkan
-http://premium.luginaiptv.com:8000/Armendi/123456/8691
-#EXTINF:-1 tvg-id="" tvg-name="BN BiH" tvg-logo="http://luginaiptv.com/logo/bn.png" group-title="Kanale Ballkan",BN BiH
-http://premium.luginaiptv.com:8000/Armendi/123456/8761
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 1" tvg-logo="http://luginaiptv.com/logo/CinemaxHD.png" group-title="Kanale Ballkan",CINEMAX 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8699
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 2" tvg-logo="http://luginaiptv.com/logo/Cinemax2.png" group-title="Kanale Ballkan",CINEMAX 2
-http://premium.luginaiptv.com:8000/Armendi/123456/8698
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Action" tvg-logo="http://luginaiptv.com/logo/CinestarAction.png" group-title="Kanale Ballkan",Cinestar Action
-http://premium.luginaiptv.com:8000/Armendi/123456/8696
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 1" tvg-logo="http://luginaiptv.com/logo/CinestarPremiere1.png" group-title="Kanale Ballkan",Cinestar Premiere 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8695
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 2" tvg-logo="http://luginaiptv.com/logo/CinestarPremiere2.png" group-title="Kanale Ballkan",Cinestar Premiere 2
-http://premium.luginaiptv.com:8000/Armendi/123456/8694
-#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV" tvg-logo="http://luginaiptv.com/logo/CinestarTV.png" group-title="Kanale Ballkan",Cinestar TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8697
-#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="http://luginaiptv.com/logo/CMC_TV_logo.png" group-title="Kanale Ballkan",CMC
-http://premium.luginaiptv.com:8000/Armendi/123456/8757
-#EXTINF:-1 tvg-id="" tvg-name="Face TV" tvg-logo="http://luginaiptv.com/logo/FACETV.png" group-title="Kanale Ballkan",Face TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8690
-#EXTINF:-1 tvg-id="" tvg-name="HAYAT MUSIC" tvg-logo="http://luginaiptv.com/logo/hayatmusic.png" group-title="Kanale Ballkan",HAYAT MUSIC
-http://premium.luginaiptv.com:8000/Armendi/123456/8743
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://luginaiptv.com/logo/HBO2.png" group-title="Kanale Ballkan",HBO 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8693
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://luginaiptv.com/logo/HBO.png" group-title="Kanale Ballkan",HBO HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8692
-#EXTINF:-1 tvg-id="" tvg-name="HR Discovery Channel" tvg-logo="http://luginaiptv.com/logo/DISCOVERY_CHANNEL_HD_2014.png" group-title="Kanale Ballkan",HR Discovery Channel
-http://premium.luginaiptv.com:8000/Armendi/123456/8753
-#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="http://luginaiptv.com/logo/kcn1.png" group-title="Kanale Ballkan",KCN 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8756
-#EXTINF:-1 tvg-id="" tvg-name="KCN 2" tvg-logo="http://luginaiptv.com/logo/kcn2.png" group-title="Kanale Ballkan",KCN 2
-http://premium.luginaiptv.com:8000/Armendi/123456/8755
-#EXTINF:-1 tvg-id="" tvg-name="KCN 3" tvg-logo="http://luginaiptv.com/logo/kcn3.png" group-title="Kanale Ballkan",KCN 3
-http://premium.luginaiptv.com:8000/Armendi/123456/8754
-#EXTINF:-1 tvg-id="" tvg-name="Klasik TV" tvg-logo="http://luginaiptv.com/logo/klasiktv.png" group-title="Kanale Ballkan",Klasik TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8759
-#EXTINF:-1 tvg-id="" tvg-name="N1" tvg-logo="http://luginaiptv.com/logo/n1bih.png" group-title="Kanale Ballkan",N1
-http://premium.luginaiptv.com:8000/Armendi/123456/8760
-#EXTINF:-1 tvg-id="" tvg-name="PINK KUVAR" tvg-logo="http://luginaiptv.com/logo/pinkkuvar.png" group-title="Kanale Ballkan",PINK KUVAR
-http://premium.luginaiptv.com:8000/Armendi/123456/8749
-#EXTINF:-1 tvg-id="" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="http://luginaiptv.com/logo/pinkscifi.png" group-title="Kanale Ballkan",PINK SCI-FI & FANTASY
-http://premium.luginaiptv.com:8000/Armendi/123456/8748
-#EXTINF:-1 tvg-id="" tvg-name="Pink World" tvg-logo="http://luginaiptv.com/logo/PinkWorld.png" group-title="Kanale Ballkan",Pink World
-http://premium.luginaiptv.com:8000/Armendi/123456/8747
-#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="http://luginaiptv.com/logo/RTL-Kockica-Logo.png" group-title="Kanale Ballkan",RTL Kockica
-http://premium.luginaiptv.com:8000/Armendi/123456/8745
-#EXTINF:-1 tvg-id="" tvg-name="RTS 3" tvg-logo="http://luginaiptv.com/logo/rts3.png" group-title="Kanale Ballkan",RTS 3
-http://premium.luginaiptv.com:8000/Armendi/123456/8742
-#EXTINF:-1 tvg-id="" tvg-name="RTV Novi Pazar" tvg-logo="http://luginaiptv.com/logo/NoviPazar.jpg" group-title="Kanale Ballkan",RTV Novi Pazar
-http://premium.luginaiptv.com:8000/Armendi/123456/8741
-#EXTINF:-1 tvg-id="" tvg-name="Sitel 3" tvg-logo="http://luginaiptv.com/logo/Sitel_3.png" group-title="Kanale Ballkan",Sitel 3
-http://premium.luginaiptv.com:8000/Armendi/123456/8744
-#EXTINF:-1 tvg-id="" tvg-name="Sk Folk MK" tvg-logo="" group-title="Kanale Ballkan",Sk Folk MK
-http://premium.luginaiptv.com:8000/Armendi/123456/8701
-#EXTINF:-1 tvg-id="" tvg-name="Studio B" tvg-logo="http://luginaiptv.com/logo/Studiob.png" group-title="Kanale Ballkan",Studio B
-http://premium.luginaiptv.com:8000/Armendi/123456/8746
-#EXTINF:-1 tvg-id="" tvg-name="TV + Kumanovo" tvg-logo="http://luginaiptv.com/logo/cropped-SLIDE-III-0-00-00-24-copy1.png" group-title="Kanale Ballkan",TV + Kumanovo
-http://premium.luginaiptv.com:8000/Armendi/123456/8831
-#EXTINF:-1 tvg-id="" tvg-name="TV Alfa" tvg-logo="http://luginaiptv.com/logo/alfatv.png" group-title="Kanale Ballkan",TV Alfa
-http://premium.luginaiptv.com:8000/Armendi/123456/8751
-#EXTINF:-1 tvg-id="" tvg-name="TV Sarajevo" tvg-logo="http://luginaiptv.com/logo/TVSarajaevo.jpg" group-title="Kanale Ballkan",TV Sarajevo
-http://premium.luginaiptv.com:8000/Armendi/123456/8740
-#EXTINF:-1 tvg-id="" tvg-name="B92" tvg-logo="" group-title="Kanale Ballkan",B92
-http://premium.luginaiptv.com:8000/Armendi/123456/6027
-#EXTINF:-1 tvg-id="" tvg-name="PINK 1" tvg-logo="" group-title="Kanale Ballkan",PINK 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6028
-#EXTINF:-1 tvg-id="" tvg-name="PINK 2" tvg-logo="" group-title="Kanale Ballkan",PINK 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6029
-#EXTINF:-1 tvg-id="" tvg-name="PINK 3" tvg-logo="" group-title="Kanale Ballkan",PINK 3
-http://premium.luginaiptv.com:8000/Armendi/123456/6030
-#EXTINF:-1 tvg-id="" tvg-name="PINK ACTION" tvg-logo="" group-title="Kanale Ballkan",PINK ACTION
-http://premium.luginaiptv.com:8000/Armendi/123456/6044
-#EXTINF:-1 tvg-id="" tvg-name="PINK BH" tvg-logo="" group-title="Kanale Ballkan",PINK BH
-http://premium.luginaiptv.com:8000/Armendi/123456/6043
-#EXTINF:-1 tvg-id="" tvg-name="PINK COMEDY" tvg-logo="" group-title="Kanale Ballkan",PINK COMEDY
-http://premium.luginaiptv.com:8000/Armendi/123456/6042
-#EXTINF:-1 tvg-id="" tvg-name="Pink Crime & Mistery" tvg-logo="" group-title="Kanale Ballkan",Pink Crime & Mistery
-http://premium.luginaiptv.com:8000/Armendi/123456/6252
-#EXTINF:-1 tvg-id="" tvg-name="PINK EXTRA" tvg-logo="" group-title="Kanale Ballkan",PINK EXTRA
-http://premium.luginaiptv.com:8000/Armendi/123456/6017
-#EXTINF:-1 tvg-id="" tvg-name="PINK FILM" tvg-logo="" group-title="Kanale Ballkan",PINK FILM
-http://premium.luginaiptv.com:8000/Armendi/123456/6041
-#EXTINF:-1 tvg-id="" tvg-name="PINK FOLK 1" tvg-logo="" group-title="Kanale Ballkan",PINK FOLK 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6040
-#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2" tvg-logo="" group-title="Kanale Ballkan",Pink Folk 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6250
-#EXTINF:-1 tvg-id="" tvg-name="Pink Horror" tvg-logo="" group-title="Kanale Ballkan",Pink Horror
-http://premium.luginaiptv.com:8000/Armendi/123456/6251
-#EXTINF:-1 tvg-id="" tvg-name="PINK KIDS" tvg-logo="" group-title="Kanale Ballkan",PINK KIDS
-http://premium.luginaiptv.com:8000/Armendi/123456/6039
-#EXTINF:-1 tvg-id="" tvg-name="PINK M" tvg-logo="" group-title="Kanale Ballkan",PINK M
-http://premium.luginaiptv.com:8000/Armendi/123456/6038
-#EXTINF:-1 tvg-id="" tvg-name="PINK MOVIES 1" tvg-logo="" group-title="Kanale Ballkan",PINK MOVIES 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6037
-#EXTINF:-1 tvg-id="" tvg-name="PINK MUSIC" tvg-logo="" group-title="Kanale Ballkan",PINK MUSIC
-http://premium.luginaiptv.com:8000/Armendi/123456/6036
-#EXTINF:-1 tvg-id="" tvg-name="PINK PEDIA" tvg-logo="" group-title="Kanale Ballkan",PINK PEDIA
-http://premium.luginaiptv.com:8000/Armendi/123456/6035
-#EXTINF:-1 tvg-id="" tvg-name="Pink Plus" tvg-logo="" group-title="Kanale Ballkan",Pink Plus
-http://premium.luginaiptv.com:8000/Armendi/123456/6249
-#EXTINF:-1 tvg-id="" tvg-name="PINK PREMIUM" tvg-logo="" group-title="Kanale Ballkan",PINK PREMIUM
-http://premium.luginaiptv.com:8000/Armendi/123456/6031
-#EXTINF:-1 tvg-id="" tvg-name="PINK REALITY" tvg-logo="" group-title="Kanale Ballkan",PINK REALITY
-http://premium.luginaiptv.com:8000/Armendi/123456/6034
-#EXTINF:-1 tvg-id="" tvg-name="Pink Romance" tvg-logo="" group-title="Kanale Ballkan",Pink Romance
-http://premium.luginaiptv.com:8000/Armendi/123456/6253
-#EXTINF:-1 tvg-id="" tvg-name="Pink Serije" tvg-logo="" group-title="Kanale Ballkan",Pink Serije
-http://premium.luginaiptv.com:8000/Armendi/123456/6248
-#EXTINF:-1 tvg-id="" tvg-name="PINK SOAP" tvg-logo="" group-title="Kanale Ballkan",PINK SOAP
-http://premium.luginaiptv.com:8000/Armendi/123456/6033
-#EXTINF:-1 tvg-id="" tvg-name="Pink Thriller" tvg-logo="" group-title="Kanale Ballkan",Pink Thriller
-http://premium.luginaiptv.com:8000/Armendi/123456/6254
-#EXTINF:-1 tvg-id="" tvg-name="PINK WESTERN" tvg-logo="" group-title="Kanale Ballkan",PINK WESTERN
-http://premium.luginaiptv.com:8000/Armendi/123456/6032
-#EXTINF:-1 tvg-id="" tvg-name="PINK ZABAVA" tvg-logo="" group-title="Kanale Ballkan",PINK ZABAVA
-http://premium.luginaiptv.com:8000/Armendi/123456/6016
-#EXTINF:-1 tvg-id="" tvg-name="Balkanika" tvg-logo="" group-title="Kanale Ballkan",Balkanika
-http://premium.luginaiptv.com:8000/Armendi/123456/5661
-#EXTINF:-1 tvg-id="" tvg-name="BHT" tvg-logo="" group-title="Kanale Ballkan",BHT
-http://premium.luginaiptv.com:8000/Armendi/123456/6245
-#EXTINF:-1 tvg-id="" tvg-name="DM Sat" tvg-logo="" group-title="Kanale Ballkan",DM Sat
-http://premium.luginaiptv.com:8000/Armendi/123456/6244
-#EXTINF:-1 tvg-id="" tvg-name="Grand TV" tvg-logo="" group-title="Kanale Ballkan",Grand TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6135
-#EXTINF:-1 tvg-id="" tvg-name="HRT 1" tvg-logo="" group-title="Kanale Ballkan",HRT 1
-http://premium.luginaiptv.com:8000/Armendi/123456/6021
-#EXTINF:-1 tvg-id="" tvg-name="HRT 2" tvg-logo="" group-title="Kanale Ballkan",HRT 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6020
-#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="Kanale Ballkan",NOVA
-http://premium.luginaiptv.com:8000/Armendi/123456/6019
-#EXTINF:-1 tvg-id="" tvg-name="24 Vesti" tvg-logo="" group-title="Kanale Ballkan",24 Vesti
-http://premium.luginaiptv.com:8000/Armendi/123456/7727
-#EXTINF:-1 tvg-id="" tvg-name="OBN" tvg-logo="" group-title="Kanale Ballkan",OBN
-http://premium.luginaiptv.com:8000/Armendi/123456/6018
-#EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="" group-title="Kanale Ballkan",Planeta TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6105
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HR" tvg-logo="" group-title="Kanale Ballkan",RTL 2 HR
-http://premium.luginaiptv.com:8000/Armendi/123456/6015
-#EXTINF:-1 tvg-id="" tvg-name="RTL HR" tvg-logo="" group-title="Kanale Ballkan",RTL HR
-http://premium.luginaiptv.com:8000/Armendi/123456/6014
-#EXTINF:-1 tvg-id="" tvg-name="RTRS Plus TV" tvg-logo="" group-title="Kanale Ballkan",RTRS Plus TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6150
-#EXTINF:-1 tvg-id="" tvg-name="RTRS TV" tvg-logo="" group-title="Kanale Ballkan",RTRS TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6149
-#EXTINF:-1 tvg-id="" tvg-name="RTS 2" tvg-logo="" group-title="Kanale Ballkan",RTS 2
-http://premium.luginaiptv.com:8000/Armendi/123456/6013
-#EXTINF:-1 tvg-id="" tvg-name="RTS1" tvg-logo="" group-title="Kanale Ballkan",RTS1
-http://premium.luginaiptv.com:8000/Armendi/123456/6012
-#EXTINF:-1 tvg-id="" tvg-name="Shutel TV" tvg-logo="" group-title="Kanale Ballkan",Shutel TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6145
-#EXTINF:-1 tvg-id="" tvg-name="Sitel" tvg-logo="" group-title="Kanale Ballkan",Sitel
-http://premium.luginaiptv.com:8000/Armendi/123456/6139
-#EXTINF:-1 tvg-id="" tvg-name="Telma" tvg-logo="" group-title="Kanale Ballkan",Telma
-http://premium.luginaiptv.com:8000/Armendi/123456/6140
-#EXTINF:-1 tvg-id="" tvg-name="TV DOMA" tvg-logo="" group-title="Kanale Ballkan",TV DOMA
-http://premium.luginaiptv.com:8000/Armendi/123456/6026
-#EXTINF:-1 tvg-id="" tvg-name="TV Prva" tvg-logo="" group-title="Kanale Ballkan",TV Prva
-http://premium.luginaiptv.com:8000/Armendi/123456/6133
-#EXTINF:-1 tvg-id="" tvg-name="TV Prva Plus" tvg-logo="" group-title="Kanale Ballkan",TV Prva Plus
-http://premium.luginaiptv.com:8000/Armendi/123456/6134
-#EXTINF:-1 tvg-id="" tvg-name="TV Sonce" tvg-logo="" group-title="Kanale Ballkan",TV Sonce
-http://premium.luginaiptv.com:8000/Armendi/123456/6148
-#EXTINF:-1 tvg-id="" tvg-name="TV Slon" tvg-logo="" group-title="Kanale Ballkan",TV Slon
-http://premium.luginaiptv.com:8000/Armendi/123456/7730
-#EXTINF:-1 tvg-id="" tvg-name="TV Tema" tvg-logo="http://luginaiptv.com/logo/tema.jpg" group-title="Kanale Shqip",TV Tema
-http://premium.luginaiptv.com:8000/Armendi/123456/7337
-#EXTINF:-1 tvg-id="" tvg-name="TV zenica BIH" tvg-logo="" group-title="Kanale Ballkan",TV zenica BIH
-http://premium.luginaiptv.com:8000/Armendi/123456/7744
-#EXTINF:-1 tvg-id="" tvg-name="Mini TV" tvg-logo="" group-title="Kanale Ballkan",Mini TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7745
-#EXTINF:-1 tvg-id="" tvg-name="Z1" tvg-logo="" group-title="Kanale Ballkan",Z1
-http://premium.luginaiptv.com:8000/Armendi/123456/7731
-#EXTINF:-1 tvg-id="" tvg-name="Slavonska TV" tvg-logo="" group-title="Kanale Ballkan",Slavonska TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7746
-#EXTINF:-1 tvg-id="" tvg-name="Jugoton TV" tvg-logo="" group-title="Kanale Ballkan",Jugoton TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7748
-#EXTINF:-1 tvg-id="" tvg-name="Federalna TV" tvg-logo="" group-title="Kanale Ballkan",Federalna TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7211
-#EXTINF:-1 tvg-id="" tvg-name="Hayatovci" tvg-logo="" group-title="Kanale Ballkan",Hayatovci
-http://premium.luginaiptv.com:8000/Armendi/123456/7210
-#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="" group-title="Kanale Ballkan",HRT 3
-http://premium.luginaiptv.com:8000/Armendi/123456/7734
-#EXTINF:-1 tvg-id="" tvg-name="HRT 4" tvg-logo="" group-title="Kanale Ballkan",HRT 4
-http://premium.luginaiptv.com:8000/Armendi/123456/7735
-#EXTINF:-1 tvg-id="" tvg-name="Izvorna TV" tvg-logo="" group-title="Kanale Ballkan",Izvorna TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7209
-#EXTINF:-1 tvg-id="" tvg-name="MTV Igman" tvg-logo="" group-title="Kanale Islame",MTV Igman
-http://premium.luginaiptv.com:8000/Armendi/123456/7208
-#EXTINF:-1 tvg-id="" tvg-name="NTV Haber" tvg-logo="" group-title="Kanale Turke",NTV Haber
-http://premium.luginaiptv.com:8000/Armendi/123456/7716
-#EXTINF:-1 tvg-id="" tvg-name="OTV valentino" tvg-logo="" group-title="Kanale Ballkan",OTV valentino
-http://premium.luginaiptv.com:8000/Armendi/123456/7728
-#EXTINF:-1 tvg-id="" tvg-name="Sandzak TV" tvg-logo="" group-title="Kanale Ballkan",Sandzak TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7747
-#EXTINF:-1 tvg-id="" tvg-name="Valentino Music" tvg-logo="" group-title="Kanale Ballkan",Valentino Music
-http://premium.luginaiptv.com:8000/Armendi/123456/7729
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="" group-title="Kanale Ballkan",Kanal 5
-http://premium.luginaiptv.com:8000/Armendi/123456/6137
-#EXTINF:-1 tvg-id="" tvg-name="C Star HD" tvg-logo="http://luginaiptv.com/logo/CStar-HD.png" group-title="Kanale Frengjisht",C Star HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8987
-#EXTINF:-1 tvg-id="" tvg-name="Gong" tvg-logo="http://luginaiptv.com/logo/Small_logo_GONG_black.png" group-title="Kanale Frengjisht",Gong
-http://premium.luginaiptv.com:8000/Armendi/123456/8989
-#EXTINF:-1 tvg-id="" tvg-name="L'equipe 21 HD" tvg-logo="http://luginaiptv.com/logo/96341521LEQUIPE21.jpg" group-title="Kanale Frengjisht",L'equipe 21 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8990
-#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="http://luginaiptv.com/logo/lci.jpeg" group-title="Kanale Frengjisht",LCI
-http://premium.luginaiptv.com:8000/Armendi/123456/8991
-#EXTINF:-1 tvg-id="" tvg-name="LCP" tvg-logo="http://luginaiptv.com/logo/lcp_an_fr.png" group-title="Kanale Frengjisht",LCP
-http://premium.luginaiptv.com:8000/Armendi/123456/8992
-#EXTINF:-1 tvg-id="" tvg-name="Mirabelle TV" tvg-logo="http://luginaiptv.com/logo/logo-mirabelle-tv-1600.jpg" group-title="Kanale Frengjisht",Mirabelle TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8993
-#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere" tvg-logo="http://luginaiptv.com/logo/paris-premiere-live.jpg" group-title="Kanale Frengjisht",Paris Premiere
-http://premium.luginaiptv.com:8000/Armendi/123456/8985
-#EXTINF:-1 tvg-id="" tvg-name="Toute l'Histoire" tvg-logo="http://luginaiptv.com/logo/Toute_L'Histoire.svg%20(2).png" group-title="Kanale Frengjisht",Toute l'Histoire
-http://premium.luginaiptv.com:8000/Armendi/123456/8986
-#EXTINF:-1 tvg-id="" tvg-name="Voyage HD" tvg-logo="http://luginaiptv.com/logo/voyage.png" group-title="Kanale Frengjisht",Voyage HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8998
-#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="http://luginaiptv.com/logo/weo.png" group-title="Kanale Frengjisht",Weo
-http://premium.luginaiptv.com:8000/Armendi/123456/8999
-#EXTINF:-1 tvg-id="" tvg-name="13eme Rue HD" tvg-logo="http://luginaiptv.com/logo/13e_rue_2010_(logo).svg.png" group-title="Kanale Frengjisht",13eme Rue HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8846
-#EXTINF:-1 tvg-id="" tvg-name="AB 1 HD" tvg-logo="http://luginaiptv.com/logo/AB1_channel_logo.png" group-title="Kanale Frengjisht",AB 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8828
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://luginaiptv.com/logo/Boomerang_hd.png" group-title="Kanale Frengjisht",Boomerang HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8854
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FR" tvg-logo="http://luginaiptv.com/logo/CartoonNetwork.png" group-title="Kanale Frengjisht",Cartoon Network FR
-http://premium.luginaiptv.com:8000/Armendi/123456/8853
-#EXTINF:-1 tvg-id="" tvg-name="Cherie 25" tvg-logo="http://luginaiptv.com/logo/cherie25.png" group-title="Kanale Frengjisht",Cherie 25
-http://premium.luginaiptv.com:8000/Armendi/123456/8857
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FR" tvg-logo="http://luginaiptv.com/logo/Disney-Junior.png" group-title="Kanale Frengjisht",Disney Junior FR
-http://premium.luginaiptv.com:8000/Armendi/123456/8852
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD FR" tvg-logo="http://luginaiptv.com/logo/disney_xd_1.png" group-title="Kanale Frengjisht",Disney XD FR
-http://premium.luginaiptv.com:8000/Armendi/123456/8851
-#EXTINF:-1 tvg-id="" tvg-name="Gulli HD" tvg-logo="http://luginaiptv.com/logo/Gulli_Logo.png" group-title="Kanale Frengjisht",Gulli HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8822
-#EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="http://luginaiptv.com/logo/manga-tv.png" group-title="Kanale Frengjisht",Mangas
-http://premium.luginaiptv.com:8000/Armendi/123456/8850
-#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits" tvg-logo="http://luginaiptv.com/logo/NRJ_Hits.png" group-title="Kanale Frengjisht",NRJ Hits
-http://premium.luginaiptv.com:8000/Armendi/123456/8994
-#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="http://luginaiptv.com/logo/nrj12.png" group-title="Kanale Frengjisht",NRJ12
-http://premium.luginaiptv.com:8000/Armendi/123456/8856
-#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="http://luginaiptv.com/logo/NT1.png" group-title="Kanale Frengjisht",NT1
-http://premium.luginaiptv.com:8000/Armendi/123456/8855
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="http://luginaiptv.com/logo/ParamountChannelHD_2400_color_dark_light.png" group-title="Kanale Frengjisht",Paramount Channel
-http://premium.luginaiptv.com:8000/Armendi/123456/8845
-#EXTINF:-1 tvg-id="" tvg-name="Piwi +" tvg-logo="http://luginaiptv.com/logo/canalplus_fr_piwi_plus.png" group-title="Kanale Frengjisht",Piwi +
-http://premium.luginaiptv.com:8000/Armendi/123456/8848
-#EXTINF:-1 tvg-id="" tvg-name="RTL 9 HD" tvg-logo="http://luginaiptv.com/logo/RTL9_Logo.png" group-title="Kanale Frengjisht",RTL 9 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8820
-#EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="http://luginaiptv.com/logo/Serie_club_2007_logo.svg%20(2).png" group-title="Kanale Frengjisht",Serie Club
-http://premium.luginaiptv.com:8000/Armendi/123456/8847
-#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="http://luginaiptv.com/logo/Teletoon%2B_Logo.png" group-title="Kanale Frengjisht",Teletoon
-http://premium.luginaiptv.com:8000/Armendi/123456/8829
-#EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="http://luginaiptv.com/logo/TiJi_logo_2016.png" group-title="Kanale Frengjisht",TIJI
-http://premium.luginaiptv.com:8000/Armendi/123456/8849
-#EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV" tvg-logo="http://luginaiptv.com/logo/Ushua%C3%AFa_TV_2010.png" group-title="Kanale Frengjisht",Ushuaia TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8887
-#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="http://luginaiptv.com/logo/W9-Logo.svg.png" group-title="Kanale Frengjisht",W9
-http://premium.luginaiptv.com:8000/Armendi/123456/8844
-#EXTINF:-1 tvg-id="" tvg-name="6ter HD" tvg-logo="http://luginaiptv.com/logo/6ter.png" group-title="Kanale Frengjisht",6ter HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8707
-#EXTINF:-1 tvg-id="" tvg-name="Animaux HD" tvg-logo="http://luginaiptv.com/logo/aNIMAUX.png" group-title="Kanale Frengjisht",Animaux HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8710
-#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="http://luginaiptv.com/logo/arte-HD.png" group-title="Kanale Frengjisht",Arte HD FR
-http://premium.luginaiptv.com:8000/Armendi/123456/8708
-#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="http://luginaiptv.com/logo/BFMTV.png" group-title="Kanale Frengjisht",BFM TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8718
-#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="http://luginaiptv.com/logo/Boing.png" group-title="Kanale Frengjisht",BOING
-http://premium.luginaiptv.com:8000/Armendi/123456/8719
-#EXTINF:-1 tvg-id="" tvg-name="C8 HD" tvg-logo="http://luginaiptv.com/logo/C8.png" group-title="Kanale Frengjisht",C8 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8717
-#EXTINF:-1 tvg-id="" tvg-name="Chasse et Pache HD" tvg-logo="http://luginaiptv.com/logo/chasse-peche.gif" group-title="Kanale Frengjisht",Chasse et Pache HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8827
-#EXTINF:-1 tvg-id="" tvg-name="CSTAR HD" tvg-logo="http://luginaiptv.com/logo/CSTar.png" group-title="Kanale Frengjisht",CSTAR HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8716
-#EXTINF:-1 tvg-id="" tvg-name="iTele" tvg-logo="http://luginaiptv.com/logo/Itele-logo-26082013.png" group-title="Kanale Frengjisht",iTele
-http://premium.luginaiptv.com:8000/Armendi/123456/8843
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FR" tvg-logo="http://luginaiptv.com/logo/Nat-Geo-Wild.png" group-title="Kanale Frengjisht",Nat Geo Wild FR
-http://premium.luginaiptv.com:8000/Armendi/123456/8705
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD FR" tvg-logo="http://luginaiptv.com/logo/Nat-Geo.png" group-title="Kanale Frengjisht",National Geographic HD FR
-http://premium.luginaiptv.com:8000/Armendi/123456/8706
-#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX" tvg-logo="http://luginaiptv.com/logo/RTS_Deux.png" group-title="Kanale Frengjisht",RTS DEUX
-http://premium.luginaiptv.com:8000/Armendi/123456/8721
-#EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="http://luginaiptv.com/logo/RTS_Un.png" group-title="Kanale Frengjisht",RTS UN
-http://premium.luginaiptv.com:8000/Armendi/123456/8722
-#EXTINF:-1 tvg-id="" tvg-name="TEVA HD" tvg-logo="http://luginaiptv.com/logo/teva.png" group-title="Kanale Frengjisht",TEVA HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8715
-#EXTINF:-1 tvg-id="" tvg-name="Assemble Nationale" tvg-logo="http://luginaiptv.com/Logo_de_l'Assembl%C3%A9e_nationale_fran%C3%A7aise.svg.png" group-title="Kanale Frengjisht",Assemble Nationale
-http://premium.luginaiptv.com:8000/Armendi/123456/7124
-#EXTINF:-1 tvg-id="" tvg-name="Cine + Classic" tvg-logo="http://luginaiptv.com/logo/cine%2Bclassic.jpg" group-title="Kanale Frengjisht",Cine + Classic
-http://premium.luginaiptv.com:8000/Armendi/123456/7064
-#EXTINF:-1 tvg-id="" tvg-name="Cine + Club" tvg-logo="http://luginaiptv.com/logo/cine%2Bclub.jpg" group-title="Kanale Frengjisht",Cine + Club
-http://premium.luginaiptv.com:8000/Armendi/123456/7103
-#EXTINF:-1 tvg-id="" tvg-name="Cine + Emotion" tvg-logo="http://luginaiptv.com/logo/cine%2Bemotion.jpg" group-title="Kanale Frengjisht",Cine + Emotion
-http://premium.luginaiptv.com:8000/Armendi/123456/7059
-#EXTINF:-1 tvg-id="" tvg-name="Cine + Famiz" tvg-logo="http://luginaiptv.com/logo/cine%2Bfamiz.jpg" group-title="Kanale Frengjisht",Cine + Famiz
-http://premium.luginaiptv.com:8000/Armendi/123456/7058
-#EXTINF:-1 tvg-id="" tvg-name="Cine + Frisson" tvg-logo="http://luginaiptv.com/logo/cine%2Bfrisson.jpg" group-title="Kanale Frengjisht",Cine + Frisson
-http://premium.luginaiptv.com:8000/Armendi/123456/7060
-#EXTINF:-1 tvg-id="" tvg-name="Cine + Premier" tvg-logo="http://luginaiptv.com/logo/cine%2Bpremier.jpg" group-title="Kanale Frengjisht",Cine + Premier
-http://premium.luginaiptv.com:8000/Armendi/123456/7063
-#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://luginaiptv.com/logo/E!_HD_logo.jpg" group-title="Kanale Gjermane",E! HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7643
-#EXTINF:-1 tvg-id="" tvg-name="France 0" tvg-logo="" group-title="Kanale Frengjisht",France 0
-http://premium.luginaiptv.com:8000/Armendi/123456/7042
-#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="http://luginaiptv.com/logo/France_2_logo.png" group-title="Kanale Frengjisht",France 2
-http://premium.luginaiptv.com:8000/Armendi/123456/7043
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="http://luginaiptv.com/logo/FRANCE_24_logo.svg.png" group-title="Kanale Frengjisht",FRANCE 24
-http://premium.luginaiptv.com:8000/Armendi/123456/7047
-#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="http://luginaiptv.com/logo/france-3.png" group-title="Kanale Frengjisht",France 3
-http://premium.luginaiptv.com:8000/Armendi/123456/7044
-#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="http://luginaiptv.com/logo/france4.png" group-title="Kanale Frengjisht",France 4
-http://premium.luginaiptv.com:8000/Armendi/123456/7045
-#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="http://luginaiptv.com/logo/France5-logo.svg.png" group-title="Kanale Frengjisht",France 5
-http://premium.luginaiptv.com:8000/Armendi/123456/7046
-#EXTINF:-1 tvg-id="" tvg-name="Grand Lille TV FR" tvg-logo="https://luginaiptv.com/logo/grand-lille-tv.jpg" group-title="Kanale Sport",Grand Lille TV FR
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w331385173_b1464000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Chaine Normande" tvg-logo="http://luginaiptv.com/214-la_chaine_normande_tv.jpg" group-title="Kanale Frengjisht",La Chaine Normande
-http://premium.luginaiptv.com:8000/Armendi/123456/7129
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="" group-title="Kanale Frengjisht",TF1
-http://premium.luginaiptv.com:8000/Armendi/123456/7765
-#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="Kanale Frengjisht",TMC
-http://premium.luginaiptv.com:8000/Armendi/123456/7764
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="Kanale Frengjisht",M6
-http://premium.luginaiptv.com:8000/Armendi/123456/7763
-#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="http://luginaiptv.com/logo/M6_Music_2012.png" group-title="Kanale Frengjisht",M6 Music
-http://premium.luginaiptv.com:8000/Armendi/123456/7029
-#EXTINF:-1 tvg-id="" tvg-name="OCS Choc HD" tvg-logo="http://luginaiptv.com/logo/OCS_Choc.svg.png" group-title="Kanale Frengjisht",OCS Choc HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7068
-#EXTINF:-1 tvg-id="" tvg-name="OCS City HD" tvg-logo="http://luginaiptv.com/logo/OCS-CITY.HD.png" group-title="Kanale Frengjisht",OCS City HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7066
-#EXTINF:-1 tvg-id="" tvg-name="OCS Geant HD" tvg-logo="" group-title="Kanale Frengjisht",OCS Geant HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7067
-#EXTINF:-1 tvg-id="" tvg-name="OCS Max HD" tvg-logo="http://luginaiptv.com/logo/OCS-MAX.HD.png" group-title="Kanale Frengjisht",OCS Max HD
-http://premium.luginaiptv.com:8000/Armendi/123456/7065
-#EXTINF:-1 tvg-id="" tvg-name="Planete +" tvg-logo="http://luginaiptv.com/logo/logo_300px.png" group-title="Kanale Frengjisht",Planete +
-http://premium.luginaiptv.com:8000/Armendi/123456/7101
-#EXTINF:-1 tvg-id="" tvg-name="Planete + A&E" tvg-logo="" group-title="Kanale Frengjisht",Planete + A&E
-http://premium.luginaiptv.com:8000/Armendi/123456/7100
-#EXTINF:-1 tvg-id="" tvg-name="Planete + ci" tvg-logo="http://luginaiptv.com/Plan%C3%A8te_Crimes_et_Investigations_logo_(2013).png" group-title="Kanale Frengjisht",Planete + ci
-http://premium.luginaiptv.com:8000/Armendi/123456/7122
-#EXTINF:-1 tvg-id="" tvg-name="Posavina TV" tvg-logo="" group-title="Kanale Ballkan",Posavina TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7736
-#EXTINF:-1 tvg-id="" tvg-name="A La Carte 1" tvg-logo="" group-title="Kanale Frengjisht",A La Carte 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8321
-#EXTINF:-1 tvg-id="" tvg-name="A La Carte 2" tvg-logo="" group-title="Kanale Frengjisht",A La Carte 2
-http://premium.luginaiptv.com:8000/Armendi/123456/8322
-#EXTINF:-1 tvg-id="" tvg-name="A La Carte 3" tvg-logo="" group-title="Kanale Frengjisht",A La Carte 3
-http://premium.luginaiptv.com:8000/Armendi/123456/8323
-#EXTINF:-1 tvg-id="" tvg-name="A La Carte 4" tvg-logo="" group-title="Kanale Frengjisht",A La Carte 4
-http://premium.luginaiptv.com:8000/Armendi/123456/8324
-#EXTINF:-1 tvg-id="" tvg-name="A La Carte 5" tvg-logo="" group-title="Kanale Frengjisht",A La Carte 5
-http://premium.luginaiptv.com:8000/Armendi/123456/8325
-#EXTINF:-1 tvg-id="" tvg-name="A La Carte 6" tvg-logo="" group-title="Kanale Frengjisht",A La Carte 6
-http://premium.luginaiptv.com:8000/Armendi/123456/8326
-#EXTINF:-1 tvg-id="" tvg-name="Radio Jehona Kumanove" tvg-logo="" group-title="Radio",Radio Jehona Kumanove
-http://s26.myradiostream.com:10030/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Islami Zürich" tvg-logo="" group-title="Radio",Radio Islami Zürich
-http://server5.digital-webstream.de:33725/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Marimanga" tvg-logo="" group-title="Radio",Radio Marimanga
-http://91.82.85.71:9084/;?1432942217914.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Fontana" tvg-logo="" group-title="Radio",Radio Fontana
-http://46.4.104.253:8010/;?1432942764098.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Fama Tetove" tvg-logo="" group-title="Radio",Radio Fama Tetove
-http://fama.streaming.im:7000/;?1432943003285.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio KFOR" tvg-logo="" group-title="Radio",Radio KFOR
-http://fm.radiokfor.com:8080/;?1432943047589.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Shqip" tvg-logo="" group-title="Radio",Radio Shqip
-http://s2.voscast.com:8826/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Alba Radio" tvg-logo="" group-title="Radio",Alba Radio
-http://aradmin.ch:8000/
-#EXTINF:-1 tvg-id="" tvg-name="Alpo Radio" tvg-logo="" group-title="Radio",Alpo Radio
-http://195.154.194.142:8575/;
-#EXTINF:-1 tvg-id="" tvg-name="Quran Radio" tvg-logo="" group-title="Radio",Quran Radio
-http://quraan.us:9944/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio 1" tvg-logo="" group-title="Radio",Radio 1
-http://79.106.13.119:88/broadwave.mp3?type=.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Ahireti" tvg-logo="" group-title="Radio",Radio Ahireti
-http://37.59.28.208:8018/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Arta" tvg-logo="" group-title="Radio",Radio Arta
-http://173.192.207.51:8086/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Bleta" tvg-logo="" group-title="Radio",Radio Bleta
-http://stream.tvkoha.tv:5000/;listen.pls?type=.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Dardania" tvg-logo="" group-title="Radio",Radio Dardania
-http://radio.radiodardania.com:4000/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Dashuria" tvg-logo="" group-title="Radio",Radio Dashuria
-http://184.168.106.59:8000/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Devolli" tvg-logo="" group-title="Radio",Radio Devolli
-http://radiodevolli.eu:8000/radio
-#EXTINF:-1 tvg-id="" tvg-name="Radio Dielli" tvg-logo="" group-title="Radio",Radio Dielli
-http://77.92.64.44:8010/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Drenasi" tvg-logo="" group-title="Radio",Radio Drenasi
-http://85.25.108.39:8010/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Dukagjini" tvg-logo="" group-title="Radio",Radio Dukagjini
-http://s2.voscast.com:8826/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Ec Me Kohen" tvg-logo="" group-title="Radio",Radio Ec Me Kohen
-http://74.221.215.47:8000/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Emigranti" tvg-logo="" group-title="Radio",Radio Emigranti
-http://www.radioemigranti.com:8000/radioauto64
-#EXTINF:-1 tvg-id="" tvg-name="Radio Gurbeti" tvg-logo="" group-title="Radio",Radio Gurbeti
-http://192.184.9.79:8218/;
-#EXTINF:-1 tvg-id="" tvg-name="Radio Pendimi" tvg-logo="" group-title="Radio",Radio Pendimi
-http://radio-pendimi.com:8000/;$type=mp3
-#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="" group-title="Kanale Turke",Star TV
-http://premium.luginaiptv.com:8000/Armendi/123456/11955
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Kanale Turke",NTV
-http://premium.luginaiptv.com:8000/Armendi/123456/11956
-#EXTINF:-1 tvg-id="" tvg-name="Rumeli TV" tvg-logo="" group-title="Kanale Turke",Rumeli TV
-http://premium.luginaiptv.com:8000/Armendi/123456/11948
-#EXTINF:-1 tvg-id="" tvg-name="a Haber" tvg-logo="" group-title="Kanale Turke",a Haber
-http://premium.luginaiptv.com:8000/Armendi/123456/11951
-#EXTINF:-1 tvg-id="" tvg-name="3sat HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/3sat_HD.svg/1920px-3sat_HD.svg.png" group-title="Kanale Gjermane",3sat HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13793
-#EXTINF:-1 tvg-id="" tvg-name="SWR BW HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SWRFernsehenBW_Logo.svg/2000px-SWRFernsehenBW_Logo.svg.png" group-title="Kanale Gjermane",SWR BW HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13794
-#EXTINF:-1 tvg-id="" tvg-name="S1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_S1_TV.png" group-title="Kanale Gjermane",S1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13796
-#EXTINF:-1 tvg-id="" tvg-name="Anixe HD" tvg-logo="https://www.anixehd.tv/app/bilder/anixe_web.png" group-title="Kanale Gjermane",Anixe HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13797
-#EXTINF:-1 tvg-id="" tvg-name="3+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_3plus_HD.svg/440px-Logo_3plus_HD.svg.png" group-title="Kanale Gjermane",3+ HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13798
-#EXTINF:-1 tvg-id="" tvg-name="4+ HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_4plus_HD.svg/220px-Logo_4plus_HD.svg.png" group-title="Kanale Gjermane",4+ HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13799
-#EXTINF:-1 tvg-id="" tvg-name="5+ HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/5plus.png" group-title="Kanale Gjermane",5+ HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13800
-#EXTINF:-1 tvg-id="" tvg-name="Tele Zueri HD " tvg-logo="https://ch.az-cdn.ch/static/1.154.2/telezueri/device-icons/512x512.png" group-title="Kanale Gjermane",Tele Zueri HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13801
-#EXTINF:-1 tvg-id="" tvg-name="Tele Baern HD " tvg-logo="https://ch.az-cdn.ch/static/1.154.2/telebaern/device-icons/512x512.png" group-title="Kanale Gjermane",Tele Baern HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13802
-#EXTINF:-1 tvg-id="" tvg-name="Tele Bielingue " tvg-logo="https://www.horizont.net/news/media/21/Tele-Bielingue-Logo-2017-200697-detailnp.png" group-title="Kanale Gjermane",Tele Bielingue 
-http://premium.luginaiptv.com:8000/Armendi/123456/13803
-#EXTINF:-1 tvg-id="" tvg-name="Tele 5" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/299.png" group-title="Kanale Gjermane",Tele 5
-http://premium.luginaiptv.com:8000/Armendi/123456/13805
-#EXTINF:-1 tvg-id="" tvg-name="TVO " tvg-logo="https://ch.az-cdn.ch/static/1.154.2/tvo/device-icons/512x512.png" group-title="Kanale Gjermane",TVO 
-http://premium.luginaiptv.com:8000/Armendi/123456/13808
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Euronews-pure.svg/544px-Euronews-pure.svg.png" group-title="Kanale Gjermane",Euronews
-http://premium.luginaiptv.com:8000/Armendi/123456/13809
-#EXTINF:-1 tvg-id="" tvg-name="NDR HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/2000px-NDR_HD.svg.png" group-title="Kanale Gjermane",NDR HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13810
-#EXTINF:-1 tvg-id="" tvg-name="MDR Sachsen HD" tvg-logo="https://cdn.mdr.de/tv/bild11634-resimage_v-variantSmall16x9_w-448.png" group-title="Kanale Gjermane",MDR Sachsen HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13811
-#EXTINF:-1 tvg-id="" tvg-name="hr-fernsehen HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hr-fernsehen_HD.svg/2000px-Hr-fernsehen_HD.svg.png" group-title="Kanale Gjermane",hr-fernsehen HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13812
-#EXTINF:-1 tvg-id="" tvg-name="rbb Berlin HD " tvg-logo="https://img.netzwelt.de/dw236_dh236_sw220_sh220_sx0_sy0_sr1x1_nu0/picture/original/2020/05/rbb-sender-logo-275802.png" group-title="Kanale Gjermane",rbb Berlin HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13813
-#EXTINF:-1 tvg-id="" tvg-name=" Deluxe Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png" group-title="Kanale Gjermane", Deluxe Music
-http://premium.luginaiptv.com:8000/Armendi/123456/13814
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD " tvg-logo="https://3.bp.blogspot.com/-CQ9OQO9EPCY/VL17cQ7iyqI/AAAAAAAAHSk/e1Ggsh7V1ok/w1200-h630-p-k-no-nu/nickelodeon-hd.png" group-title="Kanale Gjermane",Nickelodeon HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13816
-#EXTINF:-1 tvg-id="" tvg-name="RIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RiC_Logo_2014.png" group-title="Kanale Gjermane",RIC TV
-http://premium.luginaiptv.com:8000/Armendi/123456/13817
-#EXTINF:-1 tvg-id="" tvg-name="Euro Sport DE 1" tvg-logo="http://luginaiptv.com/logo/Eurosport.png" group-title="Kanale Sport",Euro Sport DE 1
-http://premium.luginaiptv.com:8000/Armendi/123456/9092
-#EXTINF:-1 tvg-id="" tvg-name="Sport1 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Sport1%2BHD_2013.svg/2000px-Logo_Sport1%2BHD_2013.svg.png" group-title="Kanale Sport",Sport1 HD 
-http://premium.luginaiptv.com:8000/Armendi/123456/13818
-#EXTINF:-1 tvg-id="" tvg-name="Rai Sport 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rai-sport1-loho.png" group-title="Radio",Rai Sport 1
-http://premium.luginaiptv.com:8000/Armendi/123456/13819
-#EXTINF:-1 tvg-id="" tvg-name="Rai Sport 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rai-sport2-logo.png" group-title="Kanale Sport",Rai Sport 2
-http://premium.luginaiptv.com:8000/Armendi/123456/13820
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Kanale Gjermane",Canal 9
-http://premium.luginaiptv.com:8000/Armendi/123456/13821
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Rrushe" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Rrushe&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Rrushe",group-title="*VOD* Rrushe" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Rrushe&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/13503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Bufe E Parlamentit" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Bufe E Parlamentit&lt;&lt;&lt;&lt;&lt;&lt;&lt; " tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Bufe E Parlamentit",group-title="*VOD* Bufe E Parlamentit" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Bufe E Parlamentit&lt;&lt;&lt;&lt;&lt;&lt;&lt; 
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Cka Ka Shpija" ,>>>>>>>*VOD* Cka Ka Shpija<<<<<<<" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Cka Ka Shpija",group-title="*VOD* Cka Ka Shpija" ,>>>>>>>*VOD* Cka Ka Shpija<<<<<<<
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Filma Gjermanisht" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Filma Gjermanisht&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Filma Gjermanisht",group-title="*VOD* Filma Gjermanisht" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Filma Gjermanisht&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* SHPK Nazi" ,>>>>>>>*VOD* SHPK Nazi<<<<<<< " tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="SHPK Nazi",group-title="*VOD* SHPK Nazi" ,>>>>>>>*VOD* SHPK Nazi<<<<<<< 
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Kryetari i mirë me shokë shumë" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Kryetari i mirë me shokë shumë&lt;&lt;&lt;&lt;&lt;&lt;&lt; " tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Kryetari i mirë me shokë shumë",group-title="*VOD* Kryetari i mirë me shokë shumë" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Kryetari i mirë me shokë shumë&lt;&lt;&lt;&lt;&lt;&lt;&lt; 
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* FC Latta" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* FC Latta&lt;&lt;&lt;&lt;&lt;&lt;&lt; " tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="FC Latta",group-title="*VOD* FC Latta" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* FC Latta&lt;&lt;&lt;&lt;&lt;&lt;&lt; 
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Sha je be tu folen" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Sha je be tu folen&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Sha je be tu folen",group-title="*VOD* Sha je be tu folen" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Sha je be tu folen&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Omeri r.a (Gjermanisht)" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Omeri r.a (Gjermanisht)&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Omar r.a (Gjermanisht)",group-title="*VOD* Omeri r.a (Gjermanisht)" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Omeri r.a (Gjermanisht)&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* The Protector" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* The Protector&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="The Protector",group-title="*VOD* The Protector" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* The Protector&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Filma Shqiptar" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Filma Shqiptar&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Filma Shqiptar",group-title="*VOD* Filma Shqiptar" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Filma Shqiptar&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Hetuesia" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Hetuesia&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Hetuesia",group-title="*VOD* Hetuesia" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Hetuesia&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Oda e Stupcave" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Oda e Stupcave&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Oda e Stupcave",group-title="*VOD* Oda e Stupcave" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Oda e Stupcave&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Dashuri E Plagosur" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Dashuri E Plagosur&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Dashuri e Plagosur",group-title="*VOD* Dashuri E Plagosur" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Dashuri E Plagosur&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="group-title="*VOD* Filma Me Titra Shqip" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Filma Me Titra Shqip&lt;&lt;&lt;&lt;&lt;&lt;" tvg-logo="https://luginaiptv.com/logo/canal9.png" group-title="Filma Shqip",group-title="*VOD* Filma Me Titra Shqip" ,&gt;&gt;&gt;&gt;&gt;&gt;&gt;*VOD* Filma Me Titra Shqip&lt;&lt;&lt;&lt;&lt;&lt;
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/12108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="https://luginaiptv.com/logo/rmc.png" group-title="Kanale Sport",FR: RMC Sport 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13827
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://luginaiptv.com/logo/rmc.png" group-title="Kanale Sport",FR: RMC Sport 1
-http://premium.luginaiptv.com:8000/Armendi/123456/11922
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3" tvg-logo="https://luginaiptv.com/logo/rmc.png" group-title="Kanale Sport",FR: RMC Sport 3
-http://premium.luginaiptv.com:8000/Armendi/123456/11924
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://luginaiptv.com/logo/rmc.png" group-title="Kanale Sport",FR: RMC Sport 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13970
-#EXTINF:-1 tvg-id="" tvg-name="TRT Spor HD 2" tvg-logo="http://luginaiptv.com/logo/TRT_Spor.png" group-title="Kanale Sport",TRT Spor HD 2
-http://turkish.pupilhd.net/pupilhdturkish/ch2019/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dark PRIME 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark PRIME 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13977
-#EXTINF:-1 tvg-id="" tvg-name="Dark PRIME 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark PRIME 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13978
-#EXTINF:-1 tvg-id="" tvg-name="Dark PRIME 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark PRIME 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13979
-#EXTINF:-1 tvg-id="" tvg-name="Dark PRIME 4 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark PRIME 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13980
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark GOLD 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark GOLD 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13981
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark GOLD 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark GOLD 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13982
-#EXTINF:-1 tvg-id="" tvg-name="AL | Dark GOLD 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Dark GOLD 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13983
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark GOLD 4 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark GOLD 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13984
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Net.flix 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark Net.flix 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13985
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Net.flix 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark Net.flix 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13986
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Net.flix 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark Net.flix 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13987
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Net.flix 4 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark Net.flix 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13988
-#EXTINF:-1 tvg-id="" tvg-name="Dark Aksion HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Aksion HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13989
-#EXTINF:-1 tvg-id="" tvg-name="Dark Deluxe HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Deluxe HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13990
-#EXTINF:-1 tvg-id="" tvg-name="Dark Special HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Special HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13991
-#EXTINF:-1 tvg-id="" tvg-name="Dark Komedi HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Komedi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13992
-#EXTINF:-1 tvg-id="" tvg-name="Dark Horror HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Horror HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13993
-#EXTINF:-1 tvg-id="" tvg-name="Dark Thriller HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Thriller HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13994
-#EXTINF:-1 tvg-id="" tvg-name="Dark Western HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Western HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13995
-#EXTINF:-1 tvg-id="" tvg-name="Dark Classic HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Classic HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13996
-#EXTINF:-1 tvg-id="" tvg-name="Dark Family HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Family HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13997
-#EXTINF:-1 tvg-id="" tvg-name="Dark Fantazi HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Fantazi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13998
-#EXTINF:-1 tvg-id="" tvg-name="Dark Romance HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Romance HD
-http://premium.luginaiptv.com:8000/Armendi/123456/13999
-#EXTINF:-1 tvg-id="" tvg-name="Dark Hindi HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Hindi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14000
-#EXTINF:-1 tvg-id="" tvg-name="Dark Cka ka SHPIA HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Cka ka SHPIA HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14001
-#EXTINF:-1 tvg-id="" tvg-name="Dark Fara e Fliqt HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Fara e Fliqt HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14002
-#EXTINF:-1 tvg-id="" tvg-name="Dark Stupcat Egjeli HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Stupcat Egjeli HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14003
-#EXTINF:-1 tvg-id="" tvg-name="Dark Stupcat Skece HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Stupcat Skece HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14004
-#EXTINF:-1 tvg-id="" tvg-name="Dark Kafeneja Jone HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Kafeneja Jone HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14005
-#EXTINF:-1 tvg-id="" tvg-name="Dark Tigrat HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Tigrat HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14006
-#EXTINF:-1 tvg-id="" tvg-name="Dark Schengen Visa HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Schengen Visa HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14007
-#EXTINF:-1 tvg-id="" tvg-name="Dark Popullore HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Popullore HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14008
-#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Hitet HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL |  Dark Hitet HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14009
-#EXTINF:-1 tvg-id="" tvg-name="Dark Tallava HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Tallava HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14010
-#EXTINF:-1 tvg-id="" tvg-name="Dark Balada HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Balada HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14011
-#EXTINF:-1 tvg-id="" tvg-name="Dark Cifteli HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Dark Cifteli HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14012
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Shqip" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Film Shqip
-http://premium.luginaiptv.com:8000/Armendi/123456/14013
-#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip 1" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Shqip 1
-http://premium.luginaiptv.com:8000/Armendi/123456/14014
-#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip 2" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Shqip 2
-http://premium.luginaiptv.com:8000/Armendi/123456/14015
-#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip 3" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Shqip 3
-http://premium.luginaiptv.com:8000/Armendi/123456/14016
-#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip 4" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Shqip 4
-http://premium.luginaiptv.com:8000/Armendi/123456/14017
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki Serie 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki Serie 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14018
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Serie 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Serie 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14019
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Seire 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Seire 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14020
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Serie 4 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Serie 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14021
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Serie 5 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Serie 5 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14022
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime info HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime info HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14023
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime 1 UHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime 1 UHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14024
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime 2 UHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime 2 UHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14025
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime 3 UHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime 3 UHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14026
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime 4 UHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime 4 UHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14027
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime 5 UHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime 5 UHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14028
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime 6 UHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime 6 UHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14029
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Prime 7 UHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Prime 7 UHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14030
-#EXTINF:-1 tvg-id="" tvg-name="AL: KikiPlay - Festive HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KikiPlay - Festive HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14031
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Premium HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Premium HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14032
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Hits HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Hits HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14033
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Classic HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Classic HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14034
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Best of HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Best of HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14035
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Net.flix HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Net.flix HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14036
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Aksion HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Aksion HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14037
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Warzone HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Warzone HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14038
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Horror HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Horror HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14039
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Horror+Komedi HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Horror+Komedi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14040
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Romance HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Romance HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14041
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Play - Komedi HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Play - Komedi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14042
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki Music Program Festiv 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki Music Program Festiv 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14043
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki Music Program Festiv 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki Music Program Festiv 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14044
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki Music Program Festiv 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki Music Program Festiv 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14045
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki Music Program Festiv 4 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki Music Program Festiv 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14046
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki Music Sofra Festive HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki Music Sofra Festive HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14047
-#EXTINF:-1 tvg-id="" tvg-name="AL: KiKi Music - Top Hits HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: KiKi Music - Top Hits HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14048
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki fteli 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki fteli 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14049
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki fteli 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki fteli 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14050
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kiki fteli 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kiki fteli 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14051
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tele one 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14052
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tele one 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14053
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tele one 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14054
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 5 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tele one 5 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14056
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Shqip HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tele One Shqip HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14058
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Aksion HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Aksion HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14059
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Aventure HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Aventure HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14060
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Crime HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Crime HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14061
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Gold Collection HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Gold Collection HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14062
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Fantasy HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Fantasy HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14063
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Thriler HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Thriler HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14064
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Drama HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Drama HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14065
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Epik HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Epik HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14066
-#EXTINF:-1 tvg-id="" tvg-name="AL | Tele One Gags HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL | Tele One Gags HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14067
-#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Q Premium 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14068
-#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Q Premium 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14069
-#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Q Premium 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14070
-#EXTINF:-1 tvg-id="" tvg-name="AL: Q Premium 4 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Q Premium 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14072
-#EXTINF:-1 tvg-id="" tvg-name="AL: Q Thriller HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Q Thriller HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14073
-#EXTINF:-1 tvg-id="" tvg-name="AL: Q Komedi HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Q Komedi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14074
-#EXTINF:-1 tvg-id="" tvg-name="AL: Q Drama HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Q Drama HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14075
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Premium 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Film Premium 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14076
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema super HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kinema super HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14077
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kinema Milenium 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14078
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kinema Milenium 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14079
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kinema Milenium 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14080
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 4 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kinema Milenium 4 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14081
-#EXTINF:-1 tvg-id="" tvg-name="AL: kinema Hits HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: kinema Hits HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14082
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Gold" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kinema Gold
-http://premium.luginaiptv.com:8000/Armendi/123456/14083
-#EXTINF:-1 tvg-id="" tvg-name="AL: kinema Fantazy HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: kinema Fantazy HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14084
-#EXTINF:-1 tvg-id="" tvg-name="AL: kinema Family HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: kinema Family HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14085
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Kinema Aksion
-http://premium.luginaiptv.com:8000/Armendi/123456/14086
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Aksion AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Aksion AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14087
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Fantazi AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Fantazi AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14088
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Komedi AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Komedi AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14089
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Horror AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Horror AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14090
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Femije AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Femije AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14093
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Epik AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Epik AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14094
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Relaks HD AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Relaks HD AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14095
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Spider-Man AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Spider-Man AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14096
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Jackie Chan AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Jackie Chan AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14097
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Van Damme AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Van Damme AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14098
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Dwayne Johnson AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Dwayne Johnson AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14099
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Arnold Schwarzenegger AL" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Arnold Schwarzenegger AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14100
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Sylvester Stallone AL" tvg-logo=" https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Sylvester Stallone AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14101
-#EXTINF:-1 tvg-id="" tvg-name="AL: Net.flix Bud Spencer & Terence Hill AL" tvg-logo=" https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Net.flix Bud Spencer & Terence Hill AL
-http://premium.luginaiptv.com:8000/Armendi/123456/14102
-#EXTINF:-1 tvg-id="" tvg-name="Ks Premier 1" tvg-logo=" https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Ks Premier 1
-http://premium.luginaiptv.com:8000/Armendi/123456/14103
-#EXTINF:-1 tvg-id="" tvg-name="Ks Premier 2" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Ks Premier 2
-http://premium.luginaiptv.com:8000/Armendi/123456/14104
-#EXTINF:-1 tvg-id="" tvg-name="Ks Premier 3" tvg-logo=" https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Ks Premier 3
-http://premium.luginaiptv.com:8000/Armendi/123456/14105
-#EXTINF:-1 tvg-id="" tvg-name="Ks Premier 4" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",Ks Premier 4
-http://premium.luginaiptv.com:8000/Armendi/123456/14106
-#EXTINF:-1 tvg-id="" tvg-name="KS Comedy HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",KS Comedy HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14107
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Net.flix 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Net.flix 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14108
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Net.flix 2 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Net.flix 2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14109
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Net.flix 3 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Net.flix 3 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14110
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Film Shqip  HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Film Shqip  HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14111
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Cinema HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Cinema HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14112
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Schwarzenegger HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Schwarzenegger HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14113
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Horror  HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Horror  HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14114
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Jackie Chan HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Jackie Chan HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14115
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Jurassic Park HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Jurassic Park HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14116
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Action HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Action HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14117
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Comedy HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Comedy HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14118
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Fast and Furious HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Fast and Furious HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14119
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Halo HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Halo HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14120
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Bruce Lee HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Bruce Lee HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14121
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Masha & Bear  HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Masha & Bear  HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14122
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Hetuesia HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Hetuesia HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14123
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Qumili 2022 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Qumili 2022 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14124
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Fara e Flliqt HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Fara e Flliqt HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14125
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Mixha Bibe & Martin HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: L-Star Mixha Bibe & Martin HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14126
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Muzik HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Muzik HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14127
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Action HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Action HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14128
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Komedi HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Komedi HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14129
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Thriller HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Thriller HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14130
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Drame HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Drame HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14131
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Humor HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Humor HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14132
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Masha Bear HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Masha Bear HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14133
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova ChuChu TV HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova ChuChu TV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14134
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova BBF HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova BBF HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14135
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova Cifteli" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova Cifteli
-http://premium.luginaiptv.com:8000/Armendi/123456/14136
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tetova popullore HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: Tetova popullore HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14137
-#EXTINF:-1 tvg-id="" tvg-name="AL: E MIRTV FILM 1 HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: E MIRTV FILM 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14138
-#EXTINF:-1 tvg-id="" tvg-name="AL: E MIRTV FILM ACTION HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: E MIRTV FILM ACTION HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14139
-#EXTINF:-1 tvg-id="" tvg-name="AL: E MIRTV FILM HITS HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: E MIRTV FILM HITS HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14140
-#EXTINF:-1 tvg-id="" tvg-name="AL: E MIRTV DOKUMENTAR HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: E MIRTV DOKUMENTAR HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14141
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALBFLIX TRESHI PERSHESHI 80s SD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: ALBFLIX TRESHI PERSHESHI 80s SD
-http://premium.luginaiptv.com:8000/Armendi/123456/14142
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALBFLIX KAFENEJA JONHD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: ALBFLIX KAFENEJA JONHD
-http://premium.luginaiptv.com:8000/Armendi/123456/14143
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALBFLIX STUPCAT" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: ALBFLIX STUPCAT
-http://premium.luginaiptv.com:8000/Armendi/123456/14144
-#EXTINF:-1 tvg-id="" tvg-name="AL: LionTV Humore HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: LionTV Humore HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14145
-#EXTINF:-1 tvg-id="" tvg-name="AL: LionTV Stupcat HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: LionTV Stupcat HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14146
-#EXTINF:-1 tvg-id="" tvg-name="AL: LionTV Humor HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: LionTV Humor HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14147
-#EXTINF:-1 tvg-id="" tvg-name="AL: LionTV Parlamenti HD" tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",AL: LionTV Parlamenti HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14148
-#EXTINF:-1 tvg-id="" tvg-name="ZDF Neo HD" tvg-logo="https://luginaiptv.com/logo/ZDFneo.png" group-title="Kanale Gjermane",ZDF Neo HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14149
-#EXTINF:-1 tvg-id="" tvg-name="El-Kalem" tvg-logo="" group-title="Kanale Islame",El-Kalem
-http://premium.luginaiptv.com:8000/Armendi/123456/14175
-#EXTINF:-1 tvg-id="" tvg-name="TV5 islam HD" tvg-logo="" group-title="Kanale Islame",TV5 islam HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14180
-#EXTINF:-1 tvg-id="" tvg-name="ALB Muslim HD" tvg-logo="" group-title="Kanale Islame",ALB Muslim HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14179
-#EXTINF:-1 tvg-id="" tvg-name="Tele One HD" tvg-logo="" group-title="Kanale Islame",Tele One HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14178
-#EXTINF:-1 tvg-id="" tvg-name="RTV 1 HD" tvg-logo="" group-title="Kanale Islame",RTV 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/14177
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Ilahi HD ::." tvg-logo="http://luginaiptv.com/logo/luginaLOGO.png" group-title="Kanale Islame",.:: Lugina Ilahi HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14204
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Pooullore HD ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Pooullore HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14205
-#EXTINF:-1 tvg-id="" tvg-name=".:: Jetimat E Ballkanit ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Jetimat E Ballkanit ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14206
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Kino DE ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Kino DE ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14207
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Prank ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Prank ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14208
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Islam 2 HD ::." tvg-logo="http://luginaiptv.com/logo/luginaLOGO.png" group-title="Kanale Islame",.:: Lugina Islam 2 HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14209
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Islam HD ::." tvg-logo="http://luginaiptv.com/logo/luginaLOGO.png" group-title="Kanale Islame",.:: Lugina Islam HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14210
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Serial Full HD ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Serial Full HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14211
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Film HD ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Film HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14212
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Kids ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Kids ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14213
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Film Shqiptar ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Film Shqiptar ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14214
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Serial TR ::." tvg-logo="https://luginaiptv.com/NewLogo/LuginaIPTVOFFICIAL2.png" group-title="Kanale Shqip",.:: Lugina Serial TR ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14215
-#EXTINF:-1 tvg-id="" tvg-name=".:: Lugina Kuran HD ::." tvg-logo="http://luginaiptv.com/logo/luginaLOGO.png" group-title="Kanale Islame",.:: Lugina Kuran HD ::.
-http://premium.luginaiptv.com:8000/Armendi/123456/14216
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 1
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 2
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 3" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 3
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 4" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 4
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 5" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 5
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 6" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 6
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 7" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 7
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 8" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 8
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 9" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 9
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 10" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 10
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 11" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 11
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 12" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 12
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 13" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 13
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 14" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 14
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 15" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 15
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 16" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 16
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 17" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 17
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 18" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 18
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 19" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 19
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rrushe - Episodi 20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8xDIO9Dqa6ZXQJUeRtNIpXQOoB.jpg" group-title="Rrushe",Rrushe - Episodi 20
-http://premium.luginaiptv.com:8000/movie/Armendi/123456/14236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SRF 1 HD" tvg-logo="https://luginaiptv.com/logo/srf_1_ch_hd.png" group-title="Kanale Gjermane",SRF 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/15491
+#EXTINF:-1,-= Srbija/Crna Gora =-
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/19348
+
+#EXTINF:-1,Arena Fight FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103873
+
+#EXTINF:-1,B92 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/62367
+
+#EXTINF:-1,B92 FHD RS [B]
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41418
+
+#EXTINF:-1,B92 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103783
+
+#EXTINF:-1,BBC Earth FHD RS [Multi-Sub]
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/141739
+
+#EXTINF:-1,Balkanika HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/22419
+
+#EXTINF:-1,Belle Amie RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107278
+
+#EXTINF:-1,Bravo Music RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107284
+
+#EXTINF:-1,Cinemania FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/38751
+
+#EXTINF:-1,City Play RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107286
+
+#EXTINF:-1,Discovery Channel FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36841
+
+#EXTINF:-1,Discovery Science HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/38736
+
+#EXTINF:-1,DM SAT HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103784
+
+#EXTINF:-1,DM Sat RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8955
+
+#EXTINF:-1,Duga Plus TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8957
+
+#EXTINF:-1,Duga TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103785
+
+#EXTINF:-1,Film Klub Extra RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41433
+
+#EXTINF:-1,Film Klub RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41431
+
+#EXTINF:-1,Filmbox Extra RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8996
+
+#EXTINF:-1,Grand TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/16711
+
+#EXTINF:-1,Grand 2 TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/51805
+
+#EXTINF:-1,Happy Reality 1 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107294
+
+#EXTINF:-1,Happy Reality 2 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107295
+
+#EXTINF:-1,Masha & Medo HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/111199
+
+#EXTINF:-1,Happy TV HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103786
+
+#EXTINF:-1,Happy TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8836
+
+#EXTINF:-1,HBO HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8988
+
+#EXTINF:-1,HBO 2 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/39404
+
+#EXTINF:-1,HBO 2 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8991
+
+#EXTINF:-1,HBO 3 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/39403
+
+#EXTINF:-1,HBO 3 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8989
+
+#EXTINF:-1,TV Gora Select 1 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464941
+
+#EXTINF:-1,TV Gora Select 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464942
+
+#EXTINF:-1,TV Gora Select 3 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464943
+
+#EXTINF:-1,TV Gora Select 4 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464944
+
+#EXTINF:-1,TV Gora Select 5 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464945
+
+#EXTINF:-1,TV Gora Select 6 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464946
+
+#EXTINF:-1,TV Gora Select 7 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464947
+
+#EXTINF:-1,TV Gora Select 8 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464948
+
+#EXTINF:-1,TV Gora Select 9 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464949
+
+#EXTINF:-1,TV Gora Select 10 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/464950
+
+#EXTINF:-1,Cinematic Comedy HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/197107
+
+#EXTINF:-1,Cinematic Crime HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/197108
+
+#EXTINF:-1,Cinematic Drama HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/197109
+
+#EXTINF:-1,Cinematic Thriller HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/197110
+
+#EXTINF:-1,Cinematic War HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/197111
+
+#EXTINF:-1,History Channel FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29396
+
+#EXTINF:-1,History RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36899
+
+#EXTINF:-1,H2 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/30433
+
+#EXTINF:-1,IDJ TV FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36696
+
+#EXTINF:-1,KCN 1 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103787
+
+#EXTINF:-1,KCN 1 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29857
+
+#EXTINF:-1,KCN 2 Music HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103788
+
+#EXTINF:-1,KCN 2 Music RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29856
+
+#EXTINF:-1,K1 Televizija RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/134110
+
+#EXTINF:-1,Kreator TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/113932
+
+#EXTINF:-1,Kurir HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/62370
+
+#EXTINF:-1,Minimax RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8850
+
+#EXTINF:-1,N1 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/50015
+
+#EXTINF:-1,Nova S HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/22030
+
+#EXTINF:-1,Nova S HD RS [B]
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/49110
+
+#EXTINF:-1,Palma Plus RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/28031
+
+#EXTINF:-1,Partizan TV HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/38247
+
+#EXTINF:-1,Pickbox HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/52635
+
+#EXTINF:-1,Pikaboo RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/38740
+
+#EXTINF:-1,RED TV HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103782
+
+#EXTINF:-1,RED TV FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9046
+
+#EXTINF:-1,Pink FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8864
+
+#EXTINF:-1,Pink RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/79517
+
+#EXTINF:-1,Pink BH RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29309
+
+#EXTINF:-1,Pink Plus HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103757
+
+#EXTINF:-1,Pink Plus RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9038
+
+#EXTINF:-1,Pink Action HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107318
+
+#EXTINF:-1,Pink Action RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9035
+
+#EXTINF:-1,Pink And Roll HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107319
+
+#EXTINF:-1,Pink And Roll RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8863
+
+#EXTINF:-1,Pink Classic HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107320
+
+#EXTINF:-1,Pink Classic RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41437
+
+#EXTINF:-1,Pink Comedy HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107321
+
+#EXTINF:-1,Pink Crime & Mistery HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107322
+
+#EXTINF:-1,Pink Crime & Mystery RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9029
+
+#EXTINF:-1,Pink Extra HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107323
+
+#EXTINF:-1,Pink Extra RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9037
+
+#EXTINF:-1,Pink Family HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107324
+
+#EXTINF:-1,Pink Fashion HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107325
+
+#EXTINF:-1,Pink Film HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107326
+
+#EXTINF:-1,Pink Film RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9030
+
+#EXTINF:-1,Pink Folk 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103744
+
+#EXTINF:-1,Pink Folk 2 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/51804
+
+#EXTINF:-1,Pink Folk HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107327
+
+#EXTINF:-1,Pink Folk RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9012
+
+#EXTINF:-1,Pink HA HA HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103745
+
+#EXTINF:-1,Pink HA HA RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/25371
+
+#EXTINF:-1,Pink Hits 1 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103746
+
+#EXTINF:-1,Pink Hits 1 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/25372
+
+#EXTINF:-1,Pink Hits 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103747
+
+#EXTINF:-1,Pink Hits 2 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/25373
+
+#EXTINF:-1,Pink Horror HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103748
+
+#EXTINF:-1,Pink Horror RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9023
+
+#EXTINF:-1,Pink Kids HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103749
+
+#EXTINF:-1,Pink Kids RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8985
+
+#EXTINF:-1,Pink Koncert HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103750
+
+#EXTINF:-1,Pink Koncert RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9017
+
+#EXTINF:-1,Pink Kuvar HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103751
+
+#EXTINF:-1,Pink Kuvar RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9018
+
+#EXTINF:-1,Pink LOL HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103752
+
+#EXTINF:-1,Pink LOL RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/25374
+
+#EXTINF:-1,Pink Movies HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103753
+
+#EXTINF:-1,Pink Movies RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9032
+
+#EXTINF:-1,Pink Music 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103755
+
+#EXTINF:-1,Pink Music HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103754
+
+#EXTINF:-1,Pink Music RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9015
+
+#EXTINF:-1,Pink Pedia HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103756
+
+#EXTINF:-1,Pink Pedia RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9019
+
+#EXTINF:-1,Pink Premium HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103758
+
+#EXTINF:-1,Pink Reality HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103759
+
+#EXTINF:-1,Pink Reality RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9039
+
+#EXTINF:-1,Pink Romance HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103760
+
+#EXTINF:-1,Pink Romance RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9025
+
+#EXTINF:-1,Pink Sci-Fi & Fantasy HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103761
+
+#EXTINF:-1,Pink Serije HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103762
+
+#EXTINF:-1,Pink Serije RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9021
+
+#EXTINF:-1,Pink Show HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103763
+
+#EXTINF:-1,Pink Soap HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103764
+
+#EXTINF:-1,Pink Soap RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9022
+
+#EXTINF:-1,Pink Style HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103765
+
+#EXTINF:-1,Pink Style RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/25375
+
+#EXTINF:-1,Pink Super Kids HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103766
+
+#EXTINF:-1,Pink Super Kids RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/25376
+
+#EXTINF:-1,Pink Thriller HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103767
+
+#EXTINF:-1,Pink Western HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103769
+
+#EXTINF:-1,Pink World Cinema HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103771
+
+#EXTINF:-1,Pink World Cinema RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8950
+
+#EXTINF:-1,Pink World HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103770
+
+#EXTINF:-1,Pink World RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9020
+
+#EXTINF:-1,Pink Zabava HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103772
+
+#EXTINF:-1,Pink Zabava RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9036
+
+#EXTINF:-1,Vesti HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/451540
+
+#EXTINF:-1,Prva TV HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/49108
+
+#EXTINF:-1,Prva TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/28025
+
+#EXTINF:-1,Prva Plus RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/28027
+
+#EXTINF:-1,Prva Kick FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103791
+
+#EXTINF:-1,Prva Kick RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/28024
+
+#EXTINF:-1,Prva MAX FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8879
+
+#EXTINF:-1,Prva MAX HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103792
+
+#EXTINF:-1,Prva World HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/28026
+
+#EXTINF:-1,Prva World RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107357
+
+#EXTINF:-1,Roma TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8906
+
+#EXTINF:-1,RTS 1 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/39107
+
+#EXTINF:-1,RTS 1 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8979
+
+#EXTINF:-1,RTS 2 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/39106
+
+#EXTINF:-1,RTS 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8977
+
+#EXTINF:-1,RTS 3 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8976
+
+#EXTINF:-1,RTS 3 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107364
+
+#EXTINF:-1,RTS Drama HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103793
+
+#EXTINF:-1,RTS Drama RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/32891
+
+#EXTINF:-1,RTS Kolo RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41421
+
+#EXTINF:-1,RTS Muzika RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41423
+
+#EXTINF:-1,RTS Svet FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/32893
+
+#EXTINF:-1,RTS Svet RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107362
+
+#EXTINF:-1,RTS Trezor RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41422
+
+#EXTINF:-1,RTS Trezor RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107363
+
+#EXTINF:-1,RTS Život RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/32892
+
+#EXTINF:-1,RTV Novi Pazar RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36464
+
+#EXTINF:-1,Sandzak TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29852
+
+#EXTINF:-1,Sandzak TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8889
+
+#EXTINF:-1,RTV Vojvodina 1 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/28030
+
+#EXTINF:-1,RTV Vojvodina 1 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36898
+
+#EXTINF:-1,RTV Vojvodina 2 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/28029
+
+#EXTINF:-1,SOS Kanal Plus RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29851
+
+#EXTINF:-1,Star TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103860
+
+#EXTINF:-1,Superstar TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/37577
+
+#EXTINF:-1,Studio B RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/38249
+
+#EXTINF:-1,TNT Kids RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36901
+
+#EXTINF:-1,Toxic TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103864
+
+#EXTINF:-1,TV Hram HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107297
+
+#EXTINF:-1,TV Hram RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/38248
+
+#EXTINF:-1,TV Istok RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/37544
+
+#EXTINF:-1,TV Jefimija RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103847
+
+#EXTINF:-1,TV Jefimija TV HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29853
+
+#EXTINF:-1,TV Kraljevo RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/37845
+
+#EXTINF:-1,VH1 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36900
+
+#EXTINF:-1,Woman RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/36896
+
+#EXTINF:-1,Yu Planet TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/33029
+
+#EXTINF:-1,Zvezda TV RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103875
+
+#EXTINF:-1,RTCG FHD MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14100
+
+#EXTINF:-1,RTCG HD MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103777
+
+#EXTINF:-1,RTCG Sat MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14098
+
+#EXTINF:-1,RTCG 2 MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14099
+
+#EXTINF:-1,Nova M MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/24723
+
+#EXTINF:-1,Nova M MNE [B]
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/49111
+
+#EXTINF:-1,Prva TV CG MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8971
+
+#EXTINF:-1,TV Vijesti HD MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/103778
+
+#EXTINF:-1,TV Vijesti MNE
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8903
+
+#EXTINF:-1,-= EX-YU Sport =-
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/19349
+
+#EXTINF:-1,Arena Sport BiH 1 BA
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107272
+
+#EXTINF:-1,Moja TV Sport (Arena) HD BA
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/33812
+
+#EXTINF:-1,Nova Sport FHD BA
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/50035
+
+#EXTINF:-1,Nova Sport HD BA
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/49965
+
+#EXTINF:-1,Arena Sport 1 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41396
+
+#EXTINF:-1,Arena Sport 1 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/102548
+
+#EXTINF:-1,Arena Sport 2 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41395
+
+#EXTINF:-1,Arena Sport 2 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/102549
+
+#EXTINF:-1,Arena Sport 3 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41394
+
+#EXTINF:-1,Arena Sport 3 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/102550
+
+#EXTINF:-1,Arena Sport 4 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41393
+
+#EXTINF:-1,Arena Sport 4 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/102551
+
+#EXTINF:-1,Arena Sport 5 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/102552
+
+#EXTINF:-1,Arena Sport 6 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9727
+
+#EXTINF:-1,Arena Sport 7 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/123592
+
+#EXTINF:-1,Arena Sport 8 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/123593
+
+#EXTINF:-1,Arena Sport 9 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/123594
+
+#EXTINF:-1,Arena Sport 10 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/123595
+
+#EXTINF:-1,Extreme Sports HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/102559
+
+#EXTINF:-1,Planet Sport 1 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29403
+
+#EXTINF:-1,Max Sport 1 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/332611
+
+#EXTINF:-1,Max Sport 2 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/332612
+
+#EXTINF:-1,Sport Klub 1 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14103
+
+#EXTINF:-1,Sport Klub 2 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14102
+
+#EXTINF:-1,Sport Klub 3 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14101
+
+#EXTINF:-1,Sport Klub 4 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14097
+
+#EXTINF:-1,Sport Klub 5 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14096
+
+#EXTINF:-1,Sport Klub 6 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/14095
+
+#EXTINF:-1,Sport Klub 9 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29272
+
+#EXTINF:-1,Sport Klub 10 HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29271
+
+#EXTINF:-1,Sportklub 1 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41383
+
+#EXTINF:-1,Sportklub 2 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41382
+
+#EXTINF:-1,Sportklub 3 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41381
+
+#EXTINF:-1,Sportklub 4 FHD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41380
+
+#EXTINF:-1,Sportklub 5 HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41379
+
+#EXTINF:-1,Sportklub 6 HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41378
+
+#EXTINF:-1,Sportklub Golf HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/41377
+
+#EXTINF:-1,Sportska TV HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/102593
+
+#EXTINF:-1,Sportska TV HD HR
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/107383
+
+#EXTINF:-1,Arena Sport 1 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9726
+
+#EXTINF:-1,Arena Sport 1 (Backup) RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9725
+
+#EXTINF:-1,Arena Sport 1 Premium FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/130979
+
+#EXTINF:-1,Arena Sport 2 Premium FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/130980
+
+#EXTINF:-1,Arena Sport 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9724
+
+#EXTINF:-1,Arena Sport 2 (Backup) RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9723
+
+#EXTINF:-1,Arena Sport 3 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9722
+
+#EXTINF:-1,Arena Sport 3 (Backup) RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9721
+
+#EXTINF:-1,Arena Sport 3 Premium FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/130981
+
+#EXTINF:-1,Arena Sport 4 (Backup) RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9719
+
+#EXTINF:-1,Arena Sport 4 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9720
+
+#EXTINF:-1,Arena Sport 5 (Backup) RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9717
+
+#EXTINF:-1,Arena Sport 5 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/9718
+
+#EXTINF:-1,Arena Sport 6 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/123623
+
+#EXTINF:-1,Arena Sport 7 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/123624
+
+#EXTINF:-1,Arena Sport 8 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/123625
+
+#EXTINF:-1,Eurosport 1 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8986
+
+#EXTINF:-1,Eurosport 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/8987
+
+#EXTINF:-1,Sport Klub 1 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29935
+
+#EXTINF:-1,Sport Klub 1 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29938
+
+#EXTINF:-1,Sport Klub 2 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29934
+
+#EXTINF:-1,Sport Klub 2 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29937
+
+#EXTINF:-1,Sport Klub 3 HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29933
+
+#EXTINF:-1,Sport Klub 3 FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29936
+
+#EXTINF:-1,Sport Klub 4  RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29932
+
+#EXTINF:-1,Sport Klub 5  RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29931
+
+#EXTINF:-1,Sport Klub 6 RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29930
+
+#EXTINF:-1,Sport Klub FHD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29929
+
+#EXTINF:-1,Sport Klub Golf HD RS
+http://iptvworld.xyz:2095/ffSF3F61G/tGW5gGrM35/29928
